@@ -2,6 +2,23 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
+{
+    "authorname" : "AdaptableRTA",
+    "iconpack" : "Whicons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.whicons.iconpack",
+    "image" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/39.jpg",
+    "kustom" : "kwgt : ",
+    "launcher" : "Niagara launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+    "source" : "https://t.me/ProScreens",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/39.jpg",
+    "title" : "Red",
+    "wallpaper" : "Imgur",
+    "wallpapername" : "Red",
+    "wallpaperurl" : "https://i.imgur.com/awSvvIJ.png",
+    "widget" : "Nebbia kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=nebbiakwgt.kustom.pack"
+  },
     {
     "authorname" : "Sangam",
     "iconpack" : "Diligent Icons",
