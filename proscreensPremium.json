@@ -1,6 +1,4 @@
-{
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
+
   "setups": [
     {
     "authorname" : "iambavith",
@@ -37,4 +35,4 @@
     "widget" : "Fuchsia kwgt",
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ]
-}
+
