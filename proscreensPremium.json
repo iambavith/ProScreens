@@ -551,8 +551,9 @@
     "widget" : "Fuchsia kwgt",
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   }
-  ],
-"amoled" : [{"authorname" : "iambavith",
+  ]
+"amoled" : [
+  {"authorname" : "iambavith",
     "iconpack" : "Viola",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.bousrih.viola",
     "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/2.jpg",
@@ -567,5 +568,6 @@
     "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
     "widget" : "Fuchsia kwgt",
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
-  }]
+  }
+]
 }
