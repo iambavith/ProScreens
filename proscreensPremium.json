@@ -551,5 +551,21 @@
     "widget" : "Fuchsia kwgt",
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   }
-  ]
+  ],
+"amoled" : [{"authorname" : "iambavith",
+    "iconpack" : "Viola",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.bousrih.viola",
+    "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/2.jpg",
+    "kustom" : "kwgt : ",
+    "launcher" : "Nova",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "source" : "https://twitter.com/iambavith",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/2.jpg",
+    "title" : "Dope Lake",
+    "wallpaper" : "Unusual Wallpapers",
+    "wallpapername" : "Wallpaper 413",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+    "widget" : "Fuchsia kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+  }]
 }
