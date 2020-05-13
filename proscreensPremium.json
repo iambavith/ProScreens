@@ -1,4 +1,4 @@
-
+{
   "setups": [
     {
     "authorname" : "iambavith",
@@ -35,4 +35,4 @@
     "widget" : "Fuchsia kwgt",
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ]
-
+}
