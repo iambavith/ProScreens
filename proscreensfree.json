@@ -614,7 +614,7 @@
   }, {
     "authorname" : "RC Setup",
     "iconpack" : "Phosphor Carbon",
-    "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.mercury",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
     "image" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/9.jpg",
     "kustom" : "kwgt : ",
     "launcher" : "Nova",
@@ -678,10 +678,10 @@
   }, {
     "authorname" : "iambavith",
     "iconpack" : "Gruvy",
-    "iconurl" : "https://play.google.com/store/apps/details?id=com.bousrih.viola",
+    "iconurl" : "https://play.google.com/store/apps/details?id=izzl.gruvy.pack",
     "image" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/4.jpg",
     "kustom" : "kwgt : ",
-    "launcher" : "Nova",
+    "launcher" : "Nova Launcher",
     "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
     "source" : "https://twitter.com/iambavith",
     "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/4.jpg",
