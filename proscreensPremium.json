@@ -4,6 +4,74 @@
   "setups": [
     {
       "authorname" : "Santhosh",
+      "iconpack" : "Athena Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/66.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/66.jpg",
+      "title" : "Athena Setup",
+      "wallpaper" : "Athena Icon pack",
+      "wallpapername" : "Wallpaper 9",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+      "widget" : "Watermelon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Frozy Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.Fraom.Frozy",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/65.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/65.jpg",
+      "title" : "Sup Bro",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Sup Bro",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Lineage KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lineagekwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Cavion Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/64.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/64.jpg",
+      "title" : "Deer",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Deer",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Piscis w KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=pisciswkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Phosphor Carbon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/63.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/63.jpg",
+      "title" : "Minimal Green",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Keep Cool",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Flawless KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
       "iconpack" : "Bladient Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient&hl=en_IN",
       "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/62.jpg",
@@ -827,6 +895,22 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Santhosh",
+  "iconpack" : "Cavion Icons",
+  "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+  "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/64.jpg",
+  "kustom" : "kwgt : ",
+  "launcher" : "Lawnchair",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+  "source" : "https://t.me/ProScreens",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/64.jpg",
+  "title" : "Deer",
+  "wallpaper" : "Walli",
+  "wallpapername" : "Deer",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+  "widget" : "Piscis w KWGT",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=pisciswkwgt.kustom.pack"
+},{
   "authorname" : "Anil Kumar",
   "iconpack" : "Bladient Icons",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
@@ -1020,7 +1104,23 @@
       "widget" : "Glance in launcher",
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
-    "minimal" : [{
+    "minimal" : [    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Phosphor Carbon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/63.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/63.jpg",
+      "title" : "Minimal Green",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Keep Cool",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Flawless KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+    },{
       "authorname" : "Santhosh",
       "iconpack" : "After Glow",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.afterglowfree",
@@ -1473,7 +1573,23 @@
       "widget" : "Magic Kwgt",
       "widgeturl" : "https://play.google.com/store/apps/details?id=magicforkwgt.kustom.pack"
     }],
-    "others" : [ {
+    "others" : [{
+      "authorname" : "Santhosh",
+      "iconpack" : "Frozy Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.Fraom.Frozy",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/65.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/65.jpg",
+      "title" : "Sup Bro",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Sup Bro",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Lineage KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lineagekwgt.kustom.pack"
+    },{
       "authorname" : "Santhosh",
       "iconpack" : "Red Flat",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.arandompackage.flatconsred",
@@ -1586,7 +1702,23 @@
       "widget" : "Instinct KWGT",
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
-    "dark" :[    {
+    "dark" :[   {
+      "authorname" : "Santhosh",
+      "iconpack" : "Athena Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/66.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/66.jpg",
+      "title" : "Athena Setup",
+      "wallpaper" : "Athena Icon pack",
+      "wallpapername" : "Wallpaper 9",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+      "widget" : "Watermelon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },{
       "authorname" : "Santhosh",
       "iconpack" : "Bladient Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient&hl=en_IN",
