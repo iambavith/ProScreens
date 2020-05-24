@@ -3,6 +3,57 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "Anil Kumar",
+      "iconpack" : "Gladient Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/69.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/69.jpg",
+      "title" : "Amoled Flowers",
+      "wallpaper" : "Unusual Wallpapers",
+      "wallpapername" : "Wallpaper 510",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+      "widget" : "Spiffy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Gladient Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/68.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Niagara Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/68.jpg",
+      "title" : "Sea",
+      "wallpaper" : "Walli",
+      "wallpapername" : "land & Sea",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Frizzy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+    },
+    {
+      "authorname" : "Nano",
+      "iconpack" : "Phosphor Cadmium",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/67.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/67.jpg",
+      "title" : "Dark Car",
+      "wallpaper" : "4k Wallpapers",
+      "wallpapername" : "Dark Car",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.in.hdwallpapersapp",
+      "widget" : "Magenta KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
+    },
+    {
       "authorname" : "Santhosh",
       "iconpack" : "Athena Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
@@ -895,6 +946,22 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Anil Kumar",
+  "iconpack" : "Gladient Icons",
+  "iconurl" : "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+  "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/69.jpg",
+  "kustom" : "kwgt : ",
+  "launcher" : "Nova Launcher",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+  "source" : "https://t.me/ProScreens",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/69.jpg",
+  "title" : "Amoled Flowers",
+  "wallpaper" : "Unusual Wallpapers",
+  "wallpapername" : "Wallpaper 510",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+  "widget" : "Spiffy KWGT",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+},{
   "authorname" : "Santhosh",
   "iconpack" : "Cavion Icons",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
@@ -1379,7 +1446,23 @@
       "widget" : "No widgets",
       "widgeturl" : "https://play.google.com/store"
     }],
-    "nature" :[ {
+    "nature" :[{
+      "authorname" : "Santhosh",
+      "iconpack" : "Gladient Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/68.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Niagara Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/68.jpg",
+      "title" : "Sea",
+      "wallpaper" : "Walli",
+      "wallpapername" : "land & Sea",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Frizzy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+    },{
       "authorname" : "Mani",
       "iconpack" : "Reev Pro",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
@@ -1702,7 +1785,23 @@
       "widget" : "Instinct KWGT",
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
-    "dark" :[   {
+    "dark" :[ {
+      "authorname" : "Nano",
+      "iconpack" : "Phosphor Cadmium",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/67.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/67.jpg",
+      "title" : "Dark Car",
+      "wallpaper" : "4k Wallpapers",
+      "wallpapername" : "Dark Car",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.in.hdwallpapersapp",
+      "widget" : "Magenta KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
+    },{
       "authorname" : "Santhosh",
       "iconpack" : "Athena Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
