@@ -1,4 +1,31 @@
-{
+{ 
+"trending": [
+            {
+		"name": "Little house 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/548.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+              {
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},{
+		"name": "Little house 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	}],
   "Wallpapers": [
 {
 		"name": "Pelican Bird 2",
@@ -110,11 +137,11 @@
 	
 	
 	}],
-     "trending": [
+     "Amoled": [
             {
 		"name": "Little house 2",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/548.png",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/525.png",
                 "downloadable": true,
                 "collections": "ILLUSTRATION"
 	
@@ -123,7 +150,7 @@
               {
 		"name": "Pelican Bird 2",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/524.png",
                 "downloadable": true,
                 "collections": "ILLUSTRATION"
 	
@@ -131,7 +158,88 @@
 	},{
 		"name": "Little house 1",
 		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/526.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	}],
+"minimal": [
+            {
+		"name": "Little house 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/528.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+              {
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/529.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},{
+		"name": "Little house 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/530.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	}],
+"illustration": [
+            {
+		"name": "Little house 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/538.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+              {
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/539.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},{
+		"name": "Little house 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/540.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	}],
+"pattern": [
+            {
+		"name": "Little house 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/541.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+              {
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/542.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},{
+		"name": "Little house 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/543.png",
                 "downloadable": true,
                 "collections": "ILLUSTRATION"
 	
