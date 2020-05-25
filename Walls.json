@@ -1,6 +1,4 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
   "Wallpapers": [
 {
 		"name": "Pelican Bird 2",
@@ -104,6 +102,33 @@
 
 
 {
+		"name": "Little house 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	}],
+     "trending": [
+            {
+		"name": "Little house 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/548.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},
+              {
+		"name": "Pelican Bird 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
+                "downloadable": true,
+                "collections": "ILLUSTRATION"
+	
+	
+	},{
 		"name": "Little house 1",
 		"author": "iambavith",
 		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
