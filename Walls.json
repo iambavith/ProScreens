@@ -1,248 +1,200 @@
-{ 
-"trending": [
-            {
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/548.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-              {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}],
-  "Wallpapers": [
 {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-   {
-		"name": "Pelican Bird 3",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/555.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-   {
-		"name": "Pelican Bird 3",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/555.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
+    "trending": [
+        {
+            "name": "Pelican Bird",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png"
 
-{
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
+        }, {
+            "name": "Little house",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png"
 
-{
-		"name": "Pelican Bird 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/553.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
+        }, {
+            "name": "Lake",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png"
 
+        }, {
+            "name": "Colorful Wave",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/503.png"
 
-{
-		"name": "Amoled Planet 3",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png",
-                "downloadable": true,
-                "collections": "AMOLED"
-	
-	
-	},
+        }, {
+            "name": "Alone Land",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/528.png"
 
-{
-		"name": "Amoled Planet 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/551.png",
-                "downloadable": true,
-                "collections": "AMOLED"
-	
-	
-	},
+        }
+    ],
+    "Wallpapers": [
+        {
+            "name": "Pelican Bird",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png"
 
-{
-		"name": "Amoled Planet 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/550.png",
-                "downloadable": true,
-                "collections": "AMOLED"
-	
-	
-	},
+        }, {
+            "name": "Amoled Pattern",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/556.png"
 
-{
-		"name": "Little house 3",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/549.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
+        }, {
+            "name": "Planet",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png"
 
+        }, {
+            "name": "Android",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/539.png"
 
-{
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/548.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
+        }, {
+            "name": "Alone Land",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/528.png"
 
+        }, {
+            "name": "Flowers",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png"
 
-{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/547.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}],
-     "Amoled": [
-            {
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/525.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-              {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/524.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/526.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}],
-"minimal": [
-            {
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/528.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-              {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/529.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/530.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}],
-"illustration": [
-            {
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/538.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-              {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/539.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/540.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}],
-"pattern": [
-            {
-		"name": "Little house 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/541.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},
-              {
-		"name": "Pelican Bird 2",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/542.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	},{
-		"name": "Little house 1",
-		"author": "iambavith",
-		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/543.png",
-                "downloadable": true,
-                "collections": "ILLUSTRATION"
-	
-	
-	}]
+        }, {
+            "name": "Colorful Wave",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/503.png"
+
+        }, {
+            "name": "Amolde Rings",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/500.png"
+
+        }, {
+            "name": "Material Wall",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/486.png"
+
+        }, {
+            "name": "Amoled Wave",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/411.png"
+
+        }, {
+            "name": "Mountain",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/404.png"
+
+        }, {
+            "name": "Mountain 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/405.png"
+
+        }, {
+            "name": "Spider net",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/395.png"
+
+        }, {
+            "name": "Scenery",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/384.png"
+
+        }, {
+            "name": "Pattern",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/557.png"
+
+        }
+    ],
+    "Amoled": [
+        {
+            "name": "Amoled Pattern",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/556.png"
+
+        }, {
+            "name": "Planet",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/552.png"
+
+        }, {
+            "name": "Amolde Rings",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/500.png"
+
+        }, {
+            "name": "Amoled Wave",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/411.png"
+
+        }
+    ],
+    "minimal": [
+        {
+            "name": "Android",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/539.png"
+
+        }, {
+            "name": "Colorful Wave",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/503.png"
+
+        }, {
+            "name": "Material Wall",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/486.png"
+
+        }, {
+            "name": "Spider net",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/395.png"
+
+        }
+    ],
+    "illustration": [
+        {
+            "name": "Pelican Bird",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png"
+
+        }, {
+            "name": "Alone Land",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/528.png"
+
+        }, {
+            "name": "Flowers",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png"
+
+        }, {
+            "name": "Mountain",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/404.png"
+
+        }, {
+            "name": "Mountain 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/405.png"
+
+        }, {
+            "name": "Scenery",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/384.png"
+
+        }
+    ],
+    "pattern": [
+        {
+            "name": "Amoled Pattern",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/556.png"
+
+        }, {
+            "name": "Pattern",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/557.png"
+
+        }
+    ]
 }
