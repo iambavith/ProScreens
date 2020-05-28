@@ -1,7 +1,57 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "setups": [
+  "setups": [{
+    "authorname" : "Mani",
+    "iconpack" : "Pix Material Colors",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color",
+    "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/75.jpg",
+    "kustom" : "kwgt : ",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "source" : "https://t.me/ProScreens",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/75.jpg",
+    "title" : "Nature",
+    "wallpaper" : "Walli",
+    "wallpapername" : "Sunset Gray",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+    "widget" : "Alchemy KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=alchemyforkwgt.kustom.pack"
+  },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Viola Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.bousrih.viola",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/74.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/74.jpg",
+      "title" : "Nature",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Misty Hills",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Pixxy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=pixxy.kustom.pack"
+    },
+    {
+      "authorname" : "Santhosh",
+      "iconpack" : "Worst Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.worst",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/73.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/73.jpg",
+      "title" : "Joystick",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Play",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Velvet KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.stach.vui"
+    },
     {
       "authorname" : "Santhosh",
       "iconpack" : "Crayon Icons",
@@ -1222,7 +1272,23 @@
       "widget" : "Glance in launcher",
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
-    "minimal" : [  {
+    "minimal" : [ {
+      "authorname" : "Santhosh",
+      "iconpack" : "Worst Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.worst",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/73.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/73.jpg",
+      "title" : "Joystick",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Play",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Velvet KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.stach.vui"
+    }, {
       "authorname" : "Santhosh",
       "iconpack" : "Crayon Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
@@ -1530,6 +1596,22 @@
       "widgeturl" : "https://play.google.com/store"
     }],
     "nature" :[{
+      "authorname" : "Santhosh",
+      "iconpack" : "Viola Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.bousrih.viola",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/74.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/74.jpg",
+      "title" : "Nature",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Misty Hills",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Pixxy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=pixxy.kustom.pack"
+    },{
       "authorname" : "Santhosh",
       "iconpack" : "Caelus White",
       "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caeluswhite",
@@ -1885,6 +1967,22 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[ {
+      "authorname" : "Mani",
+      "iconpack" : "Pix Material Colors",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color",
+      "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/75.jpg",
+      "kustom" : "kwgt : ",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "source" : "https://t.me/ProScreens",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/75.jpg",
+      "title" : "Nature",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Sunset Gray",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+      "widget" : "Alchemy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=alchemyforkwgt.kustom.pack"
+    },{
       "authorname" : "Nano",
       "iconpack" : "Phosphor Cadmium",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
