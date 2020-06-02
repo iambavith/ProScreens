@@ -1,5 +1,7 @@
+{
 contest : [
 {
-appname : "whalepapers"
+"appname" : "whalepapers"
 }
 ]
+}
