@@ -1,8 +1,60 @@
 {
- "contest" : [
-{
-"appname" : "whalepapers",
-"url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro"
-}
-]
+    "contest": [
+        {
+            "appname": "whalepapers",
+            "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro"
+        }
+    ],
+
+    "winners" : [
+        {
+            "authorname" : "Santhosh",
+            "iconpack" : "Frozy Icons",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.Fraom.Frozy",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/82.jpg",
+            "kustom" : "kwgt : ",
+            "launcher" : "Nova Launcher",
+            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "source" : "https://t.me/ProScreens",
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/82.jpg",
+            "title" : "Dino",
+            "wallpaper" : "Walli",
+            "wallpapername" : "Dino cool",
+            "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+            "widget" : "Circus kwgt",
+            "widgeturl" : "https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack"
+          },{
+            "authorname" : "Yudhajit",
+            "iconpack" : "PixMaterial Color",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/81.jpg",
+            "kustom" : "kwgt : ",
+            "launcher" : "Lawnchair",
+            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "source" : "https://t.me/ProScreens",
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/81.jpg",
+            "title" : "Mac Book",
+            "wallpaper" : "Pix Walls",
+            "wallpapername" : "Illustration Mackbook",
+            "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.sreeragag.pixwalls",
+            "widget" : "PixMaterial Color",
+            "widgeturl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color"
+          },{
+            "authorname" : "Pratyush",
+            "iconpack" : "Bold Icons",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.bold.icons.flatedge.iconpack",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/80.jpg",
+            "kustom" : "kwgt : ",
+            "launcher" : "Lawnchair",
+            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "source" : "https://t.me/ProScreens",
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/80.jpg",
+            "title" : "Pixel style",
+            "wallpaper" : "Wallrod",
+            "wallpapername" : "Pixel Style 3",
+            "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+            "widget" : "Glace-launcher",
+            "widgeturl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah"
+          }
+    ]
 }
