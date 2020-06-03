@@ -1,17 +1,18 @@
 {
     "news" : [
+	{
+            "avatar" : "https://pbs.twimg.com/profile_images/1194592045739991046/eks0a7HL_400x400.jpg,
+            "image" : "https://pbs.twimg.com/media/EZQc0BzXkAAfwV-?format=jpg&name=small",
+            "title" : "Pix Material Dark Giveaway",
+            "url" : "https://twitter.com/pashapuma1/status/1268165537793585153",
+            "contend" : "Check out Pashapuma's twitter account and get a change to win a code for Pix Material Dark for free."
+          },
         {
             "avatar" : "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
             "image" : "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
             "title" : "Stylish Widgets",
-            "url" : "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
-            "contend" : "In this Iconpack We are taking Google' Material Design guidelines, and applying our own artistic touch! Every icon is a real masterpiece and crafted with lots of time and attention to the tiniest details."
-          },{
-            "avatar" : "https://lh3.googleusercontent.com/8aR158okf36-Q3PHhMwR2-ZIxzIg5Z-oYRo9iVYKLyyxw5MlnIn3sDvVhgekd3ziw00=s180-rw",
-            "image" : "https://lh3.googleusercontent.com/_U7UbU4VBaVACYpESAaW9Ppb79skQgxZfVyO71rsG3K-J7eLdPD99hkjMFxFhRPEag=w720-h310-rw",
-            "title" : "Stylish Widgets",
-            "url" : "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
-            "contend" : "In this Iconpack We are taking Google' Material Design guidelines, and applying our own artistic touch! Every icon is a real masterpiece and crafted with lots of time and attention to the tiniest details."
+            "url" : "https://t.me/stylishwidgets",
+            "contend" : "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free"
           }
     ]
 }
