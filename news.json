@@ -1,6 +1,13 @@
 {
     "news" : [
       {
+        "avatar" : "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
+        "image" : "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
+        "title" : "Resource",
+        "url" : "https://twitter.com/ArrowWalls/status/1266713825836797952",
+        "contend" : "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
+      },
+      {
             "avatar" : "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
             "image" : "https://pbs.twimg.com/media/EZpqcYWXQAAnJ5R?format=jpg&name=large",
             "title" : "Sale",
@@ -29,11 +36,11 @@
             "contend" : "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free"
           },
           {
-            "avatar" : "https://raw.githubusercontent.com/iambavith/Whalepapers-Original/master/Blue.png",
+            "avatar" : "https://lh3.googleusercontent.com/xSNZx6eAPzGtQF8BDg2CVoupnCyoiU2_3Ob9aOiPGkgUZSIc7iGgAbaU7ec37t4DSLCD=s180-rw",
             "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/Promotion.png",
             "title" : "Free Promotion",
-            "url" : "https://t.me/iambavith",
-            "contend" : "Need free promotion for your work? Please contact me on Telegram!"
+            "url" : "https://t.me/ProScreens",
+            "contend" : "Join our telegram group for free promotions"
           }
     ]
 }
