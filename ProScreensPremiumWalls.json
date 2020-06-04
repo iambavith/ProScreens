@@ -1,6 +1,11 @@
 {
     "trending": [
         {
+            "name": "Horse travel",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/567.png"
+        },
+        {
             "name": "Pelican Bird",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png"
@@ -19,14 +24,25 @@
             "name": "Material",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/486.png"
-        },
-        {
-            "name": "Minimal",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/whalepapersoff/master/385.png"
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Minimal curve 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/563.png"
+        },
+    
+    {
+            "name": "Minimal curve 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/562.png"
+        },
+        {
+            "name": "Horse travel",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/567.png"
+        },
         {
             "name": "Pelican Bird",
             "author": "iambavith",
