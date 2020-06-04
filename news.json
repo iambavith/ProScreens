@@ -1,5 +1,12 @@
 {
     "news" : [
+      {
+            "avatar" : "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
+            "image" : "https://pbs.twimg.com/media/EZpqcYWXQAAnJ5R?format=jpg&name=large",
+            "title" : "Sale",
+            "url" : "https://twitter.com/One4Studio/status/1268443703720521730",
+            "contend" : "Athena Dark is on 50% off SALE! Follow Creative Studio 14 on Twitter like and retweet and get a chance win one out of 3 promo codes!"
+          },
         {
             "avatar" : "https://lh3.googleusercontent.com/61iX23pj1Hr75ivaD_Bmo4qN9HZrAc8vB5NekINFOL79yjYPKT0z6GrGzKcOncGjwzY=s180-rw",
             "image" : "https://lh3.googleusercontent.com/-EmOvyqbXdh6Ulf73MDzOJKs9kCzPAzi1s1fi6ssXYOPPQKvXFCTX1l5kPvse0bnulc=w1366-h625-rw",
