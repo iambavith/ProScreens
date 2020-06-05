@@ -1,5 +1,11 @@
 {
     "trending": [
+	
+	{
+		"name": "Water Melon",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/568.png"
+	},
         {
             "name": "Horse travel",
             "author": "iambavith",
@@ -19,14 +25,21 @@
             "name": "Flower",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png"
-        },
-        {
-            "name": "Material",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/486.png"
         }
     ],
     "Wallpapers": [
+
+	{
+		"name": "Water Melon 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/569.png"
+	},
+
+	{
+		"name": "Water Melon 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/568.png"
+	},
         {
             "name": "Minimal curve 2",
             "author": "iambavith",
@@ -320,6 +333,17 @@
         }
     ],
     "minimal": [
+	{
+		"name": "Water Melon 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/569.png"
+	},
+
+	{
+		"name": "Water Melon 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/568.png"
+	},
         {
             "name": "Spider Net",
             "author": "iambavith",
