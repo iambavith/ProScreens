@@ -1,6 +1,13 @@
 {
     "news" : [
       {
+        "avatar" : "https://lh3.googleusercontent.com/uz8eZVsZe73AdEsBJIlef-ij0WC-hF1b2pCbmyu9zHNehjmMLXbIP7WWYDrHtXYZ9c8=w144-h144-n-rw",
+        "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+        "title" : "New Update",
+        "url" : "https://play.google.com/store/apps/details?id=prism.kustom.pack",
+        "contend" : "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
+      },
+      {
         "avatar" : "https://lh3.googleusercontent.com/aJ9wgtz2qw2xQh4u5kOer0Ns4wxZLiGbcRWXexvX9b7CuY0Cfcm2q7-ng18dcBvY3A=w144-h144-n-rw",
         "image" : "https://lh3.googleusercontent.com/yazykvaXkgz2KFQhcm0FAOYQOHccy4kOB_4wu4r3FATAWKeH-OYi4kTOH0Hga_JvHLxD=w2247-h1264-rw",
         "title" : "Free",
@@ -45,7 +52,7 @@
         {
             "avatar" : "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
             "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
-            "title" : "Stylish Widgets",
+            "title" : "Resource",
             "url" : "https://t.me/stylishwidgets",
             "contend" : "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free"
           },
