@@ -1,6 +1,13 @@
 {
     "news" : [
       {
+        "avatar" : "https://pbs.twimg.com/profile_images/1218969110505230337/Bdd23GEM_400x400.jpg",
+        "image" : "https://pbs.twimg.com/media/EYnssHTXsAEnRNQ?format=jpg&name=large",
+        "title" : "Sale",
+        "url" : "https://play.google.com/store/apps/dev?id=5105091404166060566",
+        "contend" : "Amoled Papers, Frosty for KLWP, Wavy for KLWP, Avocado KWGT, Stracta for KLWP and Coffee for KLWP by Charlee Designs is on sale for limited time."
+      },
+      {
         "avatar" : "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
         "image" : "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
         "title" : "Resource",
