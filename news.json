@@ -1,6 +1,13 @@
 {
     "news" : [
       {
+        "avatar" : "https://lh3.googleusercontent.com/aJ9wgtz2qw2xQh4u5kOer0Ns4wxZLiGbcRWXexvX9b7CuY0Cfcm2q7-ng18dcBvY3A=w144-h144-n-rw",
+        "image" : "https://lh3.googleusercontent.com/yazykvaXkgz2KFQhcm0FAOYQOHccy4kOB_4wu4r3FATAWKeH-OYi4kTOH0Hga_JvHLxD=w2247-h1264-rw",
+        "title" : "Free",
+        "url" : "https://play.google.com/store/apps/dev?id=9070296388022589266",
+        "contend" : "All apps by Simple Mobile Tools is now Free for Limited time. Grab it now!"
+      },
+      {
         "avatar" : "https://pbs.twimg.com/profile_images/1218969110505230337/Bdd23GEM_400x400.jpg",
         "image" : "https://pbs.twimg.com/media/EYnssHTXsAEnRNQ?format=jpg&name=large",
         "title" : "Sale",
