@@ -8,21 +8,55 @@
 
     "winners" : [
         {
-            "authorname" : "Winner",
-            "iconpack" : "Frozy Icons",
-            "iconurl" : "https://play.google.com/store/apps/details?id=com.Fraom.Frozy",
-            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/82.jpg",
+            "authorname" : "Santhosh",
+            "iconpack" : "Arete Icons",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.arete_icons.paid",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/88.jpg",
             "kustom" : "kwgt : ",
             "launcher" : "Nova Launcher",
             "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
             "source" : "https://t.me/ProScreens",
-            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/82.jpg",
-            "title" : "Dino",
-            "wallpaper" : "Walli",
-            "wallpapername" : "Dino cool",
-            "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
-            "widget" : "Circus kwgt",
-            "widgeturl" : "https://play.google.com/store/apps/details?id=circusforkwgt.kustom.pack"
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/88.jpg",
+            "title" : "Amoled Slice",
+            "wallpaper" : "Amoledpapers",
+            "wallpapername" : "Slice",
+            "wallpaperurl" : "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
+            "widget" : "Inspire Kwgt",
+            "widgeturl" : "https://play.google.com/store/apps/details?id=inspire.kustom.pack"
+          },
+        {
+            "authorname" : "HC",
+            "iconpack" : "Flora Icons",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/87.jpg",
+            "kustom" : "kwgt : ",
+            "launcher" : "Nova Launcher",
+            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "source" : "https://t.me/ProScreens",
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/87.jpg",
+            "title" : "Abstract",
+            "wallpaper" : "Free wallpapers",
+            "wallpapername" : "Abstract 2",
+            "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.hexoline.fwfgold",
+            "widget" : "ORCA Kwgt",
+            "widgeturl" : "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack"
+          },
+        {
+            "authorname" : "Jason",
+            "iconpack" : "Cavion Icons",
+            "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/86.jpg",
+            "kustom" : "kwgt : ",
+            "launcher" : "Nova Launcher",
+            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+            "source" : "https://t.me/ProScreens",
+            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/86.jpg",
+            "title" : "Abstract",
+            "wallpaper" : "KLWP",
+            "wallpapername" : "Present thumb",
+            "wallpaperurl" : "https://drive.google.com/file/d/1aA3-nKnC8PKGfgMnftUX2IVCo6HGdNWo/view",
+            "widget" : "Custom KLWP",
+            "widgeturl" : "https://drive.google.com/file/d/1aA3-nKnC8PKGfgMnftUX2IVCo6HGdNWo/view"
           }
     ]
 }
