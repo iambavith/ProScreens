@@ -7,23 +7,23 @@
     ],
 
     "winners" : [
-        {
-            "authorname" : "Santhosh",
-            "iconpack" : "Arete Icons",
-            "iconurl" : "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.arete_icons.paid",
-            "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/88.jpg",
-            "kustom" : "kwgt : ",
-            "launcher" : "Nova Launcher",
-            "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
-            "source" : "https://t.me/ProScreens",
-            "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/88.jpg",
-            "title" : "Amoled Slice",
-            "wallpaper" : "Amoledpapers",
-            "wallpapername" : "Slice",
-            "wallpaperurl" : "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
-            "widget" : "Inspire Kwgt",
-            "widgeturl" : "https://play.google.com/store/apps/details?id=inspire.kustom.pack"
-          },
+      {
+        "authorname" : "Musa Kenshin",
+        "iconpack" : "Cavion Icons",
+        "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+        "image" : "https://raw.githubusercontent.com/iambavith/proscr/master/90.jpg",
+        "kustom" : "kwgt : ",
+        "launcher" : "Nova Launcher",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+        "source" : "https://t.me/ProScreens",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/90.jpg",
+        "title" : "Creekside",
+        "wallpaper" : "Backdrops",
+        "wallpapername" : "Creekside Drive",
+        "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+        "widget" : "Mini-ism Kwgt",
+        "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+      },
         {
             "authorname" : "HC",
             "iconpack" : "Flora Icons",
