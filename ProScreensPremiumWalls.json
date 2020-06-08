@@ -1,5 +1,10 @@
 {
     "trending": [
+        {
+            "name": "Material wall 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/572.png"
+        },
 	
 	{
 		"name": "Water Melon",
@@ -20,14 +25,20 @@
             "name": "Pattern Wall 2",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/557.png"
-        },
-        {
-            "name": "Flower",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/517.png"
         }
     ],
     "Wallpapers": [
+        {
+		"name": "Material wall 1",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/572.png"
+	},
+
+    {
+		"name": "Material wall 2",
+		"author": "iambavith",
+		"url": "https://raw.githubusercontent.com/iambavith/decodevs/master/571.png"
+	},
 
 	{
 		"name": "Water Melon 1",
