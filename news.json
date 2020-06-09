@@ -1,67 +1,54 @@
 {
-    "news" : [
-              {
-            "avatar" : "https://pbs.twimg.com/profile_images/1049707822110232576/7N2E9R-c_400x400.jpg",
-            "image" : "https://pbs.twimg.com/media/EZ46olZVcAQfaMI?format=jpg&name=large",
-            "title" : "Sale",
-            "url" : "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
-            "contend" : "Sliced Icons will be on sale for 8 days starting from June 7th - June 14th. Grab it while you can!"
-          },
+    "news": [
       {
-        "avatar" : "https://lh3.googleusercontent.com/uz8eZVsZe73AdEsBJIlef-ij0WC-hF1b2pCbmyu9zHNehjmMLXbIP7WWYDrHtXYZ9c8=w144-h144-n-rw",
-        "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-        "title" : "New Update",
-        "url" : "https://play.google.com/store/apps/details?id=prism.kustom.pack",
-        "contend" : "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
-      },
-      {
-        "avatar" : "https://lh3.googleusercontent.com/aJ9wgtz2qw2xQh4u5kOer0Ns4wxZLiGbcRWXexvX9b7CuY0Cfcm2q7-ng18dcBvY3A=w144-h144-n-rw",
-        "image" : "https://lh3.googleusercontent.com/yazykvaXkgz2KFQhcm0FAOYQOHccy4kOB_4wu4r3FATAWKeH-OYi4kTOH0Hga_JvHLxD=w2247-h1264-rw",
-        "title" : "Free",
-        "url" : "https://play.google.com/store/apps/dev?id=9070296388022589266",
-        "contend" : "All apps by Simple Mobile Tools is now Free for Limited time. Grab it now!"
-      },
-      {
-        "avatar" : "https://pbs.twimg.com/profile_images/1218969110505230337/Bdd23GEM_400x400.jpg",
-        "image" : "https://pbs.twimg.com/media/EYnssHTXsAEnRNQ?format=jpg&name=large",
-        "title" : "Sale",
-        "url" : "https://play.google.com/store/apps/dev?id=5105091404166060566",
-        "contend" : "Amoled Papers, Frosty for KLWP, Wavy for KLWP, Avocado KWGT, Stracta for KLWP and Coffee for KLWP by Charlee Designs is on sale for limited time."
-      },
-      {
-        "avatar" : "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-        "image" : "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-        "title" : "Resource",
-        "url" : "https://twitter.com/ArrowWalls/status/1266713825836797952",
-        "contend" : "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-      },
-      {
-            "avatar" : "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
-            "image" : "https://pbs.twimg.com/media/EZpqcYWXQAAnJ5R?format=jpg&name=large",
-            "title" : "Sale",
-            "url" : "https://twitter.com/One4Studio/status/1268443703720521730",
-            "contend" : "Athena Dark is on 50% off SALE! Follow Creative Studio 14 on Twitter like and retweet and get a chance win one out of 3 promo codes!"
-          },
+        "avatar": "https://pbs.twimg.com/profile_images/1268111844457119746/OmmYZHau_400x400.jpg",
+        "image": "https://pbs.twimg.com/media/EZ_nAq7XYAA4Wl4?format=jpg&name=medium",
+        "title": "Giveaway",
+        "url": "https://twitter.com/RajjAryaa/status/1269987621876363264",
+        "contend": "Follow RajAryaa on twitter like and retweet the post and tag your 2 friends and get a chance to win free promocodes for his Apps."
+    },
         {
-            "avatar" : "https://lh3.googleusercontent.com/61iX23pj1Hr75ivaD_Bmo4qN9HZrAc8vB5NekINFOL79yjYPKT0z6GrGzKcOncGjwzY=s180-rw",
-            "image" : "https://lh3.googleusercontent.com/-EmOvyqbXdh6Ulf73MDzOJKs9kCzPAzi1s1fi6ssXYOPPQKvXFCTX1l5kPvse0bnulc=w1366-h625-rw",
-            "title" : "Sale",
-            "url" : "https://play.google.com/store/apps/details?id=pixcards.kustom.pack",
-            "contend" : "Pix Cards KWGT is currently on SALE! Grab it now"
-          },
-        {
-            "avatar" : "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
-            "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
-            "title" : "Resource",
-            "url" : "https://t.me/stylishwidgets",
-            "contend" : "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free"
-          },
-          {
-            "avatar" : "https://lh3.googleusercontent.com/xSNZx6eAPzGtQF8BDg2CVoupnCyoiU2_3Ob9aOiPGkgUZSIc7iGgAbaU7ec37t4DSLCD=s180-rw",
-            "image" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/Promotion.png",
-            "title" : "Free Promotion",
-            "url" : "https://t.me/ProScreens",
-            "contend" : "Join our telegram group for free promotions"
-          }
+            "avatar": "https://pbs.twimg.com/profile_images/1268111844457119746/OmmYZHau_400x400.jpg",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/9.jpg",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/dev?id=5559664342362929202",
+            "contend": "Rabbit KLWP Presets & Mixture for KLWP by RajAryaa is currently on sale for limited time Grab it now!"
+        }, {
+            "avatar": "https://pbs.twimg.com/profile_images/1049707822110232576/7N2E9R-c_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EZ46olZVcAQfaMI?format=jpg&name=large",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
+            "contend": "Sliced Icons will be on sale for 8 days starting from June 7th - June 14th. Grab it while you can!"
+        }, {
+            "avatar": "https://lh3.googleusercontent.com/uz8eZVsZe73AdEsBJIlef-ij0WC-hF1b2pCbmyu9zHNehjmMLXbIP7WWYDrHtXYZ9c8=w144-h144-n-rw",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "title": "New Update",
+            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
+            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
+        }, {
+            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
+            "title": "Resource",
+            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
+            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
+        }, {
+            "avatar": "https://lh3.googleusercontent.com/61iX23pj1Hr75ivaD_Bmo4qN9HZrAc8vB5NekINFOL79yjYPKT0z6GrGzKcOncGjwzY=s180-rw",
+            "image": "https://lh3.googleusercontent.com/-EmOvyqbXdh6Ulf73MDzOJKs9kCzPAzi1s1fi6ssXYOPPQKvXFCTX1l5kPvse0bnulc=w1366-h625-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=pixcards.kustom.pack",
+            "contend": "Pix Cards KWGT is currently on SALE! Grab it now"
+        }, {
+            "avatar": "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
+            "title": "Resource",
+            "url": "https://t.me/stylishwidgets",
+            "contend": "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free"
+        }, {
+            "avatar": "https://lh3.googleusercontent.com/xSNZx6eAPzGtQF8BDg2CVoupnCyoiU2_3Ob9aOiPGkgUZSIc7iGgAbaU7ec37t4DSLCD=s180-rw",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/Promotion.png",
+            "title": "Free Promotion",
+            "url": "https://t.me/ProScreens",
+            "contend": "Join our telegram group for free promotions"
+        }
     ]
 }
