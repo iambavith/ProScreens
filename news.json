@@ -1,20 +1,25 @@
 {
     "news": [
         {
+            "avatar": "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EaIv5LkXYAAX_aV?format=jpg&name=small",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
+            "contend": "Nova Dark icon pack by Creative Studio 14 is on 50% OFF SALE. Grab it now!"
+        },
+        {
             "avatar": "https://pbs.twimg.com/profile_images/620118657968947206/1DGhkQt3_400x400.png",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/Promotions.png",
             "title": "Giveaway",
             "url": "https://twitter.com/howtomen",
             "contend": "Follow HowToMen on twitter and instagram and get a chance to win free promocodes for pixurr wallpapers and ProScreens premium!"
-        },
-      {
-        "avatar": "https://pbs.twimg.com/profile_images/1268111844457119746/OmmYZHau_400x400.jpg",
-        "image": "https://pbs.twimg.com/media/EZ_nAq7XYAA4Wl4?format=jpg&name=medium",
-        "title": "Giveaway",
-        "url": "https://twitter.com/RajjAryaa/status/1269987621876363264",
-        "contend": "Follow RajAryaa on twitter like and retweet the post and tag your 2 friends and get a chance to win free promocodes for his Apps."
-    },
-        {
+        }, {
+            "avatar": "https://pbs.twimg.com/profile_images/1268111844457119746/OmmYZHau_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EZ_nAq7XYAA4Wl4?format=jpg&name=medium",
+            "title": "Giveaway",
+            "url": "https://twitter.com/RajjAryaa/status/1269987621876363264",
+            "contend": "Follow RajAryaa on twitter like and retweet the post and tag your 2 friends and get a chance to win free promocodes for his Apps."
+        }, {
             "avatar": "https://pbs.twimg.com/profile_images/1268111844457119746/OmmYZHau_400x400.jpg",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/9.jpg",
             "title": "Sale",
@@ -38,7 +43,7 @@
             "title": "Resource",
             "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
             "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        },{
+        }, {
             "avatar": "https://cdn5.telesco.pe/file/v64g99SN4e_VwpwNdla6SGLwibFGM_pDxNVjqzU1IABR4o9gPu6uH8QQFVeuzwgsRbQPDKKigceVdeS7xr7FnLKbZWI63jD5WxQtbmcUJPirKOW8-0Yy3ysAxcHNqs3NFQyP2K__tWKz0LfO-LSFUMOI66ar1KoxLmoqZ_Lx8BQcNgtivpczOP4h0ROw6UF89LVIv15i5M7JUpq9M4961i0VKIpK1t6r8f1hit13aKUw3Xv4VqHeK1e7eEu4i-ucF23g1JfzzAoQfZs7eEITiSLCrV10oui0lrQQtBtgbtCsPFurpDfylD4u7sP-yknlrpHfk8L0bN_wAp1CTizZuQ.jpg",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
             "title": "Resource",
