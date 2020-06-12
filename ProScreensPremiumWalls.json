@@ -1,6 +1,11 @@
 {
     "trending": [
         {
+            "name": "Plant 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png"
+        },
+        {
             "name": "Amoled Desert 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png"
@@ -12,17 +17,29 @@
             "name": "Material wall 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/572.png"
-        }, {
-            "name": "Horse travel",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/567.png"
-        }, {
-            "name": "Pelican Bird",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/554.png"
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Plant 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png"
+        },
+        {
+            "name": "Plant 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/579.png"
+        },
+        {
+            "name": "Plant 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/580.png"
+        },
+        {
+            "name": "Plant 4",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/581.png"
+        },
         {
             "name": "Amoled Desert 1",
             "author": "iambavith",
@@ -305,6 +322,26 @@
         }
     ],
     "minimal": [
+        {
+            "name": "Plant 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png"
+        },
+        {
+            "name": "Plant 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/579.png"
+        },
+        {
+            "name": "Plant 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/580.png"
+        },
+        {
+            "name": "Plant 4",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/581.png"
+        },
         {
             "name": "Water Melon 1",
             "author": "iambavith",
