@@ -1,6 +1,20 @@
 {
     "news": [
         {
+            "avatar": "https://pbs.twimg.com/profile_images/1049498636290351104/Um4baDQO_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EZ6NYORU8AA0RDa?format=jpg&name=small",
+            "title": "New App",
+            "url": "https://twitter.com/starkdesigns18/status/1269607603459391488",
+            "contend": "Nebula Iconpack by Stark Designs is releasing today by 7pm IST, and it will be sale for limited time. Follow Stark Designs on twitter for more updates."
+        },
+        {
+            "avatar": "https://pbs.twimg.com/profile_images/1222681341449269248/xgC4HV55_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EaSGLCKVAAAzj73?format=jpg&name=large",
+            "title": "Giveaway",
+            "url": "https://twitter.com/DreamOn3T/status/1271289434105757697",
+            "contend": "Envy Icons Giveaway! 20 Promocodes. Follow Kurapz and DreamOn3T on twitter like and retweet the post and tag 2 of your friends and get a chance to win free promocodes! "
+        },
+        {
             "avatar": "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
             "image": "https://pbs.twimg.com/media/EaIv5LkXYAAX_aV?format=jpg&name=small",
             "title": "Sale",
