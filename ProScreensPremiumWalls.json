@@ -1,6 +1,11 @@
 {
     "trending": [
         {
+            "name": "Illustartion 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/582.png"
+        },
+        {
             "name": "Plant 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png"
@@ -20,6 +25,26 @@
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Illustartion 4",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/585.png"
+        },
+        {
+            "name": "Illustartion 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/584.png"
+        },
+        {
+            "name": "Illustartion 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/583.png"
+        },
+        {
+            "name": "Illustartion 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/582.png"
+        },
         {
             "name": "Plant 1",
             "author": "iambavith",
