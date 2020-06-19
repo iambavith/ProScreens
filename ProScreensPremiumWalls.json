@@ -1,14 +1,16 @@
 {
     "trending": [
         {
-            "name": "Illustartion 1",
+            "name": "Trees 3",
             "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/582.png"
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/588.png"
+    
         },
         {
-            "name": "Plant 1",
+            "name": "Trees 2",
             "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/578.png"
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png"
+    
         },
         {
             "name": "Amoled Desert 1",
@@ -25,6 +27,23 @@
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Trees 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/588.png"
+    
+        },
+        {
+            "name": "Trees 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png"
+    
+        },
+        {
+            "name": "Trees 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/586.png"
+        },
         {
             "name": "Illustartion 4",
             "author": "iambavith",
@@ -426,6 +445,23 @@
         }
     ],
     "illustration": [
+        {
+            "name": "Trees 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/588.png"
+    
+        },
+        {
+            "name": "Trees 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png"
+    
+        },
+        {
+            "name": "Trees 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/586.png"
+        },
         {
             "name": "Pelican Bird",
             "author": "iambavith",
