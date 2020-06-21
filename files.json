@@ -2,9 +2,13 @@
   "news": [
       {
           "avatar": "https://lh3.googleusercontent.com/uz8eZVsZe73AdEsBJIlef-ij0WC-hF1b2pCbmyu9zHNehjmMLXbIP7WWYDrHtXYZ9c8=w144-h144-n-rw",
-          "image": ["https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png"],
+          "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
           "title": "New Update",
           "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
+          "screenShot1" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+          "screenShot2" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+          "screenShot3" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+          "screenShot4" : "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
           "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
       }
   ],
