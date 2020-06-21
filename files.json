@@ -1,9 +1,20 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "setups": [
-    {"number1" : 1,
-    "number12" : 1
-  }
+  "news": [
+      {
+          "avatar": "https://lh3.googleusercontent.com/uz8eZVsZe73AdEsBJIlef-ij0WC-hF1b2pCbmyu9zHNehjmMLXbIP7WWYDrHtXYZ9c8=w144-h144-n-rw",
+          "image": ["https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png","https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png"],
+          "title": "New Update",
+          "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
+          "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
+      }
+  ],
+  "resources" : [
+      {
+          "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
+          "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
+          "title": "Resource",
+          "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
+          "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
+      }
   ]
 }
