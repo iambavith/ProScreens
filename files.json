@@ -1,5 +1,5 @@
 {
-  "news": [
+  "sales": [
     {
         "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
         "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
@@ -34,5 +34,14 @@
         "screenShot4" : "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
         "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
     }
-  ]
+  ],
+    "tutorials" : [
+      {
+        "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
+        "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
+        "title": "How To Men",
+        "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
+        "contend": "What's on my OnePlus 6? (Android Pie)"
+    }
+    ]
 }
