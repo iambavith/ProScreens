@@ -1,94 +1,46 @@
 {
     "sales": [
         {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        }, {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        }, {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        }, {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        }, {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
-        }, {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "title": "Resource",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
+            "avatar": "https://lh3.googleusercontent.com/7KookkB0C1EFsEk6Ne6jNYBY7eKqOWygWYhOgE0vA3ElDNn69TkfDz9Zo4Ay3Nxa70w=s180-rw",
+            "image": "https://pbs.twimg.com/media/EbG7AMaXkAAYqYG?format=jpg&name=small",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+            "contend": "Nova Iconpack is currently on 50% sale for limited time. Grab it now!"
         }
     ],
     "resources": [
         {
+            "avatar": "https://ph-files.imgix.net/b3e14f8e-e8b7-4d55-8d3a-4dcbd2095346.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "title": "Wallpeppers",
+            "url": "https://wallpeppers.web.app/?ref=producthunt",
+            "screenShot1": "https://pbs.twimg.com/media/EaOVOiaUcAAE0UH?format=jpg&name=small",
+            "screenShot2": "https://pbs.twimg.com/media/EaXpu5qUMAItOLq?format=jpg&name=small",
+            "screenShot3": "https://pbs.twimg.com/card_img/1275251956068478976/O8J6UUgv?format=jpg&name=small",
+            "screenShot4": "",
+            "contend": "Wallpeppers are a collection of minimal and colorful wallpapers for your mobile device, except that they're all available on a PWA. Just open the link, click on Add to Home Screen and you're good to go.Free (and Ad-Free) Forever."
+        },
+        {
             "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
             "title": "Stylish Widgets",
-            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
+            "url": "https://t.me/stylishwidgets",
             "screenShot1": "https://pbs.twimg.com/media/Eay5zbxUMAEH3ge?format=jpg&name=large",
             "screenShot2": "https://pbs.twimg.com/media/Ea4ajYcUwAAJtQL?format=jpg&name=medium",
             "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
-            "screenShot4": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
-        }, {
-            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
+            "screenShot4": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
+            "contend": "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free."
+        },
+        {
+            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "title": "Stylish Widgets",
-            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
-            "screenShot1": "https://pbs.twimg.com/media/Eay5zbxUMAEH3ge?format=jpg&name=large",
-            "screenShot2": "https://pbs.twimg.com/media/Ea4ajYcUwAAJtQL?format=jpg&name=medium",
-            "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
-            "screenShot4": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
-        }, {
-            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "title": "Stylish Widgets",
-            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
-            "screenShot1": "https://pbs.twimg.com/media/Eay5zbxUMAEH3ge?format=jpg&name=large",
-            "screenShot2": "https://pbs.twimg.com/media/Ea4ajYcUwAAJtQL?format=jpg&name=medium",
-            "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
-            "screenShot4": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
-        }, {
-            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "title": "Stylish Widgets",
-            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
-            "screenShot1": "https://pbs.twimg.com/media/Eay5zbxUMAEH3ge?format=jpg&name=large",
-            "screenShot2": "https://pbs.twimg.com/media/Ea4ajYcUwAAJtQL?format=jpg&name=medium",
-            "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
-            "screenShot4": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
-        }, {
-            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "title": "Stylish Widgets",
-            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
-            "screenShot1": "https://pbs.twimg.com/media/Eay5zbxUMAEH3ge?format=jpg&name=large",
-            "screenShot2": "https://pbs.twimg.com/media/Ea4ajYcUwAAJtQL?format=jpg&name=medium",
-            "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
-            "screenShot4": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "contend": "Prism for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper presets, Made by keeping users in mind."
+            "title": "Arrow Walls",
+            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
+            "screenShot1": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
+            "screenShot2": "https://pbs.twimg.com/media/EZqsetVWsAQ9eYC?format=jpg&name=small",
+            "screenShot3": "https://pbs.twimg.com/media/EWxd5ViX0AQNdKh?format=jpg&name=small",
+            "screenShot4": "https://pbs.twimg.com/media/EWnPRGvWAAAEXDo?format=jpg&name=small",
+            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
         }
     ],
     "newapps": [
@@ -103,140 +55,18 @@
             "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
             "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
             "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
-        }, {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "dev": "Strack Designs",
-            "title": "Nebula IconPack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "screenShot1": "https://lh3.googleusercontent.com/VnU8Jxxx3PFY0RjIV-9ZmPAYKtVOCymqTU0hBnBD9Fw0Th5VIBgD1usOncG9jMIY4xE=w1366-h625-rw",
-            "screenShot2": "https://lh3.googleusercontent.com/uM8Smqj1wgl96CmwqmiYW5ocIjAQk476z8xtm6rwXPYco4dScc1CqTJm3jtrbX7kvg=w1366-h625-rw",
-            "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
-            "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
-            "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
         }
     ],
     "tutorials": [
         {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
-            "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
-            "title": "How To Men",
-            "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
-            "contend": "What's on my OnePlus 6? (Android Pie)"
-        }, {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
-            "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
-            "title": "How To Men",
-            "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
-            "contend": "What's on my OnePlus 6? (Android Pie)"
-        }, {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
-            "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
-            "title": "How To Men",
-            "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
-            "contend": "What's on my OnePlus 6? (Android Pie)"
-        }, {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
-            "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
-            "title": "How To Men",
-            "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
-            "contend": "What's on my OnePlus 6? (Android Pie)"
-        }, {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
-            "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
-            "title": "How To Men",
-            "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
-            "contend": "What's on my OnePlus 6? (Android Pie)"
-        }, {
-            "avatar": "https://yt3.ggpht.com/a/AATXAJwkBs460D7OuRswGMvsgGp-DE63TK0msVB308c8=s100-c-k-c0xffffffff-no-rj-mo",
+            "avatar": "https://pbs.twimg.com/profile_images/1132525516286619648/dOl5Wpba_400x400.jpg",
+            "thumbail": "https://pbs.twimg.com/media/EAQXeFUXkAYuRzo?format=jpg&name=medium",
+            "title": "Zachary Anderson",
+            "url": "https://www.youtube.com/watch?v=VVu1PMGiIqQ",
+            "contend": "Homescreen Setup Tutorial v5.0! [Step by Step]"
+        },
+        {
+            "avatar": "https://pbs.twimg.com/profile_images/620118657968947206/1DGhkQt3_400x400.png",
             "thumbail": "https://pbs.twimg.com/media/Dml7e7uUwAAxcbW?format=jpg&name=4096x4096",
             "title": "How To Men",
             "url": "https://www.youtube.com/watch?v=wqGu6Q2nx7Q",
@@ -245,46 +75,24 @@
     ],
     "topapps": [
         {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+            "icon": "https://lh3.googleusercontent.com/hZ1iMApDB7-QdUF_iOJdL2qyCa5K3PXMX1mAqiUK_28TiOSjZkVuz76ISKKGx6ABbHs=s180-rw",
+            "name": "Prism for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
             "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/Aw36Fhd4YSaZKKR-W34SQSrmX3CoHKYpNLW767PkCAzSbHeRhcx1OI0cTMfAnpFptg=s180-rw",
+            "name": "PixCargs KWGT",
+            "url": "https://play.google.com/store/apps/details?id=pixcards.kustom.pack",
             "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/egHigzN3KuN5PyMR_OmSwUQEJ9NNHWZJKo4qUpwdEA2gb5Uo3c8SGBbrJIcGeHsQDg=s180-rw",
+            "name": "Pixurr wallpapers",
+            "url": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
             "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "cost": "paid"
-        }, {
-            "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "name": "Nebula Icon pack",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "cost": "paid"
-        }, {
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
             "name": "Nebula Icon pack",
             "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
