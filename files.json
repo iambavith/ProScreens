@@ -82,6 +82,30 @@
     ],
     "topapps": [
         {
+            "icon": "https://lh3.googleusercontent.com/t4lq5s3dd8A2LEBwH_bp2VzwfrEqBrQeaRLFwcxcLceZ6iNqpK5rOT8lIsQlgwHwkg=s180-rw",
+            "name": "Linebit - Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.edzondm.linebit",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/rQhPPSoSv7f4ouVQ9u_tjBZ3BQWHB0gqrLZguuxyTTjYl1c9NUK7TlH0Z7pTEcw5QpoT=s180-rw",
+            "name": "Gladient Icons",
+            "url": "https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/pcuVeBW2Y4bGourdR7qvO6Ezg7U1CFZMbwM2gaFDnv-s058JcGLLv_xD93g4Hz6mFNA=s180-rw",
+            "name": "BeeLine Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/avUslltGD8TJM3ZE5FFykjolBp4-tlC0xbmtkeNpwY0jGtFApH05Q_yfSNod6Erb-w=s180-rw",
+            "name": "TooWenty for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.toowenty",
+            "cost": "paid"
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/hZ1iMApDB7-QdUF_iOJdL2qyCa5K3PXMX1mAqiUK_28TiOSjZkVuz76ISKKGx6ABbHs=s180-rw",
             "name": "Prism for KLWP",
             "url": "https://play.google.com/store/apps/details?id=prism.kustom.pack",
@@ -103,6 +127,12 @@
             "icon": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
             "name": "Nebula Icon pack",
             "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
+            "name": "Unusual Wallpapers",
+            "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
             "cost": "paid"
         }
     ]
