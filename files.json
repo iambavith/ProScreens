@@ -115,6 +115,30 @@
     ],
     "topapps": [
         {
+            "icon": "https://lh3.googleusercontent.com/0oijJbSQlnTEJNc4c8J-n8tpMWgcv-5GvhbyLYEJvO-TRTwavfeRBpsm-peZWCBW3A=s180-rw",
+            "name": "Pix Material Dark Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.dark",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/rfVbaJLFPnSSBl2Yvd9q53A8UUmAL0yRu-Oe9-SvdDdshSjDLTDl4tGyKJtoR9k8Fbzb=s180-rw",
+            "name": "Pix Material Colors Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/jsTVuyGV6KeVcxW7KfWkqhBXLRObiS1vJ7bK3NJ7SMrtkO8P3K119ylNJlPzlUORFVs=s180-rw",
+            "name": "Pix Material Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/RfBtZVk7sSTFOMVey_Y22QLns1JkKpLP4coLleLSdW5pjAD-lOWE9pdNUkP8WD9C5s4=s180-rw",
+            "name": "FusiOn for KWGT",
+            "url": "https://play.google.com/store/apps/details?id=fusionforkwgt.kustom.pack",
+            "cost": "paid"
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/t4lq5s3dd8A2LEBwH_bp2VzwfrEqBrQeaRLFwcxcLceZ6iNqpK5rOT8lIsQlgwHwkg=s180-rw",
             "name": "Linebit - Icon Pack",
             "url": "https://play.google.com/store/apps/details?id=com.edzondm.linebit",
@@ -184,7 +208,7 @@
             "icon": "https://lh3.googleusercontent.com/V0wdb4PdNFbf_6A9yq3woO66qihBz3ZVU22V5mble9aAEKoUl3tgGmp_qGFzoMILl6k=s180-rw",
             "name": "Feast KWGT",
             "url": "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack",
-            "cost": "paid"
+            "cost": "free"
         },
         {
             "icon": "https://lh3.googleusercontent.com/ZZY7rY18CjQA5xA02wnr_XdJfq6z6jy9Z3eiQ9pp1gZU3gWWvPdq19OHVeDRweoszQ=s180-rw",
