@@ -1,6 +1,20 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/mI7dj4JyBdaTptk4--BsdaxIFd0mO-Nkmuf2q__AVjrQq6DK0J_nVI6I46S1O49JedhP=s180-rw",
+            "image": "https://lh3.googleusercontent.com/U5FQNhZY-czMmxSGX2xkISkvk-sG64xnraMXPqSUoJ_P5y_3HEKFYfWqY75s9CRSmEg=w330-h160-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.lknninex.enix",
+            "contend": "Enix icon pack is on Sale for limited time. Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/titELtEd0_Jb0uF8iahgFjmbb8nDL7UTkVLv5Xvb1LrWaUH7SC54yJQML6D1iagfYg=s180-rw",
+            "image": "https://pbs.twimg.com/media/EbBIlrgXYAAv2La?format=jpg&name=4096x4096",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+            "contend": "WLIP - Icon Pack is on Sale for limited time. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
             "image": "https://pbs.twimg.com/media/EbN3fYTUEAA-ZoU?format=jpg&name=medium",
             "title": "Update",
