@@ -62,6 +62,18 @@
             "screenShot3": "https://lh3.googleusercontent.com/07andcn7jyUbzWO7aCckEml_X7b8hGc6E69LgwoVi0IP9wyth856u88SyM81596FDTA=w1366-h625-rw",
             "screenShot4": "https://lh3.googleusercontent.com/JYerfAYv-j6hRqcpAbU1FGLXiyAEl7wjh6lp1hNtyh9YDFkk8mPK_PVfQL3UAYDh2w=w1366-h625-rw",
             "contend": "Say Hello to Nebula Icon Pack! A set of simple yet sophisticated Icons, with a pop of colors!! Nebula icons will gives you a pleasant, soothing feeling and you will love looking at your homescreen! You can request 10 icons/week which will be themed sooner rather than later!If some icons are present in the pack, but aren't getting themed, just send me an icon request for such icons and I will fix them immediately!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/a5H2yBiDzAFY-7W_Nl3LhsKTcYUZQKid9Ep0oriPymFW6tiJFH73mVaGjjs5ZW6H-Q=s180-rw",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "dev": "Twix",
+            "title": "Wallnut Wallpapers",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+            "screenShot1": "https://lh3.googleusercontent.com/p2wFzMA3UC17FmkmT3vCIAK9Sjchbs1JZITkFxZysxJqN5SHWWKnvd28GBCxN_ZdpA=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/0DwgHCYYsibPXUV6y0XkQtowwpVwkZPNcrSOCFg9yhSA9KiV3SV0enBv-y0ixON_8A=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/enDgxu0JqkNmCrMRw5nBLKQ2UpCdyflu60OVAV2kvsWldRQ1Di718_c55SW3CDTAWZQ=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/TJx_xGPjpUpwPAIup0QSzM8DSx-sXv4r4VT14XiUE4fon4VK7-aFdJMw3fpG6k1QnNw=w1366-h625-rw",
+            "contend": "Wallnut is a collection of wallpapers meticulously designed by Twix (@notforyou666).This is a free app with no ads. You get full access to all its features for FREE.We do not advocate piracy. If you have Lucky Patcher or pirated app store installed, this app WILL NOT WORK for you."
         }
     ],
     "tutorials": [
@@ -148,6 +160,73 @@
             "name": "Unusual Wallpapers",
             "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
             "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/QFctXDuh3wKKULg04bs3D2sIEaUq3EqsdRVi2dhLuWJe-a8XoG5XABpr_mgPPu-eGDs=s180-rw",
+            "name": "Ikon - Free Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Ikon",
+            "cost": "Free"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/WOX-biWw_phsH4uz-aWRcWOteMAdbM2k2ABXabmnqlrcDl9w7i1qeSDmzXBZryEIxQ=s180-rw",
+            "name": "Ember for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=pl.mhcharlee.ember",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/V0wdb4PdNFbf_6A9yq3woO66qihBz3ZVU22V5mble9aAEKoUl3tgGmp_qGFzoMILl6k=s180-rw",
+            "name": "Feast KWGT",
+            "url": "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/ZZY7rY18CjQA5xA02wnr_XdJfq6z6jy9Z3eiQ9pp1gZU3gWWvPdq19OHVeDRweoszQ=s180-rw",
+            "name": "Cheesecake KWGT",
+            "url": "https://play.google.com/store/apps/details?id=com.stach.ui",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/ko1hWoaeoZC_4diCre6gEco4gi_daSzIucnqkosZY1xQptiAFmyCtucjgGJ4gyJrCAU=s180-rw",
+            "name": "Magma for KWGT",
+            "url": "https://play.google.com/store/apps/details?id=com.dosartsmagma.widgets",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/fT7q91De-wRtLEG_LtWmS0r3e1tffA5aOrlzkzG5h5XW_jLXFY0aDmojE9WmTHq-2ks=s180-rw",
+            "name": "One4KLWP Ultimate",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4klwpultimate",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/gG-Zgr7F7oQDQH4hiNMp1yfx7qd1FfhmPgTpD3-kXP2o3CKpnnPAncKDtlr-gxftrrA=s180-rw",
+            "name": "Hera Dark Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.heradark",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/i_qY-W18INRV9PsVvnMtYUx4A8Skbu_gOEa8ncAnltRoU9c9nyMws_Pc_iQNtxNzZw=s180-rw",
+            "name": "Nova Dark Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/tN5KS8Tm3ePGlobkUOp0ELcSdTupNzeaenQXGn74ldPCaJrE6DfIBC-3GgM0ZD_XR78=s180-rw",
+            "name": "Athena Dark Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athenadark",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/OtE1xwE7Yq-ESY_4VKmU6YvfEZ6xTBZr7fd-B3MQjn72P-010GxH52pha72goJp9ex7Y=s180-rw",
+            "name": "Caelus Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=studio14.application.caelus",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/DZoRB6oJxnquMn730eSssUawMkvZyNqxvBMprBAl13RaUVItOMMSaaQZjtOOejoxsJ-L=s180-rw",
+            "name": "Bladient Icons",
+            "url": "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+            "cost": "paid"
         }
+       
     ]
 }
