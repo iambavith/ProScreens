@@ -1,6 +1,20 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
+            "image": "https://pbs.twimg.com/media/EbN3fYTUEAA-ZoU?format=jpg&name=medium",
+            "title": "Update",
+            "url": "https://play.google.com/store/apps/details?id=rabbitakustompresets.kustom.pack&hl=en_IN",
+            "contend": "A Brand new theme added on Rabbit Klwp. Update it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
+            "image": "https://pbs.twimg.com/media/EbNhRJbUEAAKMMI?format=jpg&name=large",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+            "contend": "New Pixel Design wallpapers available now on Unusual Wallpapers. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/7KookkB0C1EFsEk6Ne6jNYBY7eKqOWygWYhOgE0vA3ElDNn69TkfDz9Zo4Ay3Nxa70w=s180-rw",
             "image": "https://pbs.twimg.com/media/EbG7AMaXkAAYqYG?format=jpg&name=small",
             "title": "Sale",
@@ -186,9 +200,21 @@
             "cost": "paid"
         },
         {
+            "icon": "https://lh3.googleusercontent.com/cP7yUHt5kUorEFvlSC2L5Sw6oqK4CXF6tLZQ8LODYTw74DBlR_C59IP_1EcXOoysPLc=s180-rw",
+            "name": "Lucent KWGT",
+            "url": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+            "cost": "paid"
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/ko1hWoaeoZC_4diCre6gEco4gi_daSzIucnqkosZY1xQptiAFmyCtucjgGJ4gyJrCAU=s180-rw",
             "name": "Magma for KWGT",
             "url": "https://play.google.com/store/apps/details?id=com.dosartsmagma.widgets",
+            "cost": "paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/tPC4ZK2AoKZBCIX6EWQxbB58K8L4xj841zUx5X3w_K26sHagtLX-OfGYuydMkSiKY4cg=s180-rw",
+            "name": "Fuchsia KWGT",
+            "url": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack",
             "cost": "paid"
         },
         {
