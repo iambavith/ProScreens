@@ -1,6 +1,21 @@
 {
     "trending": [
         {
+            "name": "Camel 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png"
+        },
+        {
+            "name": "Camel 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png"
+        },
+        {
+            "name": "Camel 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png"
+        },
+        {
             "name": "Trees 3",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/588.png"
@@ -11,22 +26,24 @@
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png"
     
-        },
-        {
-            "name": "Amoled Desert 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/574.png"
-        }, {
-            "name": "Amoled Desert 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/575.png"
-        }, {
-            "name": "Material wall 1",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/572.png"
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Camel 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png"
+        },
+        {
+            "name": "Camel 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png"
+        },
+        {
+            "name": "Camel 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png"
+        },
         {
             "name": "Trees 3",
             "author": "iambavith",
@@ -319,6 +336,21 @@
         }
     ],
     "Amoled": [
+        {
+            "name": "Camel 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png"
+        },
+        {
+            "name": "Camel 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/590.png"
+        },
+        {
+            "name": "Camel 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png"
+        },
         {
             "name": "Amoled Desert 1",
             "author": "iambavith",
