@@ -1,6 +1,20 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/P6hlij5J2fZtUsSaWkl6net_9vFG1LBfjtoxX-O93qZ30BskMFc2v3skPnB4ltMtAg=s180-rw",
+            "image": "https://lh3.googleusercontent.com/RD6abYGjYK_BB7-8jgHvyxOCJ8tWYrsH96h1PU0-prf_ZObLt7-At7dLpPxt-tIuFGVS=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=fiction.kustom.pack",
+            "contend": "Fiction KWGT is currently on 40% sale till 28-06-2020. Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/c-upNYdZ7qNcq0qyHKTU0vPURT6pmNqbXoII7uZh3hh76S81PvKM2s7sB3swEva0DOo=s180-rw",
+            "image": "https://lh3.googleusercontent.com/lfD8x4xhE6BVFDLbbLAZcOHIfV7jA7-0x92SxPlwuX3DNWZJqnNPYwv1n24WfLuEwcA=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=flamingokwgt.kustom.pack",
+            "contend": "Flamingo KWGT is currently on 40% sale till 28-06-2020. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/mI7dj4JyBdaTptk4--BsdaxIFd0mO-Nkmuf2q__AVjrQq6DK0J_nVI6I46S1O49JedhP=s180-rw",
             "image": "https://lh3.googleusercontent.com/U5FQNhZY-czMmxSGX2xkISkvk-sG64xnraMXPqSUoJ_P5y_3HEKFYfWqY75s9CRSmEg=w330-h160-rw",
             "title": "Sale",
@@ -27,13 +41,6 @@
             "title": "Update",
             "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
             "contend": "New Pixel Design wallpapers available now on Unusual Wallpapers. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/7KookkB0C1EFsEk6Ne6jNYBY7eKqOWygWYhOgE0vA3ElDNn69TkfDz9Zo4Ay3Nxa70w=s180-rw",
-            "image": "https://pbs.twimg.com/media/EbG7AMaXkAAYqYG?format=jpg&name=small",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
-            "contend": "Nova Iconpack is currently on 50% sale for limited time. Grab it now!"
         }
     ],
     "resources": [
@@ -98,6 +105,13 @@
         }
     ],
     "tutorials": [
+        {
+            "avatar": "https://yt3.ggpht.com/a/AATXAJwYhycx5uJ2EqtuiZSVWm40XyK5jYplTdixNpTzAw=s100-c-k-c0xffffffff-no-rj-mo",
+            "thumbail": "https://img.youtube.com/vi/RPYml8UMAgU/maxresdefault.jpg",
+            "title": "Mrwhosetheboss",
+            "url": "https://www.youtube.com/watch?v=RPYml8UMAgU",
+            "contend": "Customise your Android Smartphone - ULTIMATE Edition."
+        },
         {
             "avatar": "https://pbs.twimg.com/profile_images/1132525516286619648/dOl5Wpba_400x400.jpg",
             "thumbail": "https://pbs.twimg.com/media/EAQXeFUXkAYuRzo?format=jpg&name=medium",
