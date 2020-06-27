@@ -1,6 +1,27 @@
 {
     "sales": [
         {
+            "avatar": "https://pbs.twimg.com/profile_images/1257230298703523840/nFxz8ZHQ_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/EbS1NeLUYAACtUE?format=jpg&name=small",
+            "title": "Giveaway",
+            "url": "https://twitter.com/justnewdesigns/status/1275844976019148801",
+            "contend": "Follow Justnewdesigns on Twitter & Instagram and get a chance to will free promocodes for Crayon IconPack."
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/A3Jpmcrl4jErjvo-RkLDHfSVtLTEscuddewsbgl8CA86AgIysqKhSZX0St5Zp_0PUxqG=s180-rw",
+            "image": "https://lh3.googleusercontent.com/3pa1C2F3GMJEbrpVjTMII-HSb5LVThzpwlBHzqUNn7yZCDvxcXEOlOnBrMkKxzsARw=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.jndapp.linex.white.iconpack",
+            "contend": "LineX White Icon Pack is currently on Sale, Nearly 70% off. Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/_jcWOMD_9kMyMtBG1fLzY_Chl-_tPkpEzoAY3fuC4T6QZf_f6h9VoIR5CN0KBI_YaAE=s180-rw",
+            "image": "https://lh3.googleusercontent.com/IkpHnQnsDM81kA59DmlfyKhK_AjTlwOGJ0EmhU9BVReRqHEPnt_iHLt82_KMDnDgmw=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.jndapp.redline.linex.iconpack",
+            "contend": "RedLine Icon Pack : LineX is currently on Sale, Nearly 70% off. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
             "image": "https://pbs.twimg.com/media/EbcJAffVcAMuzSL?format=jpg&name=large",
             "title": "Update",
