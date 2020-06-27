@@ -1,6 +1,13 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
+            "image": "https://lh3.googleusercontent.com/36RTZ7E8lGS3eEKV2TOEaix155OVntnRafamo0wj9CHAmcGlFy8T_5rfnsu2pBVr9Nw=w1366-h625-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+            "contend": "Unusual Wallpapers is currently on 50% sale. Grab it now!"
+        },
+        {
             "avatar": "https://pbs.twimg.com/profile_images/1257230298703523840/nFxz8ZHQ_400x400.jpg",
             "image": "https://pbs.twimg.com/media/EbS1NeLUYAACtUE?format=jpg&name=small",
             "title": "Giveaway",
@@ -62,13 +69,6 @@
             "title": "Update",
             "url": "https://play.google.com/store/apps/details?id=rabbitakustompresets.kustom.pack&hl=en_IN",
             "contend": "A Brand new theme added on Rabbit Klwp. Update it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
-            "image": "https://pbs.twimg.com/media/EbNhRJbUEAAKMMI?format=jpg&name=large",
-            "title": "Update",
-            "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
-            "contend": "New Pixel Design wallpapers available now on Unusual Wallpapers. Grab it now!"
         }
     ],
     "resources": [
