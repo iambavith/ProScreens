@@ -1,6 +1,20 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/m_ThUVi-bKSJTswWsGA1aklYjmoG8x6mDz1xgx3pZXF-FfrlmRKobCul7Xkz-rBp4Sk=s180-rw",
+            "image": "https://pbs.twimg.com/media/EaSGLCKVAAAzj73?format=jpg&name=large",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.envy",
+            "contend": "Envy Icon pack is currently on sale. Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/weOVQ_oWGX9i6c_vzeIyUv0rvvJMhyjEhphyrQ4jgoGdkcitNNeCni9Z-35_Xhq-Tlw=s180-rw",
+            "image": "https://pbs.twimg.com/media/EWa0MhjU0AERnxf?format=jpg&name=900x900",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.worst",
+            "contend": "Worst Icon pack is currently on sale. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
             "image": "https://lh3.googleusercontent.com/36RTZ7E8lGS3eEKV2TOEaix155OVntnRafamo0wj9CHAmcGlFy8T_5rfnsu2pBVr9Nw=w1366-h625-rw",
             "title": "Sale",
