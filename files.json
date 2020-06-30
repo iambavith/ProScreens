@@ -1,6 +1,13 @@
 {
     "sales": [
         {
+            "avatar": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
+            "image": "https://lh3.googleusercontent.com/D-ICbhyL-PNuVCGvi42l7QxwqVfVGbnp-dVJZoYm1SHIY3P4kTvJ-LkMSHkLliCVOxA=w1366-h625-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+            "contend": "Joy Walls ツ - 4k Wallpapers App is currently on sale. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/m_ThUVi-bKSJTswWsGA1aklYjmoG8x6mDz1xgx3pZXF-FfrlmRKobCul7Xkz-rBp4Sk=s180-rw",
             "image": "https://pbs.twimg.com/media/EaSGLCKVAAAzj73?format=jpg&name=large",
             "title": "Sale",
@@ -50,34 +57,6 @@
             "contend": "Nebula Icon pack updated with 45 new icon. Update it now!"
         },
         {
-            "avatar": "https://lh3.googleusercontent.com/P6hlij5J2fZtUsSaWkl6net_9vFG1LBfjtoxX-O93qZ30BskMFc2v3skPnB4ltMtAg=s180-rw",
-            "image": "https://lh3.googleusercontent.com/RD6abYGjYK_BB7-8jgHvyxOCJ8tWYrsH96h1PU0-prf_ZObLt7-At7dLpPxt-tIuFGVS=w720-h310-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=fiction.kustom.pack",
-            "contend": "Fiction KWGT is currently on 40% sale till 28-06-2020. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/c-upNYdZ7qNcq0qyHKTU0vPURT6pmNqbXoII7uZh3hh76S81PvKM2s7sB3swEva0DOo=s180-rw",
-            "image": "https://lh3.googleusercontent.com/lfD8x4xhE6BVFDLbbLAZcOHIfV7jA7-0x92SxPlwuX3DNWZJqnNPYwv1n24WfLuEwcA=w720-h310-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=flamingokwgt.kustom.pack",
-            "contend": "Flamingo KWGT is currently on 40% sale till 28-06-2020. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/mI7dj4JyBdaTptk4--BsdaxIFd0mO-Nkmuf2q__AVjrQq6DK0J_nVI6I46S1O49JedhP=s180-rw",
-            "image": "https://lh3.googleusercontent.com/U5FQNhZY-czMmxSGX2xkISkvk-sG64xnraMXPqSUoJ_P5y_3HEKFYfWqY75s9CRSmEg=w330-h160-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.lknninex.enix",
-            "contend": "Enix icon pack is on Sale for limited time. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/titELtEd0_Jb0uF8iahgFjmbb8nDL7UTkVLv5Xvb1LrWaUH7SC54yJQML6D1iagfYg=s180-rw",
-            "image": "https://pbs.twimg.com/media/EbBIlrgXYAAv2La?format=jpg&name=4096x4096",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
-            "contend": "WLIP - Icon Pack is on Sale for limited time. Grab it now!"
-        },
-        {
             "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
             "image": "https://pbs.twimg.com/media/EbN3fYTUEAA-ZoU?format=jpg&name=medium",
             "title": "Update",
@@ -121,6 +100,18 @@
         }
     ],
     "newapps": [
+        {
+            "avatar": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "dev": "Yog",
+            "title": "Joy Walls ツ",
+            "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+            "screenShot1": "https://lh3.googleusercontent.com/D-ICbhyL-PNuVCGvi42l7QxwqVfVGbnp-dVJZoYm1SHIY3P4kTvJ-LkMSHkLliCVOxA=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/UT8fJNesyr8PRESeubkWY1FBA6N9wTJjGkGRsf5arI3cNOXB66RDmodBDwh-GRLnIw=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/9j8PmC9YlvYpqQNDj6gYAuhUwAtQFuyfuXj0Tm5WxdCOVAmyFLBhI_N2yzqZg0kNoL-K=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/TbgApGQ6rfO0isPOQRcd_VGk7cZRd9SnaUHz4Kv-4P8pzIGE7WZaEszI64_bjPcY9nU=w1366-h625-rw",
+            "contend": "Joy Walls ツ gives you a Unique 4K Wallpapers that suits your customization needs! Get the best out of your phone with beautiful 4k Wallpapers that Makes your Homescreen Look Stunning, Comes in 3 different color variationsso you get to choose the one that suits your liking."
+        },
         {
             "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
