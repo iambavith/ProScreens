@@ -1,6 +1,16 @@
 {
     "trending": [
         {
+            "name": "Bricks 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/593.png"
+        },
+        {
+            "name": "Bricks 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/592.png"
+        },
+        {
             "name": "Camel 3",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/591.png"
@@ -14,21 +24,29 @@
             "name": "Camel 1",
             "author": "iambavith",
             "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/589.png"
-        },
-        {
-            "name": "Trees 3",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/588.png"
-    
-        },
-        {
-            "name": "Trees 2",
-            "author": "iambavith",
-            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/587.png"
-    
         }
     ],
     "Wallpapers": [
+        {
+            "name": "Bricks 4",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/595.png"
+        },
+        {
+            "name": "Bricks 3",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/594.png"
+        },
+        {
+            "name": "Bricks 2",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/593.png"
+        },
+        {
+            "name": "Bricks 1",
+            "author": "iambavith",
+            "url": "https://raw.githubusercontent.com/iambavith/decodevs/master/592.png"
+        },
         {
             "name": "Camel 3",
             "author": "iambavith",
