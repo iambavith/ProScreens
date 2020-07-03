@@ -1,6 +1,13 @@
 {
     "sales": [
         {
+            "avatar": "https://pbs.twimg.com/profile_images/1176805026754379776/6AOlkLGR_400x400.jpg",
+            "image": "https://pbs.twimg.com/media/Eb5oCmRXgAIFfTH?format=jpg&name=large",
+            "title": "Giveaway",
+            "url": "https://twitter.com/One4Studio/status/1278573744919842816",
+            "contend": "Vera icon pack is live on Google Play! 552 icons for now (more coming soon), 25 wallpapers and 3 kwgt widgets.Follow Creative Studio 14 on twitter, like and retweet and you can win one out of 10 promo codes on Saturday!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
             "image": "https://lh3.googleusercontent.com/D-ICbhyL-PNuVCGvi42l7QxwqVfVGbnp-dVJZoYm1SHIY3P4kTvJ-LkMSHkLliCVOxA=w1366-h625-rw",
             "title": "Sale",
@@ -8,46 +15,11 @@
             "contend": "Joy Walls ツ - 4k Wallpapers App is currently on sale. Grab it now!"
         },
         {
-            "avatar": "https://lh3.googleusercontent.com/m_ThUVi-bKSJTswWsGA1aklYjmoG8x6mDz1xgx3pZXF-FfrlmRKobCul7Xkz-rBp4Sk=s180-rw",
-            "image": "https://pbs.twimg.com/media/EaSGLCKVAAAzj73?format=jpg&name=large",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.dreamon.envy",
-            "contend": "Envy Icon pack is currently on sale. Grab it now!"
-        },
-        {
             "avatar": "https://lh3.googleusercontent.com/weOVQ_oWGX9i6c_vzeIyUv0rvvJMhyjEhphyrQ4jgoGdkcitNNeCni9Z-35_Xhq-Tlw=s180-rw",
             "image": "https://pbs.twimg.com/media/EWa0MhjU0AERnxf?format=jpg&name=900x900",
             "title": "Sale",
             "url": "https://play.google.com/store/apps/details?id=com.dreamon.worst",
             "contend": "Worst Icon pack is currently on sale. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
-            "image": "https://lh3.googleusercontent.com/36RTZ7E8lGS3eEKV2TOEaix155OVntnRafamo0wj9CHAmcGlFy8T_5rfnsu2pBVr9Nw=w1366-h625-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
-            "contend": "Unusual Wallpapers is currently on 50% sale. Grab it now!"
-        },
-        {
-            "avatar": "https://pbs.twimg.com/profile_images/1257230298703523840/nFxz8ZHQ_400x400.jpg",
-            "image": "https://pbs.twimg.com/media/EbS1NeLUYAACtUE?format=jpg&name=small",
-            "title": "Giveaway",
-            "url": "https://twitter.com/justnewdesigns/status/1275844976019148801",
-            "contend": "Follow Justnewdesigns on Twitter & Instagram and get a chance to will free promocodes for Crayon IconPack."
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/A3Jpmcrl4jErjvo-RkLDHfSVtLTEscuddewsbgl8CA86AgIysqKhSZX0St5Zp_0PUxqG=s180-rw",
-            "image": "https://lh3.googleusercontent.com/3pa1C2F3GMJEbrpVjTMII-HSb5LVThzpwlBHzqUNn7yZCDvxcXEOlOnBrMkKxzsARw=w720-h310-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.jndapp.linex.white.iconpack",
-            "contend": "LineX White Icon Pack is currently on Sale, Nearly 70% off. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/_jcWOMD_9kMyMtBG1fLzY_Chl-_tPkpEzoAY3fuC4T6QZf_f6h9VoIR5CN0KBI_YaAE=s180-rw",
-            "image": "https://lh3.googleusercontent.com/IkpHnQnsDM81kA59DmlfyKhK_AjTlwOGJ0EmhU9BVReRqHEPnt_iHLt82_KMDnDgmw=w720-h310-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.jndapp.redline.linex.iconpack",
-            "contend": "RedLine Icon Pack : LineX is currently on Sale, Nearly 70% off. Grab it now!"
         },
         {
             "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
@@ -100,6 +72,40 @@
         }
     ],
     "newapps": [
+        {
+            "avatar": "https://lh3.googleusercontent.com/9aGek037ABs2J4yU3NkXUnxUPSJDMOpW0tVBXKGH0sXHyJGltmXxTjFNs1T6queS_g=s180-rw",
+            "dev": "Jason Zane",
+            "title": "Flow KWGT",
+            "url": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
+            "screenShot1": "https://lh3.googleusercontent.com/6_TtiDESsbzM8KRzuGAZLoOF1f__UfKbi4pWu_m2zAFocni7WrL4SgfxIhn6NpjdLSgF=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/Ma4fGd6cUS-ZN-Xi-i4yJvrDi0yZYKADkCbn4Dt1uQmQtDpMX5tjEmBjPiLzWjXXzQ=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/6rO9J4xTQyxZ41QYqrF2jpAsqvaiQfUMjoYc5z0CjmcIdczwpXshzIAYe21RsEeHhpc=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/IwaLNYCe5j-eYodqj9qBb8QqiSIKXWYGl7yCb4JgjSG5qBHCsKo8-iCcDLDG97g07Q=w1366-h625-rw",
+            "contend": "Flow KWGT brings a variety of high quality widgets to your home screen."
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/H7EJJDat121VNjoX-PlCUV-CkVaG6iB4nKsck5jN6w6uvSdKRPieW4k1fM-hZrpARbhC=s180-rw",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "dev": "Creative Studio 14",
+            "title": "Vera Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+            "screenShot1": "https://lh3.googleusercontent.com/-hDaeUb0jFcUi5pG2I-2DkCjv1bI34iJUNjm39Z80H5GL1yawfflgAR29fe1HJla3mo=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/8BSWDyVx5W__764XefbLTdFrXVIZTEkDEKpA44M3Hc2k19RXt6FhC8cm4fKqD8rVNf-1=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/VYGzX9iNa9QEQhNUWb7rvql7V3vHmPZcOg5F9vyPaTSvR3cdDOz4Vb1mxHbcTCbsapE=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/Q5qSAFaOA0ic8zcN4_eH-cUGDLzAe9gYiYpreLheNQerXut0rDIpedlONZrg6GBYREI=w1366-h625-rw",
+            "contend": "Vera icon pack is a set of colorful icons with modern gradient icons, made for both dark wallpapers and dark setups in general. There is no unique shape, every icon have different one. Pixel perfect vector icons, 25 exclusive wallpapers specially made to match the icons, 3 KWGT widgets included and many more to come, with support for all popular launchers like Lawnchair, Nova etc. makes our icon pack definitely worth checking."
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/p5cgC4xilja5dCO9t_CMi09fM-qROdKKOtaUomGdgwZa_zX2cQysOcbYcx9-hudILUvk=s180-rw",
+            "dev": "undefyned",
+            "title": "Baemax for KWGT",
+            "url": "https://play.google.com/store/apps/details?id=ml.undefyned.baemax",
+            "screenShot1": "https://lh3.googleusercontent.com/dMzro401DEjjZiyG1FT6M1w4jg1lc_hnKehUOPVRMOfpe2SZVk36zqVZEzeC2Se2Nws=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/PDbB7L868j3b_LMlKNvU1KInY6gZbQONAlNh5w7DurUT9gPwePfbnogbjaPveBTu1g=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/5wAS-hO68PlHNtm56iZz3kt-TOIuLGR_KOi1jn_31vIBAwnLO-2UEaMzbGiWM1v1hA=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/CQTOmdafujcMS7-z4nB-YPReQbudHfSsSfuwjXpxR4p8qhhz1Xj3WwDNOvjRlL2HdGI=w1366-h625-rw",
+            "contend": "Health and Hygiene focused widgets that help you have some routine micro check-ups.     • H2O: Set a goal for the number of glasses of water to drink in a day. Add or Remove the glasses as you drink those.     • Cleanse: Hourly reminder to wash your hand and/or face. May or may not work every time due to the way Android handles widgets. I'll think of a workaround to that.     • Zap: Keep your device battery temperature monitored. How will you use the widgets if something happens to your device!     • Fit: Track your steps, calories and distance walked each day. Compare it with the data from yesterday. Powered by Google Fit."
+        },
         {
             "avatar": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
@@ -176,6 +182,12 @@
     ],
     "topapps": [
         {
+            "icon": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
+            "name": "Joy Walls ツ",
+            "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+            "cost": "Paid"
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/0oijJbSQlnTEJNc4c8J-n8tpMWgcv-5GvhbyLYEJvO-TRTwavfeRBpsm-peZWCBW3A=s180-rw",
             "name": "Pix Material Dark Icon Pack",
             "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.dark",
@@ -230,8 +242,20 @@
             "cost": "paid"
         },
         {
+            "icon": "https://lh3.googleusercontent.com/lK84Wuil5mGSd6PiBsOLDovF6Q-MjWK3HgI_euHuSeDt-9Z9nQV3527KpEUqvA7_yg=s180-rw",
+            "name": "DarkPix",
+            "url": "https://play.google.com/store/apps/details?id=com.wallpaper.darkpix",
+            "cost": "Free/Paid"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/xpc5FCYMJM1rxo7ZSPmgSAEreQ4wVhlzsfr1vB5YTxo0-d6zFoA1h-1420PQhUztGYPk=s180-rw",
+            "name": "WallPix",
+            "url": "https://play.google.com/store/apps/details?id=com.wallpaper.wallpix",
+            "cost": "Free/Paid"
+        },
+        {
             "icon": "https://lh3.googleusercontent.com/Aw36Fhd4YSaZKKR-W34SQSrmX3CoHKYpNLW767PkCAzSbHeRhcx1OI0cTMfAnpFptg=s180-rw",
-            "name": "PixCargs KWGT",
+            "name": "PixCards KWGT",
             "url": "https://play.google.com/store/apps/details?id=pixcards.kustom.pack",
             "cost": "paid"
         },
@@ -258,6 +282,12 @@
             "name": "Ikon - Free Icon Pack",
             "url": "https://play.google.com/store/apps/details?id=com.BladeXDesigns.Ikon",
             "cost": "Free"
+        },
+        {
+            "icon": "https://lh3.googleusercontent.com/XDFSs2DHhEbLwovKULM51pZ2CQcWTLrK1aO1KONSn3DR65zbrZCJBAJZ_nGA5doYfhQ=s180-rw",
+            "name": "Wallrox Wallpapers",
+            "url": "https://play.google.com/store/apps/details?id=com.material.wallrox",
+            "cost": "Free/Paid"
         },
         {
             "icon": "https://lh3.googleusercontent.com/WOX-biWw_phsH4uz-aWRcWOteMAdbM2k2ABXabmnqlrcDl9w7i1qeSDmzXBZryEIxQ=s180-rw",
