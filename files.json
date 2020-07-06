@@ -8,18 +8,11 @@
             "contend": "Vera icon pack is live on Google Play! 552 icons for now (more coming soon), 25 wallpapers and 3 kwgt widgets.Follow Creative Studio 14 on twitter, like and retweet and you can win one out of 10 promo codes on Saturday!"
         },
         {
-            "avatar": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
-            "image": "https://lh3.googleusercontent.com/D-ICbhyL-PNuVCGvi42l7QxwqVfVGbnp-dVJZoYm1SHIY3P4kTvJ-LkMSHkLliCVOxA=w1366-h625-rw",
+            "avatar": "https://lh3.googleusercontent.com/cfeySQsEnGcG0FuEt1LTXAa3UvNFbNKJwzyX-y3TTGCpleRQdDbt4ClHdUQcAEVZuvM=s180-rw",
+            "image": "https://pbs.twimg.com/media/EcLQqriWsAM2YF_?format=jpg&name=medium",
             "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
-            "contend": "Joy Walls ツ - 4k Wallpapers App is currently on sale. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/weOVQ_oWGX9i6c_vzeIyUv0rvvJMhyjEhphyrQ4jgoGdkcitNNeCni9Z-35_Xhq-Tlw=s180-rw",
-            "image": "https://pbs.twimg.com/media/EWa0MhjU0AERnxf?format=jpg&name=900x900",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.dreamon.worst",
-            "contend": "Worst Icon pack is currently on sale. Grab it now!"
+            "url": "https://play.google.com/store/apps/developer?id=Yaatzek",
+            "contend": "YKP 1 and YKP 2 are currently on 50% sale for limited Time. Grab it now!"
         },
         {
             "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
@@ -181,6 +174,13 @@
         }
     ],
     "topapps": [
+        
+        {
+            "icon": "https://lh3.googleusercontent.com/NElZjkgSnPzoNt6ueLX7sB2eNKoCpBDC6Ge0RmScVFa4lEMaaMbwpkbqVg9mmSS3Tj0=s180-rw",
+            "name": "Duo Icon Pack",
+            "url": "https://play.google.com/store/apps/details?id=com.sreerag.duo",
+            "cost": "Paid"
+        },
         {
             "icon": "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
             "name": "Joy Walls ツ",
@@ -204,6 +204,11 @@
             "name": "Pix Material Icon Pack",
             "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
             "cost": "paid"
+        },{
+            "icon": "https://lh3.googleusercontent.com/Jzv9aoM-kGOBXydNOaBDmB8Fo7P8LLBcUEIZIMtDUWm_7uelAun3H1CaFaa4rHkZ-Z4=s180-rw",
+            "name": "Whalepapers Pro",
+            "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+            "cost": "Paid"
         },
         {
             "icon": "https://lh3.googleusercontent.com/RfBtZVk7sSTFOMVey_Y22QLns1JkKpLP4coLleLSdW5pjAD-lOWE9pdNUkP8WD9C5s4=s180-rw",
