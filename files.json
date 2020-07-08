@@ -1,5 +1,12 @@
 {
     "sales": [
+          {
+            "avatar": "https://lh3.googleusercontent.com/8aR158okf36-Q3PHhMwR2-ZIxzIg5Z-oYRo9iVYKLyyxw5MlnIn3sDvVhgekd3ziw00=s180-rw",
+            "image": "https://lh3.googleusercontent.com/_U7UbU4VBaVACYpESAaW9Ppb79skQgxZfVyO71rsG3K-J7eLdPD99hkjMFxFhRPEag=w1366-h625-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.jndapp.flora.material.iconpack",
+            "contend": "Flora Icon pack is currently on Sale for limited time.Grab it now!"
+        },
         {
             "avatar": "https://lh3.googleusercontent.com/yIP4BkjmGyMHUJU1uOus2fpt1iSkhfqbupsQaDnf4azr5FtYRSA_TaYqokyX1ESJSbA=s180-rw",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/Sale.png",
