@@ -1,5 +1,26 @@
 {
     "sales": [
+        {
+            "avatar": "https://lh3.googleusercontent.com/__hFliK7XZ9Q0cms1J6YgFAXkKXiCYazf8j7ONNzajWrGy5GoiC1dXxM28FHmxe9nw=s180-rw",
+            "image": "https://lh3.googleusercontent.com/SW1zfsflX2NJecRVQ9NtI6v7hlaiiMX7KX42JzwhP63KVJA2s809oasxPYqgsEDOkc2t=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.ruzits3",
+            "contend": "Ruzits 3 Icon pack is currently on Sale for limited time.Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/U3KUILQgmU4og8CUG9jBWadIJ611a6JcK4ZrlSNPTQn4DmN54kgw4UM1YLTEvDe88sA=s180-rw",
+            "image": "https://lh3.googleusercontent.com/dCI1wn1fxT1_WDz_9MN1AUBAdAjS4RlW8yWyfiKEPwVHlEsXxz80vDd4O9hSfR2ZiDk=w720-h310-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.ruzits",
+            "contend": "Ruzits 2 Icon pack is currently on Sale for limited time.Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/cXNwhec1wscD7c58nyzJLoyqVy6h3M5AbIxG5Jr_F-3-Np2f7-7u9-a8hZIkU8LHzOiD=s180-rw",
+            "image": "https://lh3.googleusercontent.com/cL56xXf3t4JqHAA7uAfaRhQQBabOndxgZRKDXGyUm1cHMCQQPE8AvTZyYsxM_Y19QhMo=w1366-h625-rw",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/details?id=com.dreamon.nidji",
+            "contend": "Nidji Icon pack is currently on Sale for limited time.Grab it now!"
+        },
           {
             "avatar": "https://lh3.googleusercontent.com/8aR158okf36-Q3PHhMwR2-ZIxzIg5Z-oYRo9iVYKLyyxw5MlnIn3sDvVhgekd3ziw00=s180-rw",
             "image": "https://lh3.googleusercontent.com/_U7UbU4VBaVACYpESAaW9Ppb79skQgxZfVyO71rsG3K-J7eLdPD99hkjMFxFhRPEag=w1366-h625-rw",
@@ -37,6 +58,17 @@
         }
     ],
     "resources": [
+        {
+            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_0.jpg",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "title": "Canva Walls",
+            "url": "https://t.me/canvawalls",
+            "screenShot1": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_1.jpg",
+            "screenShot2": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_2.jpg",
+            "screenShot3": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_3.jpg",
+            "screenShot4": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_4.jpg",
+            "contend": "This channel contains wallpapers made using Canva.com / Canva App"
+        },
         {
             "avatar": "https://ph-files.imgix.net/b3e14f8e-e8b7-4d55-8d3a-4dcbd2095346.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
