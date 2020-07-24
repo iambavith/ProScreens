@@ -2,6 +2,58 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Dan",
+    "iconpack" : "Flat Pie Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.flatpie.iconpack&hl=en_IN",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/180.png",
+    "title" : "Minimal Desert",
+    "wallpaper" : "Miluwalls",
+    "wallpapername" : "Desert",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=edwinmd.apps.miluwalls&hl=en_IN",
+    "widget" : "Mini-ism KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack&hl=en_IN"
+  },{
+    "authorname" : "Saumil Shah",
+    "iconpack" : "Nebula Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/179.png",
+    "title" : "Blob",
+    "wallpaper" : "Joy Walls",
+    "wallpapername" : "Blob puddle pink",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+    "widget" : "Lucent KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },{
+    "authorname" : "Vishal",
+    "iconpack" : "Candycons Unwrapped",
+    "iconurl" : "https://play.google.com/store/apps/details?id=vukash.in.candycons.unwrapped",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/178.png",
+    "title" : "Town",
+    "wallpaper" : "Unusual Wallpapers",
+    "wallpapername" : "Beautiful Town",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+    "widget" : "Modern Ui KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=modernuiforkwgt.kustom.pack"
+  },{
+    "authorname" : "Yash",
+    "iconpack" : "Nebula Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/177.png",
+    "title" : "Turing Pattern",
+    "wallpaper" : "By Sreerag",
+    "wallpapername" : "Turing Pattern",
+    "wallpaperurl" : "https://www.mediafire.com/folder/pgrakfjed0aw7/Turing",
+    "widget" : "Lucent KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },{
     "authorname" : "Saumil Shah",
     "iconpack" : "Moxy Icons",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.moxy",
@@ -3062,6 +3114,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
     "minimal" : [{
+      "authorname" : "Saumil Shah",
+      "iconpack" : "Nebula Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/177.png",
+      "title" : "Blob",
+      "wallpaper" : "Joy Walls",
+      "wallpapername" : "Blob puddle pink",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget" : "Lucent KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },{
       "authorname" : "Arijit",
       "iconpack" : "Bucin Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.bucin.icons",
@@ -3592,6 +3657,32 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=mintkwgt.kustom.pack"
     }],
     "illustration" : [{
+      "authorname" : "Dan",
+      "iconpack" : "Flat Pie Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.flatpie.iconpack&hl=en_IN",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/180.png",
+      "title" : "Minimal Desert",
+      "wallpaper" : "Miluwalls",
+      "wallpapername" : "Desert",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=edwinmd.apps.miluwalls&hl=en_IN",
+      "widget" : "Mini-ism KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack&hl=en_IN"
+    },{
+      "authorname" : "Vishal",
+      "iconpack" : "Candycons Unwrapped",
+      "iconurl" : "https://play.google.com/store/apps/details?id=vukash.in.candycons.unwrapped",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/178.png",
+      "title" : "Town",
+      "wallpaper" : "Unusual Wallpapers",
+      "wallpapername" : "Beautiful Town",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+      "widget" : "Modern Ui KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=modernuiforkwgt.kustom.pack"
+    },{
       "authorname" : "Meet Shah",
       "iconpack" : "Widget",
       "iconurl" : "https://play.google.com/store/apps/details?id=sg.shivrajghule.myskin",
@@ -4169,6 +4260,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
     }],
     "light" : [{
+      "authorname" : "Yash",
+      "iconpack" : "Nebula Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/177.png",
+      "title" : "Turing Pattern",
+      "wallpaper" : "By Sreerag",
+      "wallpapername" : "Turing Pattern",
+      "wallpaperurl" : "https://www.mediafire.com/folder/pgrakfjed0aw7/Turing",
+      "widget" : "Lucent KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },{
       "authorname" : "Arijit",
       "iconpack" : "Bucin Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.bucin.icons",
