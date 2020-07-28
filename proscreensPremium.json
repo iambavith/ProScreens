@@ -2,6 +2,45 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Santhosh",
+    "iconpack" : "Jool jyphs Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.jool.jyphs",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/183.png",
+    "title" : "Minimal Cat",
+    "wallpaper" : "Pixurr wallpapers",
+    "wallpapername" : "Minimal 29",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+    "widget" : "Water melon KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+  },{
+    "authorname" : "Santhosh",
+    "iconpack" : "Caelus Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caeluswhite",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/182.png",
+    "title" : "Blurry Setup",
+    "wallpaper" : "Walli",
+    "wallpapername" : "Blurry grass",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+    "widget" : "Outline KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=outlinewidget.kustom.pack"
+  },{
+    "authorname" : "Jason",
+    "iconpack" : "Cavion Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/181.png",
+    "title" : "Glitch Setup",
+    "wallpaper" : "Wallnut",
+    "wallpapername" : "Glitch",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+    "widget" : "Flow KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
+  },{
     "authorname" : "Dan",
     "iconpack" : "Flat Pie Icons",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.flatpie.iconpack&hl=en_IN",
@@ -3114,6 +3153,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
     "minimal" : [{
+      "authorname" : "Santhosh",
+      "iconpack" : "Jool jyphs Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.jool.jyphs",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/183.png",
+      "title" : "Minimal Cat",
+      "wallpaper" : "Pixurr wallpapers",
+      "wallpapername" : "Minimal 29",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "widget" : "Water melon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },{
       "authorname" : "Saumil Shah",
       "iconpack" : "Nebula Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -4101,6 +4153,19 @@
       "widgeturl" : "https://play.google.com/store"
     }],
     "nature" :[{
+      "authorname" : "Santhosh",
+      "iconpack" : "Caelus Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caeluswhite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/182.png",
+      "title" : "Blurry Setup",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Blurry grass",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Outline KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=outlinewidget.kustom.pack"
+    },{
       "authorname" : "Yudhajit",
       "iconpack" : "BeeLine Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
@@ -4260,6 +4325,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
     }],
     "light" : [{
+      "authorname" : "Santhosh",
+      "iconpack" : "Jool jyphs Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.jool.jyphs",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/183.png",
+      "title" : "Minimal Cat",
+      "wallpaper" : "Pixurr wallpapers",
+      "wallpapername" : "Minimal 29",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "widget" : "Water melon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },{
       "authorname" : "Yash",
       "iconpack" : "Nebula Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -4688,6 +4766,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=magicforkwgt.kustom.pack"
     }],
     "others" : [{
+      "authorname" : "Jason",
+      "iconpack" : "Cavion Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.cavion",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/181.png",
+      "title" : "Glitch Setup",
+      "wallpaper" : "Wallnut",
+      "wallpapername" : "Glitch",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "widget" : "Flow KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
+    },{
       "authorname" : "Rashed",
       "iconpack" : "Bubblegum Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum",
