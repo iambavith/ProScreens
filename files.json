@@ -1,39 +1,25 @@
 {
     "sales": [
         {
-            "avatar": "https://lh3.googleusercontent.com/_RuytHx_hRNN5573GXtuq1-P-vkQXck3OxINJfVykV6I6ymtde1LuhDNplnlXfYUdt0=s180-rw",
-            "image": "https://lh3.googleusercontent.com/e9NiqZREg2yL2LZu5k6Or50ud_D77PqKDTo93n8KtdW0BfI4nFRcyEXge6w8HiPo0Np6=w1366-h625-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.edzondm.simplit",
-            "contend": "Simplit Icon pack is on Sale for Limited time. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/_71VVzOTgqoC_OuSdtLerR1anNV5wLBEmATlJXFicphak4mj58mM7AEo02GneQt7TQ=s180-rw",
-            "image": "https://lh3.googleusercontent.com/nKmtqialdi_XcmbO_a8jyvfcb0txmvPQW2ZIkhuXlGPWR4WXt2c9Xd2XFSo8aJwZktg=w1366-h625-rw",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
-            "contend": "Foxbit Icon pack is on Sale for Limited time. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/cfeySQsEnGcG0FuEt1LTXAa3UvNFbNKJwzyX-y3TTGCpleRQdDbt4ClHdUQcAEVZuvM=s180-rw",
-            "image": "https://pbs.twimg.com/media/EcLQqriWsAM2YF_?format=jpg&name=medium",
-            "title": "Sale",
-            "url": "https://play.google.com/store/apps/developer?id=Yaatzek",
-            "contend": "YKP 1 and YKP 2 are currently on 50% sale for limited Time. Grab it now!"
-        },
-        {
-            "avatar": "https://lh3.googleusercontent.com/51enB19MNdJuGErAovgQkReHmvDku0aUytGKfucABj3Be74gmXI5EofdrIKSHmHR3ew7=s180-rw",
-            "image": "https://pbs.twimg.com/media/EbcJAffVcAMuzSL?format=jpg&name=large",
+            "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
+            "image": "https://pbs.twimg.com/media/EeKqSlOWoAAcOeD?format=jpg&name=small",
             "title": "Update",
-            "url": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-            "contend": "Nebula Icon pack updated with 45 new icon. Update it now!"
+            "url": "https://play.google.com/store/apps/details?id=perseusforkwgtpro.kustom.pack",
+            "contend": "AmoledPapers is an app featuring 138 unique, exclusive wallpapers made specifically for Amoled displays! The collection is growing every week! Recently a new category was added focusing on 3D-rendered images. Enjoy!"
         },
         {
             "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
-            "image": "https://pbs.twimg.com/media/EbN3fYTUEAA-ZoU?format=jpg&name=medium",
+            "image": "https://pbs.twimg.com/media/EeEjrL4VAAALjJ6?format=jpg&name=small",
             "title": "Update",
-            "url": "https://play.google.com/store/apps/details?id=rabbitakustompresets.kustom.pack&hl=en_IN",
-            "contend": "A Brand new theme added on Rabbit Klwp. Update it now!"
+            "url": "https://play.google.com/store/apps/details?id=perseusforkwgtpro.kustom.pack",
+            "contend": "New version for Perseus for KWGT is available now. Grab it now!"
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
+            "image": "https://pbs.twimg.com/media/EdqL7T4UEAEQJw6?format=jpg&name=small",
+            "title": "Sale",
+            "url": "https://play.google.com/store/apps/dev?id=5559664342362929202",
+            "contend": "FictiOn Reborn, Flawless and Frizzy are on Sale. Grab it now"
         }
     ],
     "resources": [
@@ -83,6 +69,28 @@
         }
     ],
     "newapps": [
+        {
+            "avatar": "https://lh3.googleusercontent.com/jJl-EGqS5ftncCnMXEB5R-a4DZ3NkBcH818lLt_wkAc84QGMHHtt4Y05IEGA1AyPB-k=s180-rw",
+            "dev": "undefyned",
+            "title": "Eklipse for KLWP",
+            "url": "https://play.google.com/store/apps/details?id=ml.undefyned.eklipse",
+            "screenShot1": "https://lh3.googleusercontent.com/EvH3dKxaPujBajHnzvXRJgtW_wDMyyAL7CaVYpV5vopa1zNPVNCqrXQYEtGDi-Qa8Q=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/IPmdT-Bv2JGq0MzGkPc2yWGvsc9s4kuSndTXCiLXy1cZcil2e4xFci1-VrwLlt16UA=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/Dx6w-2vyn6dpgsGkk-7xjk7jci57B8pyRNegPidlS1XI9uBNNlW11IEI3MD0m7UJYg=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/Bv8U8_NM1XpJpFMcmeuArol-fm6wUKAkmQFNEwZ0yqt-2r3huXsSBZRvD8g3K0grsoY=w1366-h625-rw",
+            "contend": "REQUIRES KLWP PRO!! THE FREE VERSION OF KLWP WON'T WORK."
+        },
+        {
+            "avatar": "https://lh3.googleusercontent.com/jP94wpUv7Jb2p3QeUIfBFNQTDUhjg7cId1ybEcRJgsV3E7xshNmsGy9J8mNKu7aXqQ=s180-rw",
+            "dev": "Phones.and.Planes",
+            "title": "MoonLight Kwgt",
+            "url": "https://play.google.com/store/apps/details?id=com.ishaan.moonlightkwgt",
+            "screenShot1": "https://lh3.googleusercontent.com/sgwjW1V94z82G4U_7aKlxDs-9cpp_gBg5om0uId8Ie0qmtaEhURxA6uDth_EqCBse-4=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/Q4B7Ykqwd4KXmp0jgfZfdHmLYjWZfzwvXY7sKHakzx8hv2pzo43x0epgNiJTEJJToTg=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/Fhf6dDnrVwVby6xIzMdl_uuGFg46OSCOAURDZcbvp3tyGDwcZYCxnvtM2o54FxHhzOg=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/9708bKvnfLHtzHj9_AZqJ4odaNDaSZU1EWEtEWwNzjN7wFxH_xjwtzhHnC2-F2wfEkV_=w1366-h625-rw",
+            "contend": "MoonLight Kwgt is a pack of Uniquely Customized Kwgt Widgets with proper attention given to all the small details. The speciality of the pack is the variation in the kind of widgets included. We have tried to include all the different types of widgets so that we can make sure here we have something for everyone . Anyone who spends their hard earned money will not be disappointed. These widgets will definitely make your screens shine bright! Every widget is set perfectly at 100% scaling and it is recommended to keep the scaling at 100% for best results!"
+        },
         {
             "avatar": "https://lh3.googleusercontent.com/6tE12d4dEul9BrpNiQ32vpgbdK3ZXwxcqrp7gsHwoUMsA8lbPKKRqn8ChzrPIOaCpRA=s180-rw",
             "dev": "Subham Saha",
