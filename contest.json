@@ -1,81 +1,81 @@
 {
     "contest": [
         {
-            "appname": "Toowenty for Klwp",
-            "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.toowenty"
+            "appname": "Whalepapers Pro",
+            "url": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro&hl=en_IN"
         }
     ],
 
     "winners" : [
       {
-        "authorname" : "Saumil Shah",
-        "iconpack" : "Moxy Icons",
-        "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.moxy",
-        "launcher" : "Nova Launcher",
-        "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/176.png",
-        "title" : "Android",
-        "wallpaper" : "Joy Walls",
-        "wallpapername" : "Android Logo Navy",
-        "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
-        "widget" : "Lucent KWGT",
-        "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
-      },
-      {
-        "authorname" : "Anand",
-        "iconpack" : "Bubble Icons",
-        "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum",
-        "launcher" : "Lawnchair",
-        "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
-        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/175.png",
-        "title" : "Cartoon",
-        "wallpaper" : "Pixurr Walls",
-        "wallpapername" : "Minimalistic 56",
-        "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
-        "widget" : "Fuchsia KWGT",
-        "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
-      },
-      {
-        "authorname" : "Roki",
-        "iconpack" : "Foxbit Icons",
-        "iconurl" : "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
-        "launcher" : "Nova Launcher",
-        "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/174.png",
-        "title" : "Fox Setup",
-        "wallpaper" : "Pixurr Walls",
-        "wallpapername" : "Morning Foxie",
-        "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
-        "widget" : "Orca KWGT",
-        "widgeturl" : "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack"
-      },
-      {
-        "authorname" : "Meet Shah",
-        "iconpack" : "Widget",
-        "iconurl" : "https://play.google.com/store/apps/details?id=sg.shivrajghule.myskin",
-        "launcher" : "Lawnchair",
-        "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
-        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/173.png",
-        "title" : "Forest Setup",
-        "wallpaper" : "Telegram",
-        "wallpapername" : "Minimal",
-        "wallpaperurl" : "https://t.me/ProScreens/17864",
-        "widget" : "SG for KWGT",
-        "widgeturl" : "https://play.google.com/store/apps/details?id=sg.shivrajghule.myskin"
-      },
-      {
-        "authorname" : "Arijit",
+        "authorname" : "Yudhajit",
         "iconpack" : "Bucin Icons",
         "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.bucin.icons",
+        "launcher" : "Lawnchair",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/200.png",
+        "title" : "Color Burst",
+        "wallpaper" : "Amoled Papers",
+        "wallpapername" : "Burst",
+        "wallpaperurl" : "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
+        "widget" : "Lucent KWGT",
+        "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+      },{
+        "authorname" : "Affan Yasir",
+        "iconpack" : "Crayon Icons",
+        "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
+        "launcher" : "Hyperion Launcher",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=projekt.launcher",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/199.png",
+        "title" : "Carved Metal",
+        "wallpaper" : "Imgur",
+        "wallpapername" : "Cycling",
+        "wallpaperurl" : "https://imgur.com/K70CPle",
+        "widget" : "Mini-ism KWGT",
+        "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+      },{
+        "authorname" : "Jackson Hayes",
+        "iconpack" : "Kamijara Icons",
+        "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.kamijara.icons",
         "launcher" : "Nova Launcher",
         "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/172.png",
-        "title" : "Burger Setup",
-        "wallpaper" : "Joy walls",
-        "wallpapername" : "Burger",
-        "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/198.png",
+        "title" : "Big Mostache",
+        "wallpaper" : "Zedge",
+        "wallpapername" : "Mostache Face 216",
+        "wallpaperurl" : "https://zedge.me/PHTHxWg",
+        "widget" : "Mini music KWGT",
+        "widgeturl" : "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack",
+        "widget2" : "Outline KWGT",
+        "widget2url" : "https://play.google.com/store/apps/details?id=outlinewidget.kustom.pack"
+      },{
+        "authorname" : "Meet Shah",
+        "iconpack" : "Alchemy Kwgt",
+        "iconurl" : "https://play.google.com/store/apps/details?id=alchemyforkwgt.kustom.pack",
+        "launcher" : "Lawnchair",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/197.png",
+        "title" : "Pink Bird",
+        "wallpaper" : "Telegram",
+        "wallpapername" : "Pink Bird",
+        "wallpaperurl" : "https://t.me/ProScreens/20894",
         "widget" : "Spiffy KWGT",
         "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+      },{
+        "authorname" : "Mehul",
+        "iconpack" : "Greenline (Edited)",
+        "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.greenline.linex.iconpack",
+        "launcher" : "Nova Launcher",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/196.png",
+        "title" : "Pink Amoled",
+        "wallpaper" : "Telegram",
+        "wallpapername" : "G_Walls_1909",
+        "wallpaperurl" : "https://t.me/G_Walls/3970",
+        "widget" : "Self made",
+        "widgeturl" : "https://www.dropbox.com/s/68x1ib8jdkkz7yn/Widget_2.kwgt?dl=0",
+        "widget2" : "Self made (Status bar)",
+        "widget2url" : "https://www.dropbox.com/s/y9j5o1lyx7dlj2a/Status_Bar_3.kwgt?dl=0"
       }
     ]
 }
