@@ -1,6 +1,12 @@
 {
     "sales": [
         {
+            "image": "https://pbs.twimg.com/media/Eee87EQWkAARb8c?format=jpg&name=large",
+            "title": "Mizu Kwgt Update",
+            "link": "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt",
+            "contend": "Update for Mizu is live,12 new widgets added Total of 30 widgets. Grab it now!"
+        },
+        {
             "avatar": "https://lh3.googleusercontent.com/zkkaARiOUYePgrOFi7baiw2g0oiL8f76-QLPR_Nh-RcN88DxO_IDGPhREiQiffw8P4Y=s180-rw",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/whalepapers.png",
             "title": "New Wallpapers",
