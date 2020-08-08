@@ -2,6 +2,71 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Saumil Shah",
+    "iconpack" : "Athen Icon Pack",
+    "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/204.png",
+    "title" : "Black Boxes",
+    "wallpaper" : "Joy Walls",
+    "wallpapername" : "Black Waffers",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+    "widget" : "Stylish Widgets",
+    "widgeturl" : "https://t.me/stylishwidgets"
+  },{
+    "authorname" : "Rashed",
+    "iconpack" : "Reev Pro",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+    "launcher" : "Lawnchair",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/203.png",
+    "title" : "The RedWhite",
+    "wallpaper" : "Reev Pro",
+    "wallpapername" : "Crystallize- Third",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+    "widget" : "Nebbia KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=nebbiakwgt.kustom.pack"
+  },{
+    "authorname" : "Tanmoy Halder",
+    "iconpack" : "Minimalist Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.iconpack.minimalist",
+    "launcher" : "Lawnchair",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/203.png",
+    "title" : "Minimal Bicycle",
+    "wallpaper" : "Creative",
+    "wallpapername" : "Minimal Bicycle",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.kubix.creative",
+    "widget" : "Watermelon KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+  },{
+    "authorname" : "Saumil Shah",
+    "iconpack" : "Bilfy Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+    "launcher" : "Niagara Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/202.png",
+    "title" : "Rocket",
+    "wallpaper" : "Canva Walls",
+    "wallpapername" : "Canva Walls",
+    "wallpaperurl" : "https://t.me/canvawalls/412",
+    "widget" : "Lucent KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },{
+    "authorname" : "Subham Saha",
+    "iconpack" : "Bilfy Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/201.png",
+    "title" : "Scary Pumpkin",
+    "wallpaper" : "Pixurr Wallpapers",
+    "wallpapername" : "Paperstyle Graphic 04",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+    "widget" : "Pix Cards KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=pixcards.kustom.pack"
+  },{
     "authorname" : "Yudhajit",
     "iconpack" : "Bucin Icons",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.bucin.icons",
@@ -2899,6 +2964,19 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Saumil Shah",
+  "iconpack" : "Athen Icon Pack",
+  "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena",
+  "launcher" : "Nova Launcher",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/204.png",
+  "title" : "Black Boxes",
+  "wallpaper" : "Joy Walls",
+  "wallpapername" : "Black Waffers",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+  "widget" : "Stylish Widgets",
+  "widgeturl" : "https://t.me/stylishwidgets"
+},{
   "authorname" : "Yudhajit",
   "iconpack" : "Bucin Icons",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.bucin.icons",
@@ -5111,6 +5189,32 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=magicforkwgt.kustom.pack"
     }],
     "others" : [{
+      "authorname" : "Tanmoy Halder",
+      "iconpack" : "Minimalist Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.iconpack.minimalist",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/203.png",
+      "title" : "Minimal Bicycle",
+      "wallpaper" : "Creative",
+      "wallpapername" : "Minimal Bicycle",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.kubix.creative",
+      "widget" : "Watermelon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },{
+      "authorname" : "Saumil Shah",
+      "iconpack" : "Bilfy Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher" : "Niagara Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/202.png",
+      "title" : "Rocket",
+      "wallpaper" : "Canva Walls",
+      "wallpapername" : "Canva Walls",
+      "wallpaperurl" : "https://t.me/canvawalls/412",
+      "widget" : "Lucent KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },{
       "authorname" : "Jackson Hayes",
       "iconpack" : "Kamijara Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.kamijara.icons",
@@ -5440,6 +5544,32 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[{
+      "authorname" : "Rashed",
+      "iconpack" : "Reev Pro",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/203.png",
+      "title" : "The RedWhite",
+      "wallpaper" : "Reev Pro",
+      "wallpapername" : "Crystallize- Third",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "widget" : "Nebbia KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=nebbiakwgt.kustom.pack"
+    },{
+      "authorname" : "Subham Saha",
+      "iconpack" : "Bilfy Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/201.png",
+      "title" : "Scary Pumpkin",
+      "wallpaper" : "Pixurr Wallpapers",
+      "wallpapername" : "Paperstyle Graphic 04",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "widget" : "Pix Cards KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=pixcards.kustom.pack"
+    },{
       "authorname" : "Vignesh",
       "iconpack" : "Phosphor Cadmium",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
