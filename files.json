@@ -1,11 +1,12 @@
 {
     "sales": [
         {
-            "image": "https://pbs.twimg.com/media/Ee690CIU0AA8hP9?format=jpg&name=medium",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/finesta.png",
             "title": "Finesta KWGT",
             "link": "https://play.google.com/store/apps/details?id=finestakwgt.kustom.pack",
             "contend": "Minimal Designer Widgets, Initial Release with 40 Widgets a lot more to come on regular update."
         },
+        
         {
             "image": "https://pbs.twimg.com/media/EfBTCZ_UEAA7MuH?format=jpg&name=medium",
             "title": "Sale",
