@@ -440,5 +440,117 @@
             "cost": "paid"
         }
        
+    ],
+    "wallpaper" : [
+        {
+            "icon" : "https://lh3.googleusercontent.com/s2LCKzP2T7nUuzyXrmdEMkbxk7pIIWkV3jDjyC0kIFRtQ1zgJ2NhwC8ytwPOY5X_zTvj=s180-rw",
+            "name" : "Whalepapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepapers"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/Jzv9aoM-kGOBXydNOaBDmB8Fo7P8LLBcUEIZIMtDUWm_7uelAun3H1CaFaa4rHkZ-Z4=s180-rw",
+            "name" : "Whalepapers Pro",
+            "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/cz0zQfUMJdEI6ZZKXEIGt0tMqIsJKVJ1j5LWQ47fBjfwmA0S61FXgYGOJVShsP9QUPKG=s180-rw",
+            "name" : "Joy Walls",
+            "url" : "https://play.google.com/store/apps/details?id=app.yog.joywalls"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/Vs-zZFkOnJpU7dKtUeqgDLQ1WidiLGoCxmBBJvZoof0nCS-vjEyH3rOArCPV-9V9Lg=s180-rw",
+            "name" : "Amoled Papers",
+            "url" : "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/gXfbs1xI6RdM8l1z3JF8DjH4DTCo9qfT73wogb2d6DT25EDPF48IK8me_A2vT9d-B3pH=s180-rw",
+            "name" : "Unusual Wallpapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.badboy.wallun"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/T-ZbL9zEmm7YAmC1B8VA9EEQxGfkIuLWlnsS1b2e8BhQpiZSyaKh524DDMf1c1NkbK0=s180-rw",
+            "name" : "Walli",
+            "url" : "https://play.google.com/store/apps/details?id=com.shanga.walli"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/6K8o8mobG8O-6OYZPUBRQYvCALzkkjjRzLjHCeuB19gRSjdZ9T5djqb1WzmpldCcuVo=s180-rw",
+            "name" : "Walpy",
+            "url" : "https://play.google.com/store/apps/details?id=com.feresr.walpy"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/QNPPRtgJyH8Vgv5FCI8S7nFRfrszCvCPrM79nyYrSQbkqnO_vrMMGnyNGPI-tCX5dy8q=s180-rw",
+            "name" : "Backdrops",
+            "url" : "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/tG1cGE4q7U1aPYvCz_oF_Ia8paNDVMT9EOxyerIuNG-4ZV8u7zoWq1t2SnAc2N7MUQ9B=s180-rw",
+            "name" : "Dope Walls",
+            "url" : "https://play.google.com/store/apps/details?id=com.androholic.dopewalls"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/S0_fVCkC6m6aOOxuevL5RqUxMI-u6IJe0j9ExlWaQqqNS6xH5GHx3QC5cdUGwG6q-zM=s180-rw",
+            "name" : "VV Wallpapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.appcraft.wallpapers"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/FdFhU12-HIe43mhyBFSz5-nMFLkVB-zaUGcbREkxlbjJYtzH0J0WNkAX7L7_C306-eg=s180-rw",
+            "name" : "Wallrod Wallpapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/XDFSs2DHhEbLwovKULM51pZ2CQcWTLrK1aO1KONSn3DR65zbrZCJBAJZ_nGA5doYfhQ=s180-rw",
+            "name" : "Wallrox Wallpapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.material.wallrox"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/Q4w9OVuiZlHiFoAwov8631eqv0gMRruMUyqcyHDUJtNkFpRqdbCwW1hFRe3trqSRDGs=s180-rw",
+            "name" : "Wallrox Pro",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallrox.pro"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/lK84Wuil5mGSd6PiBsOLDovF6Q-MjWK3HgI_euHuSeDt-9Z9nQV3527KpEUqvA7_yg=s180-rw",
+            "name" : "Dark Pix",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallpaper.darkpix"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/yt34aX6h3vHBP8qcgt2Br9bERGucr8XOilSbU4kbMRmrYMCnBs0o-U0VSRkLgpyN4g=s180-rw",
+            "name" : "AmoledPix",
+            "url" : "https://play.google.com/store/apps/details?id=com.androholic.amoledpix"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/PNt27QB6Rd0VhbcCHzQ3ff5UFjCERdwe54aglpiSHceGD6_Uw315mtsR-ggmv-DusPw=s180-rw",
+            "name" : "Amoled Walls",
+            "url" : "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/N5cCG_HHbZhbPFpSIyHfNig4YRCzGuyOU8VaeqAmBq4WVf3QJz9mLIjCp22Y5bAQSqqM=s180-rw",
+            "name" : "WallHub",
+            "url" : "https://play.google.com/store/apps/details?id=com.Hastamev.WallHubFree"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/egHigzN3KuN5PyMR_OmSwUQEJ9NNHWZJKo4qUpwdEA2gb5Uo3c8SGBbrJIcGeHsQDg=s180-rw",
+            "name" : "Pixurr Wallpapers",
+            "url" : "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/osTPMO0sMva03Lo368k8fMvUPhA3micQ5ZdfyvYT10hdVhtlfZM6swp9dQGG70P6gg=s180-rw",
+            "name" : "WallPixel",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallpixel.app"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/xpc5FCYMJM1rxo7ZSPmgSAEreQ4wVhlzsfr1vB5YTxo0-d6zFoA1h-1420PQhUztGYPk=s180-rw",
+            "name" : "Wall Pix",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallpaper.wallpix"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/e7_XB5w3ZQr9FpPz3hAlUZZuLW0dHTCSLfXRZ5TFZyeaCGBx0LVk2SFg37jqJDEJ1g=s180-rw",
+            "name" : "Ultra Pix",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallpaper.ultrapix"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/8uIGXfWsfYAs_HXGBmVXuq98gx3XjU1pN9XjsckrptymrfSrgrCoVaaNiDGxV9PaJOc=s180-rw",
+            "name" : "ProPix",
+            "url" : "https://play.google.com/store/apps/details?id=com.wallpaper.propix"
+        }
     ]
 }
