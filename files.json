@@ -1,6 +1,18 @@
 {
     "sales": [
         {
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/10.png",
+            "title": "King Kwgt",
+            "link": "https://play.google.com/store/apps/details?id=com.kingkwgt.kustom.pack",
+            "contend": "There have 100 Neumorphism Style Kwgts More Comes With Regularly Updates"
+        },
+        {
+            "image": "https://pbs.twimg.com/media/EfIARB9U0AAkRll?format=jpg&name=small",
+            "title": "Fruza Theme",
+            "link": "https://twitter.com/code_krta_hu/status/1293100315923775489",
+            "contend": "This is a free theme for KLWP. It has a settings section and many globals to customise the theme."
+        },
+        {
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/finesta.png",
             "title": "Finesta KWGT",
             "link": "https://play.google.com/store/apps/details?id=finestakwgt.kustom.pack",
