@@ -1,6 +1,12 @@
 {
     "sales": [
         {
+            "image": "https://pbs.twimg.com/media/EfR_lVgUEAAZXc7?format=jpg&name=large",
+            "title": "Joy Walls",
+            "link": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+            "contend": "New Wallpapers are Added in Joy Wallsツ. This week update brings 10 new Wallpapers."
+        },
+        {
             "image": "https://pbs.twimg.com/media/EfWZqVVU8AApyY_?format=jpg&name=small",
             "title": "Coves Kwgt",
             "link": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
