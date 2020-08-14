@@ -1,6 +1,12 @@
 {
     "sales": [
         {
+            "image": "https://pbs.twimg.com/media/EfWZqVVU8AApyY_?format=jpg&name=small",
+            "title": "Coves Kwgt",
+            "link": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
+            "contend": "A Widget pack based on a very popular *Neumorphism* style for your Homescreen.Get it on Playstore now!!"
+        },
+        {
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/10.png",
             "title": "King Kwgt",
             "link": "https://play.google.com/store/apps/details?id=com.kingkwgt.kustom.pack",
