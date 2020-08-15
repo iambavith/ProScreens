@@ -8,6 +8,22 @@
 
     "winners" : [
       {
+        "authorname" : "Yudhajit",
+        "iconpack" : "Afterglow Pro",
+        "iconurl" : "Https://play.google.com/store/apps/details?id=com.stark.afterglow",
+        "launcher" : "Lawnchair",
+        "launcherurl" : "Https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/224.png",
+        "title" : "Minimal Flow",
+        "wallpaper" : "Cream wallpapers",
+        "wallpapername" : "Almond",
+        "wallpaperurl" : "Https://play.google.com/store/apps/details?id=com.app.cream",
+        "widget" : "One4 KWGT Pro",
+        "widgeturl" : "Https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtpro",
+        "widget2" : "PixCards KWGT",
+        "widget2url" : "Https://play.google.com/store/apps/details?id=pixcards.kustom.pack"
+      },
+      {
         "authorname" : "SK Wallpapers",
         "iconpack" : "Frosted Icons",
         "iconurl" : "https://play.google.com/store/apps/details?id=frost.icon.pack",
