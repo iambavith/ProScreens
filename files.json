@@ -591,6 +591,56 @@
     ],
     "icons" : [
         {
+            "icon" : "https://lh3.googleusercontent.com/i_qY-W18INRV9PsVvnMtYUx4A8Skbu_gOEa8ncAnltRoU9c9nyMws_Pc_iQNtxNzZw=s180-rw",
+            "name" : "Nova Dark Icon Pack",
+            "url"  : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/gG-Zgr7F7oQDQH4hiNMp1yfx7qd1FfhmPgTpD3-kXP2o3CKpnnPAncKDtlr-gxftrrA=s180-rw",
+            "name" : "Hera dark Icon Pack",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.heradark"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/khjS9KUGA1UeK175d7W_yvA2pM5GdGkdR_zfIzVpen0MVPn3fmqwAnqfi96nMODkDi8=s180-rw",
+            "name" : "Athena Icon pack",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athena"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/tN5KS8Tm3ePGlobkUOp0ELcSdTupNzeaenQXGn74ldPCaJrE6DfIBC-3GgM0ZD_XR78=s180-rw",
+            "name" : "Athena Dark Icon Pack",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.athenadark"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/VkV36Qcro6dpbwzCyIFMQsrAYaABKspUqZyvSKMAHxM8T15TQOFhqXMUOLZp1W2Wcg=s180-rw",
+            "name" : "Vera outline Icon pack",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.veraoutline"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/H7EJJDat121VNjoX-PlCUV-CkVaG6iB4nKsck5jN6w6uvSdKRPieW4k1fM-hZrpARbhC=s180-rw",
+            "name" : "Vera Icon pack",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/VRAU39CPZURJzEKK-J3z74uWFpPNpouMU5cZYShTbSIqluB9nO2fwjrA-wySYg_cwA=s180-rw",
+            "name" : "Vera outline Black",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.veraoutlineblack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/lPww9VN6pJPd-1FlZJMyjmcoUQqQ1vhpZ_BJXpJIT3aF1HC8AwuSav7hxpfKA1ysew=s180-rw",
+            "name" : "Vera outline white",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.veraoutlinewhite"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/wPC25VCeTcypTF365wL0GRY81gXkUOWh5kMlUYTTyh_Op7s9C8pSzx6cj5MrKHVrWVc=s180-rw",
+            "name" : "Circons Icon pack",
+            "url" : "https://play.google.com/store/apps/details?id=studio14.application.circons"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/AWYFD9c4oEKxuMeKgWw4c9IZ7EwHaHFU4n8_6DSj0emEDEGG50_khW75gF7HfQtaEw=s180-rw",
+            "name" : "Aura Icon Pack",
+            "url" : "https://play.google.com/store/apps/details?id=studio14.application.auraicons"
+        },
+        {
             "icon" : "https://lh3.googleusercontent.com/5sEoHeMI3sC5xXJq3VF7gdYxXMF_1GowS-h1eowtzELizuoKiv23fpS7Iiq4vGgdaTo=s180-rw",
             "name" : "Frosted Icon Pack",
             "url" : "https://play.google.com/store/apps/details?id=frost.icon.pack"
@@ -749,6 +799,89 @@
             "icon" : "https://lh3.googleusercontent.com/H9tZbhheAKs_ysV7rzAt_qBsuKOMmNIlKGaBgvSnKlpLyvClkZ2gp3SEfB0izMDv7A=s180-rw",
             "name" : "Minima Icon Pack",
             "url" : "https://play.google.com/store/apps/details?id=com.minma.icon.free"
+        }
+    ],
+    
+    "kwgt" : [
+        {
+            "icon" : "https://lh3.googleusercontent.com/cP7yUHt5kUorEFvlSC2L5Sw6oqK4CXF6tLZQ8LODYTw74DBlR_C59IP_1EcXOoysPLc=s180-rw",
+            "name" : "Lucent KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/fT7q91De-wRtLEG_LtWmS0r3e1tffA5aOrlzkzG5h5XW_jLXFY0aDmojE9WmTHq-2ks=s180-rw",
+            "name" : "One4KLWP Ultimate",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4klwpultimate"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/olgAKJcTyUpG6QPsHlVCm4-bTZd1amTFB_fC6bA_TrGeGic1KNyRQtrJT-amMfj2sIc=s180-rw",
+            "name" : "One4KWGT Ultimate",
+            "url" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtultimate"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/ZLdtZjzSkfDTVJ7M5_T8-dhpwqTFQzyVpIrYl7wA0nqjeEwpUff6Ix9RgNEEB06liezg=s180-rw",
+            "name" : "Watermelon for KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/kxh1BD5LnBUo-oQLD5lNMGRxcdgd0N3KzN0kz1teIJl_XGrkLKh26oypoTwpRy2PD42t=s180-rw",
+            "name" : "Mini music for KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/RQke4_0h5jb-EsTEJxaaEir-aCQxYWU-2lJFkbo3fK46XfpMTcEWSNOcbWx7L8azoFg=s180-rw",
+            "name" : "Spiffy KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/j2AGPQYuuqHVUoVJY1YLZa_1PFKRhQR1PLpVBAqII6M_HcLHX55nQFOfqW1GxNJR2zqz=s180-rw",
+            "name" : "Inspire KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=inspire.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/HMkqfGHW7j--ab0ZgfPsPeNfDf9Oo0fDzjo4N8ME1dmJzQGRcJeERvj8RZB71RZSySA=s180-rw",
+            "name" : "Frosbit KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=com.edzondm.frosbit.kwgt"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/QbJzG8c9vqsQFdiQvic-ropu15w5ymKRlwekvZRpBHy6DOL4bLXm2zpZtEwYehoPDQ=s180-rw",
+            "name" : "Abstract KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=abstractkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/MxVN1bm_3vjARkHDN_btU5w1zl0mLWI0IQRwwFIbkxBP4FP-trM4ygNtWKxDMEjFWg=s180-rw",
+            "name" : "Nebbia Pro KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/oSEFTRQMwKUo6tdpUwq8Y1OIZH0DaFO_14veM1hxWYosMIiJ1hjFMssOJqDSHzzxJes=s180-rw",
+            "name" : "Frizzy KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/mJvICu9GatHyeN7f_Hj6oLs6ZG_msJxRhQ8KXfdQ4ospTnxseHh4x-mfYLQ7nzqxfXQ=s180-rw",
+            "name" : "Velvet KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=com.stach.vui"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/C0qixBy_hsUTNcFL4dZyspQTEZ2MfQv4_LmQBucdd-TqLDr6CKBJ1Rt9dCGc7QqIR3Q=s180-rw",
+            "name" : "Orca for KWGT",
+            "url"  : "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/DuC8myKWKAe97_n4L80ia4HMThBWyZd-gqDlpdhG9wn0iFuJkMP04Ic_Ey37iz4DNg=s180-rw",
+            "name" : "Shadow KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=shadowkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/V0wdb4PdNFbf_6A9yq3woO66qihBz3ZVU22V5mble9aAEKoUl3tgGmp_qGFzoMILl6k=s180-rw",
+            "name" : "Feast KWGT",
+            "url" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/PTtRIQ6YHzQ_xpIo0vYV7zifUBXO3De9lg2jCPBOULetw0fIVuLAB0X813j1fk1VqA=s180-rw",
+            "name" : "Mini-ism for kwgt",
+            "url" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
         }
     ]
 }
