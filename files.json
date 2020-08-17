@@ -883,5 +883,32 @@
             "name" : "Mini-ism for kwgt",
             "url" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
         }
+    ],
+    "launcher" : [
+        {
+            "icon" : "https://lh3.googleusercontent.com/bG17NtlMqjaGYjLb31IH1Y-nnHKzEa6DgqOXs3Wq4tj52XcsZEFE2-o2pHV8Qp7e9-0=s180-rw",
+            "name" : "Nova Launcher",
+            "url" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/n-45rALBFqr3eqmwjj1dzaKKid1ZKx3KtgsJW8BQuLRLUPhpKyoS_wSmbpmCMeWWsg8=s180-rw",
+            "name" : "Lawnchair 2",
+            "url" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/9FJUdpD-s_MN61PTO3xWknLIcVvyTp_t3yCKPqbEriEsSe5rsHCrNGg7GN1feSuxF4AS=s180-rw",
+            "name" : "Niagara Launcher",
+            "url" : "https://play.google.com/store/apps/details?id=bitpit.launcher"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/et-Dt9e6e1cZI36zfPAZVapL5N4alnYF1CVFxA4jIvX-TfBFzxW67tZlYip6zjk9ub4=s180-rw",
+            "name" : "hyperion Launcher",
+            "url" : "https://play.google.com/store/apps/details?id=projekt.launcher"
+        },
+        {
+            "icon" : "https://lh3.googleusercontent.com/3tL2POBBXu7tu-91L-_RWU0jQdXF-U5XPzLeMfvLJKBqw8QnfB0jtHjX0TH71BndccM=s180-rw",
+            "name" : "Evie Launcher",
+            "url" : "https://play.google.com/store/apps/details?id=is.shortcut"
+        }
     ]
 }
