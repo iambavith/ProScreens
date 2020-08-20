@@ -2,6 +2,58 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Vignesh",
+    "iconpack" : "Coves KWGT",
+    "iconurl" : "https://play.google.com/store/apps/details?id=coves.kustom.pack",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/228.png",
+    "title" : "Neu Rocket",
+    "wallpaper" : "Telegram",
+    "wallpapername" : "Rocket",
+    "wallpaperurl" : "https://t.me/ProScreens/24558",
+    "widget" : "Coves KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=coves.kustom.pack"
+  },{
+    "authorname" : "Jackson Hayes",
+    "iconpack" : "Caelus Black",
+    "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caelusblack",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/227.png",
+    "title" : "Minimal Desert",
+    "wallpaper" : "Canva Walls",
+    "wallpapername" : "Desert",
+    "wallpaperurl" : "https://t.me/canvawalls/748",
+    "widget" : "Wolfie KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=wolfieforkwgt.kustom.pack"
+  },{
+    "authorname" : "Tanmoy Halder",
+    "iconpack" : "Bubblegum",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum",
+    "launcher" : "Lawnchair 2",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/226.png",
+    "title" : "Go Green",
+    "wallpaper" : "Backdrops",
+    "wallpapername" : "Midnight Green",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+    "widget" : "Rainbow KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=rainbowforkwgt.kustom.pack"
+  },{
+    "authorname" : "Vishal",
+    "iconpack" : "Bladient",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/225.png",
+    "title" : "Gradient Love",
+    "wallpaper" : "Joywalls",
+    "wallpapername" : "Mesh Gradient",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+    "widget" : "Vibrant KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=vibrantcolorskwgt.kustom.pack"
+  },{
     "authorname" : "Yudhajit",
     "iconpack" : "Afterglow Pro",
     "iconurl" : "Https://play.google.com/store/apps/details?id=com.stark.afterglow",
@@ -3225,6 +3277,19 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Tanmoy Halder",
+  "iconpack" : "Bubblegum",
+  "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum",
+  "launcher" : "Lawnchair 2",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/226.png",
+  "title" : "Go Green",
+  "wallpaper" : "Backdrops",
+  "wallpapername" : "Midnight Green",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+  "widget" : "Rainbow KWGT",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=rainbowforkwgt.kustom.pack"
+},{
   "authorname" : "Anand",
   "iconpack" : "Nova Dark",
   "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
@@ -4490,6 +4555,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=mintkwgt.kustom.pack"
     }],
     "illustration" : [{
+      "authorname" : "Jackson Hayes",
+      "iconpack" : "Caelus Black",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caelusblack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/227.png",
+      "title" : "Minimal Desert",
+      "wallpaper" : "Canva Walls",
+      "wallpapername" : "Desert",
+      "wallpaperurl" : "https://t.me/canvawalls/748",
+      "widget" : "Wolfie KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=wolfieforkwgt.kustom.pack"
+    },{
       "authorname" : "SK Wallpapers",
       "iconpack" : "Frosted Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=frost.icon.pack",
@@ -5175,6 +5253,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
     }],
     "light" : [{
+      "authorname" : "Vignesh",
+      "iconpack" : "Coves KWGT",
+      "iconurl" : "https://play.google.com/store/apps/details?id=coves.kustom.pack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/228.png",
+      "title" : "Neu Rocket",
+      "wallpaper" : "Telegram",
+      "wallpapername" : "Rocket",
+      "wallpaperurl" : "https://t.me/ProScreens/24558",
+      "widget" : "Coves KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=coves.kustom.pack"
+    },{
       "authorname" : "Meet Shah",
       "iconpack" : "Alchemy Kwgt",
       "iconurl" : "https://play.google.com/store/apps/details?id=alchemyforkwgt.kustom.pack",
@@ -6012,6 +6103,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[{
+      "authorname" : "Vishal",
+      "iconpack" : "Bladient",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/225.png",
+      "title" : "Gradient Love",
+      "wallpaper" : "Joywalls",
+      "wallpapername" : "Mesh Gradient",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget" : "Vibrant KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=vibrantcolorskwgt.kustom.pack"
+    },{
       "authorname" : "LXIX",
       "iconpack" : "Hera Dark",
       "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.heradark",
