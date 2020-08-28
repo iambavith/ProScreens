@@ -1,6 +1,24 @@
 {
     "sales": [
         {
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/14.png",
+            "title": "New KLWP Pack",
+            "link": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty",
+            "contend": "Thirsty for KLWP is a brand new pack of precise, spot-on presets for your homescreen."
+        },
+        {
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/13.png",
+            "title": "Mixture & Rabbit for KLWP ON SALE",
+            "link": "https://play.google.com/store/apps/dev?id=5559664342362929202",
+            "contend": "Grab Flat 50% OFF sale from 26th to 31st August on both Mixture KLWP & Rabbit for KLWP."
+        },
+        {
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/15.png",
+            "title": "Cool Kwgt ",
+            "link": "https://play.google.com/store/apps/details?id=com.coolkwgt.kustom.pack",
+            "contend": "Now its have 150 beautiful design kwgrs More Comes Regularly Weekly Updates Stay tune"
+        },
+        {
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/12.png",
             "title": "GeM KWGT",
             "link": "https://play.google.com/store/apps/details?id=com.gemkwgtbyahmad.kustom.pack",

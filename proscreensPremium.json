@@ -2,6 +2,58 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Vishal",
+    "iconpack" : "Vera icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+    "launcher" : "Nova",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/237.png",
+    "title" : "Bat Time",
+    "wallpaper" : "Unusual Wallpapers",
+    "wallpapername" : "Batman logo",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+    "widget" : "Mizu Kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt"
+  },{
+    "authorname" : "Saumil Shah",
+    "iconpack" : "Nova icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+    "launcher" : "Lawnchair 2",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/236.png",
+    "title" : "Batman",
+    "wallpaper" : "Joy walls",
+    "wallpapername" : "Batman logo",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+    "widget" : "Stylish Widgets",
+    "widgeturl" : "https://t.me/stylishwidgets"
+  },{
+    "authorname" : "Gvgvfarao",
+    "iconpack" : "Zwart icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.blackiconpack.zwart",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/235.png",
+    "title" : "Minimalist City",
+    "wallpaper" : "Zedge",
+    "wallpapername" : "Minimalist City",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+    "widget" : "Spiffy kWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+  },{
+    "authorname" : "Tanmoy Halder",
+    "iconpack" : "Minty Free",
+    "iconurl" : "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.mintyfree",
+    "launcher" : "Lawnchair 2",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/234.png",
+    "title" : "Paradise",
+    "wallpaper" : "Walldrobe",
+    "wallpapername" : "Paradise",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=walldrobe.coffecode.com",
+    "widget" : "Huk kWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=hukkwgt.kustom.pack"
+  },{
     "authorname" : "Jijo",
     "iconpack" : "Pixel Pie",
     "iconurl" : "https://play.google.com/store/apps/details?id=ru.pt.iconpack.pixel",
@@ -3344,6 +3396,32 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Saumil Shah",
+  "iconpack" : "Nova icons",
+  "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+  "launcher" : "Lawnchair 2",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/236.png",
+  "title" : "Batman",
+  "wallpaper" : "Joy walls",
+  "wallpapername" : "Batman logo",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+  "widget" : "Stylish Widgets",
+  "widgeturl" : "https://t.me/stylishwidgets"
+},{
+  "authorname" : "Gvgvfarao",
+  "iconpack" : "Zwart icons",
+  "iconurl" : "https://play.google.com/store/apps/details?id=com.blackiconpack.zwart",
+  "launcher" : "Nova Launcher",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/235.png",
+  "title" : "Minimalist City",
+  "wallpaper" : "Zedge",
+  "wallpapername" : "Minimalist City",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+  "widget" : "Spiffy kWGT",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+},{
   "authorname" : "Tanmoy Halder",
   "iconpack" : "Bubblegum",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum",
@@ -5135,6 +5213,19 @@
       "widgeturl" : "https://play.google.com/store"
     }],
     "nature" :[{
+      "authorname" : "Tanmoy Halder",
+      "iconpack" : "Minty Free",
+      "iconurl" : "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.mintyfree",
+      "launcher" : "Lawnchair 2",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/234.png",
+      "title" : "Paradise",
+      "wallpaper" : "Walldrobe",
+      "wallpapername" : "Paradise",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=walldrobe.coffecode.com",
+      "widget" : "Huk kWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=hukkwgt.kustom.pack"
+    },{
       "authorname" : "Tanmo Halder",
       "iconpack" : "Pure Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=me.morirain.dev.iconpack.pure",
@@ -6209,6 +6300,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[{
+      "authorname" : "Vishal",
+      "iconpack" : "Vera icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
+      "launcher" : "Nova",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/237.png",
+      "title" : "Bat Time",
+      "wallpaper" : "Unusual Wallpapers",
+      "wallpapername" : "Batman logo",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.badboy.wallun",
+      "widget" : "Mizu Kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=jz.kustom.mizukwgt"
+    },{
       "authorname" : "Rohit",
       "iconpack" : "Fuchsia Kwgt",
       "iconurl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack",
