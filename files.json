@@ -97,6 +97,17 @@
     ],
     "resources": [
         {
+            "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/20.jpg",
+            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
+            "title": "Homescreen Art",
+            "url": "https://t.me/exxncsshs",
+            "screenShot1": "https://raw.githubusercontent.com/iambavith/ProScreens/master/16.jpg",
+            "screenShot2": "https://raw.githubusercontent.com/iambavith/ProScreens/master/17.jpg",
+            "screenShot3": "https://raw.githubusercontent.com/iambavith/ProScreens/master/18.jpg",
+            "screenShot4": "https://raw.githubusercontent.com/iambavith/ProScreens/master/19.jpg",
+            "contend": "FOR PERSONAL USE ONLY! This channel provide free kwgt and selfmade widgets which looks dope!"
+        },
+        {
             "avatar": "https://raw.githubusercontent.com/iambavith/ProScreens/master/canvawalls_0.jpg",
             "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
             "title": "Canva Walls",
@@ -128,20 +139,20 @@
             "screenShot3": "https://pbs.twimg.com/media/Eao1TETWoAEMuEO?format=jpg&name=small",
             "screenShot4": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgets.jpg",
             "contend": "Want Some Eye-catching free widgets? Take a look at Stylish Widgets Telegram Channel. You'll find  some interesting cool and stylish widgets of all types for free."
-        },
-        {
-            "avatar": "https://pbs.twimg.com/profile_images/1253898474510151680/h9jnp1QC_400x400.jpg",
-            "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/prism.png",
-            "title": "Arrow Walls",
-            "url": "https://twitter.com/ArrowWalls/status/1266713825836797952",
-            "screenShot1": "https://pbs.twimg.com/media/EZRFb_cUwAI3esF?format=jpg&name=medium",
-            "screenShot2": "https://pbs.twimg.com/media/EZqsetVWsAQ9eYC?format=jpg&name=small",
-            "screenShot3": "https://pbs.twimg.com/media/EWxd5ViX0AQNdKh?format=jpg&name=small",
-            "screenShot4": "https://pbs.twimg.com/media/EWnPRGvWAAAEXDo?format=jpg&name=small",
-            "contend": "Follow Arrowwalls on Twitter for 8K,4K Desktop and Laptop, Tablet, Mobile wallpapers for free!"
         }
     ],
     "newapps": [
+        {
+            "avatar": "https://lh3.googleusercontent.com/AjKqpZaAkNGQjNS78Tx1iscACAG-SHik8jj-K4LDzTeJMTzrAvwy08PHyeiS9etu2QM=s180-rw",
+            "dev": "Raj Arya",
+            "title": "Smart iOS Style widgets",
+            "url": "https://play.google.com/store/apps/details?id=smartiosstylewidgets.kustom.pack",
+            "screenShot1": "https://lh3.googleusercontent.com/7VG2FFk-qF0XLoGR9CmceY1IcBESm5FxHhObKCQ5xih_fv8by5ccvkko5boOphLeMzi8=w1366-h625-rw",
+            "screenShot2": "https://lh3.googleusercontent.com/TxN6sIhlG9n7ScCJNDxVEqliWaWHJyo-fe6MQ6Dre5yztqTcGHsZJTgmOvaXK6QGpw=w1366-h625-rw",
+            "screenShot3": "https://lh3.googleusercontent.com/nMssHZ1Ydmj13cSdVsq1TKBg8PZF5z7uvjmnyChxGy6BPJSMi3JkBbZif9r_H0-bhvk=w1366-h625-rw",
+            "screenShot4": "https://lh3.googleusercontent.com/MNDJyqzjhxdIjOxvOn7kVlkRT6Kl75HTkM-YED3Vm6F5hOSWSJJJP1me4YqR2GVHhg=w1366-h625-rw",
+            "contend": "Smart Style iOs widgets is based on latest iOS 14 widgets and lots of watch faces tons of global setting will make yours truly Initial Release with 45 high quality unique design widgets and lot more will come on regular updates."
+        },
         {
             "avatar": "https://lh3.googleusercontent.com/k3-mPXkDe5TJzuRDNBSppkbs8yFrEkUJDcErYnN3DqDfzrmxIpnEU9qRLZcrrZHNr-Xc=s180-rw",
             "dev": "Minima Walls",
