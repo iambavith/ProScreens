@@ -2,18 +2,87 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
-    "authorname" : "Pixel Vibe",
-    "iconpack" : "Hi Icon pack",
-    "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.hi.icons",
+    "authorname" : "Yudhajit",
+    "iconpack" : "Gladient",
+    "iconurl" : "Https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+    "launcher" : "Lawnchair",
+    "launcherurl" : "Https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/264.png",
+    "title" : "Minimal Swan",
+    "wallpaper" : "Wallipop",
+    "wallpapername" : "Lake Swan 2",
+    "wallpaperurl" : "Https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+    "widget" : "Flow kwgt",
+    "widgeturl" : "Https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
+    "widget2" : "Elements kwgt",
+    "widget2url" : "Https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack"
+  },{
+    "authorname" : "Sandeep Paul",
+    "iconpack" : "Flight lite",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.natewren.flightlite",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/263.png",
+    "title" : "Minimal Boy",
+    "wallpaper" : "Zedge",
+    "wallpapername" : "Minimal Boy",
+    "wallpaperurl" : "https://zedge.me/O0yeSU6",
+    "widget" : "Lucent kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },{
+    "authorname" : "Saumil Shah",
+    "iconpack" : "Nebula Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/262.png",
+    "title" : "Camel",
+    "wallpaper" : "Whalepapers pro",
+    "wallpapername" : "Camel 2",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+    "widget" : "Lucent kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+    "widget2" : "Status bar",
+    "widget2url" : "https://drive.google.com/folderview?id=1Z9c6Y9AWmK3e7g50yVsfyK4d9B2xAuEt"
+  },{
+    "authorname" : "Gvgvfarao",
+    "iconpack" : "White A Flatcon",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.arandompackage.flatconswhite",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/261.png",
+    "title" : "Waterfall",
+    "wallpaper" : "Gvgvfarao drive",
+    "wallpapername" : "Waterfall",
+    "wallpaperurl" : "https://drive.google.com/folderview?id=1S38CHEp9L4FH4lDFri0i7Zrc-GlbqndQ",
+    "widget" : "Exquigets kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.exquigets"
+  },{
+    "authorname" : "Rohit",
+    "iconpack" : "Phosphor Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.krypton",
+    "launcher" : "Lawnchair",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/260.png",
+    "title" : "X",
+    "wallpaper" : "Collections",
+    "wallpapername" : "X",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+    "widget" : "Koda kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack"
+  },{
+    "authorname" : "Dan",
+    "iconpack" : "Reev lite",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios&hl=en",
     "launcher" : "Nova launcher",
     "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/258.png",
-    "title" : "Blue fluid",
-    "wallpaper" : "Hi Icons",
-    "wallpapername" : "004",
-    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.hi.icons",
-    "widget" : "Saturn KWGT",
-    "widgeturl" : "https://play.google.com/store/apps/details?id=saturnkwgt.kustom.pack"
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/259.png",
+    "title" : "A fresh start",
+    "wallpaper" : "Collections",
+    "wallpapername" : "Moor",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+    "widget" : "Flow kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
   },{
     "authorname" : "Rohit",
     "iconpack" : "Reev pro",
@@ -3681,6 +3750,21 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Saumil Shah",
+  "iconpack" : "Nebula Icons",
+  "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+  "launcher" : "Nova Launcher",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/262.png",
+  "title" : "Camel",
+  "wallpaper" : "Whalepapers pro",
+  "wallpapername" : "Camel 2",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+  "widget" : "Lucent kwgt",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+  "widget2" : "Status bar",
+  "widget2url" : "https://drive.google.com/folderview?id=1Z9c6Y9AWmK3e7g50yVsfyK4d9B2xAuEt"
+},{
   "authorname" : "Rohit",
   "iconpack" : "Reev pro",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
@@ -4358,6 +4442,32 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
     "minimal" : [{
+      "authorname" : "Sandeep Paul",
+      "iconpack" : "Flight lite",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.natewren.flightlite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/263.png",
+      "title" : "Minimal Boy",
+      "wallpaper" : "Zedge",
+      "wallpapername" : "Minimal Boy",
+      "wallpaperurl" : "https://zedge.me/O0yeSU6",
+      "widget" : "Lucent kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },{
+      "authorname" : "Dan",
+      "iconpack" : "Reev lite",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios&hl=en",
+      "launcher" : "Nova launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/259.png",
+      "title" : "A fresh start",
+      "wallpaper" : "Collections",
+      "wallpapername" : "Moor",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "widget" : "Flow kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
+    },{
       "authorname" : "Vishal",
       "iconpack" : "Mation",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.mation",
@@ -5097,6 +5207,21 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=mintkwgt.kustom.pack"
     }],
     "illustration" : [{
+      "authorname" : "Yudhajit",
+      "iconpack" : "Gladient",
+      "iconurl" : "Https://play.google.com/store/apps/details?id=com.maxghani.gladient",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "Https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/264.png",
+      "title" : "Minimal Swan",
+      "wallpaper" : "Wallipop",
+      "wallpapername" : "Lake Swan 2",
+      "wallpaperurl" : "Https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget" : "Flow kwgt",
+      "widgeturl" : "Https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
+      "widget2" : "Elements kwgt",
+      "widget2url" : "Https://play.google.com/store/apps/details?id=elementskwgt.kustom.pack"
+    },{
       "authorname" : "Abhi Saha",
       "iconpack" : "Nebula icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -5649,6 +5774,19 @@
       "widgeturl" : "https://play.google.com/store"
     }],
     "nature" :[{
+      "authorname" : "Gvgvfarao",
+      "iconpack" : "White A Flatcon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.arandompackage.flatconswhite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/261.png",
+      "title" : "Waterfall",
+      "wallpaper" : "Gvgvfarao drive",
+      "wallpapername" : "Waterfall",
+      "wallpaperurl" : "https://drive.google.com/folderview?id=1S38CHEp9L4FH4lDFri0i7Zrc-GlbqndQ",
+      "widget" : "Exquigets kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.exquigets"
+    },{
       "authorname" : "Khaled",
       "iconpack" : "Worst Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.worst",
@@ -5888,6 +6026,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
     }],
     "light" : [{
+      "authorname" : "Rohit",
+      "iconpack" : "Phosphor Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.krypton",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/260.png",
+      "title" : "X",
+      "wallpaper" : "Collections",
+      "wallpapername" : "X",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "widget" : "Koda kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack"
+    },{
       "authorname" : "Jijo",
       "iconpack" : "Pixel Pie",
       "iconurl" : "https://play.google.com/store/apps/details?id=ru.pt.iconpack.pixel",
@@ -6777,6 +6928,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[{
+      "authorname" : "Gvgvfarao",
+      "iconpack" : "White A Flatcon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.arandompackage.flatconswhite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/261.png",
+      "title" : "Waterfall",
+      "wallpaper" : "Gvgvfarao drive",
+      "wallpapername" : "Waterfall",
+      "wallpaperurl" : "https://drive.google.com/folderview?id=1S38CHEp9L4FH4lDFri0i7Zrc-GlbqndQ",
+      "widget" : "Exquigets kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.exquigets"
+    },{
       "authorname" : "Pixel Vibe",
       "iconpack" : "Hi Icon pack",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.illusioniz.team.hi.icons",
