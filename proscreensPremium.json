@@ -2,6 +2,73 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [{
+    "authorname" : "Sandeep Paul",
+    "iconpack" : "Zwart",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.blackiconpack.zwart",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/274.png",
+    "title" : "City square",
+    "wallpaper" : "Zedge",
+    "wallpapername" : "Minimalist",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+    "widget" : "Spiffy KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+  },{
+    "authorname" : "Sandeep Paul",
+    "iconpack" : "Watermelon kwgt",
+    "iconurl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/273.png",
+    "title" : "Save Earth",
+    "wallpaper" : "Zedge",
+    "wallpapername" : "Minimalist night",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+    "widget" : "Watermelon KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack",
+    "widget2" : "Lucent KWGT",
+    "widget2url" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },{
+    "authorname" : "Vignesh",
+    "iconpack" : "Wlip Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/272.png",
+    "title" : "Dusky",
+    "wallpaper" : "Telegram",
+    "wallpapername" : "Dusky Waves",
+    "wallpaperurl" : "https://t.me/ProScreens/24453",
+    "widget" : "Hipster KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=hipster.kustom.pack"
+  },{
+    "authorname" : "Dan",
+    "iconpack" : "Reev Lite",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/271.png",
+    "title" : "Something New",
+    "wallpaper" : "Collections",
+    "wallpapername" : "Ash",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+    "widget" : "Watermelon KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+  },{
+    "authorname" : "Manish Upraity",
+    "iconpack" : "Nova Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/270.png",
+    "title" : "Cream look",
+    "wallpaper" : "Telegram",
+    "wallpapername" : "Cream wallpaper",
+    "wallpaperurl" : "https://t.me/manishupraity",
+    "widget" : "Frizzy KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+  },{
     "authorname" : "Vishal",
     "iconpack" : "Sliced",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
@@ -3817,6 +3884,21 @@
     "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
   } ],
 "amoled" : [{
+  "authorname" : "Sandeep Paul",
+  "iconpack" : "Watermelon kwgt",
+  "iconurl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack",
+  "launcher" : "Nova Launcher",
+  "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+  "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/273.png",
+  "title" : "Save Earth",
+  "wallpaper" : "Zedge",
+  "wallpapername" : "Minimalist night",
+  "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+  "widget" : "Watermelon KWGT",
+  "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack",
+  "widget2" : "Lucent KWGT",
+  "widget2url" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+},{
   "authorname" : "Vishal",
   "iconpack" : "Sliced",
   "iconurl" : "https://play.google.com/store/apps/details?id=com.b16h22.sliced",
@@ -4535,6 +4617,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }],
     "minimal" : [{
+      "authorname" : "Dan",
+      "iconpack" : "Reev Lite",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/271.png",
+      "title" : "Something New",
+      "wallpaper" : "Collections",
+      "wallpapername" : "Ash",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "widget" : "Watermelon KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+    },{
       "authorname" : "Jhon Esnieder",
       "iconpack" : "Crayon",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
@@ -6147,6 +6242,32 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=feastkwgt.kustom.pack"
     }],
     "light" : [{
+      "authorname" : "Sandeep Paul",
+      "iconpack" : "Zwart",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.blackiconpack.zwart",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/274.png",
+      "title" : "City square",
+      "wallpaper" : "Zedge",
+      "wallpapername" : "Minimalist",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=net.zedge.android",
+      "widget" : "Spiffy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+    },{
+      "authorname" : "Manish Upraity",
+      "iconpack" : "Nova Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.nova",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/270.png",
+      "title" : "Cream look",
+      "wallpaper" : "Telegram",
+      "wallpapername" : "Cream wallpaper",
+      "wallpaperurl" : "https://t.me/manishupraity",
+      "widget" : "Frizzy KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+    },{
       "authorname" : "Rohit",
       "iconpack" : "Phosphor Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.krypton",
@@ -7049,6 +7170,19 @@
       "widgeturl" : "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }],
     "dark" :[{
+      "authorname" : "Vignesh",
+      "iconpack" : "Wlip Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/272.png",
+      "title" : "Dusky",
+      "wallpaper" : "Telegram",
+      "wallpapername" : "Dusky Waves",
+      "wallpaperurl" : "https://t.me/ProScreens/24453",
+      "widget" : "Hipster KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=hipster.kustom.pack"
+    },{
       "authorname" : "Tanisha",
       "iconpack" : "Threaded Black & white",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.aa.checkblackonwhiteicons",
