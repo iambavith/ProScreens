@@ -1,7 +1,23 @@
 {
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
-  "setups": [{
+  "setups": [
+    {
+        "authorname" : "Dan",
+        "iconpack" : "Cheesecake KWGT",
+        "iconurl" : "https://play.google.com/store/apps/details?id=com.stach.ui",
+        "launcher" : "Nova",
+        "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+        "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/300.png",
+        "title" : "In The Shadows",
+        "wallpaper" : "DopeWalls",
+        "wallpapername" : "Dark",
+        "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.androholic.dopewalls",
+        "widget" : "Melon KWGT",
+        "widgeturl" : "https://play.google.com/store/apps/details?id=watermelonkwgt.kustom.pack"
+      }
+
+    {
     "authorname" : "Dan",
     "iconpack" : "Beeline Icons",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
