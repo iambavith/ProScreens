@@ -4,13 +4,13 @@
   "setups": [
     {
       "authorname": "Fra",
-      "iconpack": "Freshy pro",
+      "iconpack": "Freshy Pro",
       "iconurl": "https://play.google.com/store/apps/details?id=com.osjc.paid.freshy",
       "launcher": "Oneplus Launcher",
       "launcherurl": "https://play.google.com/store/apps/details?id=net.oneplus.launcher",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/306.png",
       "title": "Dad boy",
-      "wallpaper": "Unusuall Wallpapers",
+      "wallpaper": "Unusual Wallpapers",
       "wallpapername": "Bad boy",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
       "widget": "Spiffy kwgt",
@@ -24,7 +24,7 @@
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/304.png",
       "title": "Android 11",
-      "wallpaper": "Whalepapers pro",
+      "wallpaper": "Whalepapers Pro",
       "wallpapername": "Android 11",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
       "widget": "Frizzy kwgt",
@@ -39,21 +39,21 @@
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/303.png",
       "title": "Gameboy",
       "wallpaper": "Joywalls",
-      "wallpapername": "Gameboy yellow",
+      "wallpapername": "Game Boy Yellow",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
       "widget": "Nebbia kwgt",
       "widgeturl": "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
     },
     {
-      "authorname": "Gourav Sarma",
+      "authorname": "Gourav Sharma",
       "iconpack": "Bixpic Icons",
       "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.bixpic",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/302.png",
       "title": "Birds in moonlight",
-      "wallpaper": "Wallipop",
-      "wallpapername": "moonnight sparrow 1",
+      "wallpaper": "WalliPop",
+      "wallpapername": "Moon Night Sparrow v1",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
       "widget": "KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=org.kustom.widget"
@@ -66,10 +66,10 @@
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/301.png",
       "title": "Colorful",
-      "wallpaper": "Amoled walls",
+      "wallpaper": "AmoledWalls",
       "wallpapername": "Amoled wall",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree",
-      "widget": "Magenta KWGT",
+      "widget": "Magenta",
       "widgeturl": "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
     },
     {
@@ -4550,20 +4550,6 @@
   ],
   "amoled": [
     {
-      "authorname": "Tanisha",
-      "iconpack": "Nebula Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/301.png",
-      "title": "Colorful",
-      "wallpaper": "Amoled walls",
-      "wallpapername": "Amoled wall",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree",
-      "widget": "Magenta KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
-    },
-    {
       "authorname": "Shankar",
       "iconpack": "Nebula Icons",
       "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -5443,48 +5429,6 @@
     }
   ],
   "minimal": [
-    {
-      "authorname": "Jackson Hayes",
-      "iconpack": "Nebula Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/305.png",
-      "title": "Purple delight",
-      "wallpaper": "Whalepapers pro",
-      "wallpapername": "Gradient pattern 2",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
-      "widget": "Raddish kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
-    },
-    {
-      "authorname": "Android Wix",
-      "iconpack": "Enix Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.lknninex.enix",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/304.png",
-      "title": "Android 11",
-      "wallpaper": "Whalepapers pro",
-      "wallpapername": "Android 11",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
-      "widget": "Frizzy kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
-    },
-    {
-      "authorname": "Jackson Hayes",
-      "iconpack": "Black Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.arandompackage.flatconsblack",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/303.png",
-      "title": "Gameboy",
-      "wallpaper": "Joywalls",
-      "wallpapername": "Gameboy yellow",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
-      "widget": "Nebbia kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
-    },
     {
       "authorname": "Tanmoy Halder",
       "iconpack": "Pure Icons",
@@ -6403,34 +6347,6 @@
     }
   ],
   "illustration": [
-    {
-      "authorname": "Fra",
-      "iconpack": "Freshy pro",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.osjc.paid.freshy",
-      "launcher": "Oneplus Launcher",
-      "launcherurl": "https://play.google.com/store/apps/details?id=net.oneplus.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/306.png",
-      "title": "Dad boy",
-      "wallpaper": "Unusuall Wallpapers",
-      "wallpapername": "Bad boy",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
-      "widget": "Spiffy kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
-    },
-    {
-      "authorname": "Gourav Sarma",
-      "iconpack": "Bixpic Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.bixpic",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/302.png",
-      "title": "Birds in moonlight",
-      "wallpaper": "Wallipop",
-      "wallpapername": "moonnight sparrow 1",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
-      "widget": "KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=org.kustom.widget"
-    },
     {
       "authorname": "Dan",
       "iconpack": "Kecil Icons",
@@ -7365,20 +7281,6 @@
     }
   ],
   "light": [
-    {
-      "authorname": "Jackson Hayes",
-      "iconpack": "Nebula Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/305.png",
-      "title": "Purple delight",
-      "wallpaper": "Whalepapers pro",
-      "wallpapername": "Gradient pattern 2",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
-      "widget": "Raddish kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
-    },
     {
       "authorname": "Vishal",
       "iconpack": "Vera",
