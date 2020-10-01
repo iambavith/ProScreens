@@ -3,6 +3,48 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Shankar",
+      "iconpack": "Beeline",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/314.png",
+      "title": "Triangles Squares",
+      "wallpaper": "AmoledWalls",
+      "wallpapername": "Shapes",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree",
+      "widget": "Abstract",
+      "widgeturl": "https://play.google.com/store/apps/details?id=abstractkwgt.kustom.pack"
+    },
+    {
+      "authorname": "Dan",
+      "iconpack": "Reev Lite",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/313.png",
+      "title": "Black Panther",
+      "wallpaper": "AmoledPix",
+      "wallpapername": "Black Panther",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.androholic.amoledpix",
+      "widget": "Mini-ism",
+      "widgeturl": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+    },
+    {
+      "authorname": "Dan",
+      "iconpack": "BeeLine",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/312.png",
+      "title": "Colors",
+      "wallpaper": "Black Art",
+      "wallpapername": "Black-Art-XoX-844",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.soko.art.black.wallpaper.HD",
+      "widget": "Magenta",
+      "widgeturl": "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
+    },
+    {
       "authorname": "Detlinx",
       "iconpack": "Hera Dark Icon Pack",
       "iconurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.heradark",
