@@ -3,6 +3,20 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Aaron",
+      "iconpack": "Reev Pro",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/315.png",
+      "title": "Game Boy",
+      "wallpaper": "Joy Walls",
+      "wallpapername": "Game Boy",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget": "Flow",
+      "widgeturl": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
+    },
+    {
       "authorname": "Shankar",
       "iconpack": "Beeline",
       "iconurl": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
