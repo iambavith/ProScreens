@@ -11,13 +11,15 @@
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/321.png",
       "title": "Landscape Amoled",
       "wallpaper": "AmoledPix",
-      "wallpapername": "https://play.google.com/store/apps/details?id=com.androholic.amoledpix",
-      "wallpaperurl": "Ios UX",
+      "wallpapername": "Landscape",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.androholic.amoledpix",
       "widget": "Ios Ux",
       "widgeturl": "https://play.google.com/store/apps/details?id=losuxkwgt.kustom.pack"
     },
     {
       "authorname": "Jhon Esneider",
+      "iconpack": "-",
+      "iconurl": "",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/320.png",
@@ -60,6 +62,8 @@
     },
     {
       "authorname": "Izuku Midoriya",
+      "iconpack": "-",
+      "iconurl": "",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/317.png",
@@ -72,7 +76,6 @@
       "widget2": "Mini Music",
       "widget2url": "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack"
     },
-
     {
       "authorname": "Yudhajit",
       "iconpack": "Hera",
