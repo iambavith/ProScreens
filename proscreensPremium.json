@@ -3,6 +3,20 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Vishal",
+      "iconpack": "Bilfy",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/322.png",
+      "title": "Shopping Mode",
+      "wallpaper": "Wallhub",
+      "wallpapername": "Shopping Mode",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.androholic.amoledpix",
+      "widget": "Thirsty for KLWP",
+      "widgeturl": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty"
+    },
+    {
       "authorname": "Rajeev Panda",
       "iconpack": "Paper Cut",
       "iconurl": "https://play.google.com/store/apps/details?id=com.papercuticonpackneo",
