@@ -3,6 +3,39 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Izuku Midoriya",
+      "iconpack": "No icon pack used",
+      "iconurl": "",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/317.png",
+      "title": "Android Whix",
+      "wallpaper": "WhalePapers Pro",
+      "wallpapername": "Gradient Wall 3",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "widget": "TapOn",
+      "widgeturl": "https://play.google.com/store/apps/details?id=tapon.kustom.pack",
+      "widget2": "Mini Music",
+      "widget2url": "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "Yudhajit",
+      "iconpack": "Hera",
+      "iconurl": "https://play.google.com/store/apps/details?id=studio14.application.hera",
+      "launcher": "Lawnchair 2",
+      "launcherurl": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/316.png",
+      "title": "Landscape",
+      "wallpaper": "WalliPop",
+      "wallpapername": "Landscape v1 winter snow",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget": "Aphemis",
+      "widgeturl": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "widget2": "Flow",
+      "widget2url": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
+    },
+    {
       "authorname": "Aaron",
       "iconpack": "Reev Pro",
       "iconurl": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
