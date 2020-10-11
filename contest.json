@@ -1,87 +1,95 @@
 {
   "contest": [
     {
-      "appname": "WALLSY - HD wallpapers",
-      "url": "https://play.google.com/store/apps/details?id=my.walls.app"
+      "appname": "Joy Walls ツ - 4k Wallpapers App",
+      "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls"
     }
   ],
 
   "winners": [
     {
-      "authorname": "Fra",
-      "iconpack": "Freshy Pro",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.osjc.paid.freshy",
-      "launcher": "Oneplus Launcher",
-      "launcherurl": "https://play.google.com/store/apps/details?id=net.oneplus.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/306.png",
-      "title": "Dad boy",
-      "wallpaper": "Unusual Wallpapers",
-      "wallpapername": "Bad boy",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.badboy.wallun",
-      "widget": "Spiffy kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+      "authorname": "Roki",
+      "iconpack": "WLIP",
+      "iconurl": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/344.png",
+      "title": "Cold Ride",
+      "wallpaper": "Google Album",
+      "wallpapername": "IEDITWALLS-20.09.21134908",
+      "wallpaperurl": "https://photos.app.goo.gl/EwfDFaRYkBnyk8r99",
+      "widget": "Wolfie for KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=wolfieforkwgt.kustom.pack",
+      "widget2": "Aphemis KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
     },
     {
-      "authorname": "Android Wix",
-      "iconpack": "Enix Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.lknninex.enix",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/304.png",
-      "title": "Android 11",
-      "wallpaper": "Whalepapers Pro",
-      "wallpapername": "Android 11",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
-      "widget": "Frizzy kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=frizzy.kustom.pack"
+      "authorname": "Meet Shah",
+      "iconpack": "Jool:Jyphs",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.dreamon.jool.jyphs",
+      "launcher": "Lawnchair 2",
+      "launcherurl": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/343.png",
+      "title": "Work From Home",
+      "wallpaper": "WalliPop",
+      "wallpapername": "Work From Home V4",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget": "Perseus for KWGT Pro",
+      "widgeturl": "https://play.google.com/store/apps/details?id=perseusforkwgtpro.kustom.pack"
     },
     {
       "authorname": "Jackson Hayes",
-      "iconpack": "Black Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.arandompackage.flatconsblack",
-      "launcher": "Nova",
+      "iconpack": "Killa Icons",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.killa_icons.paid",
+      "launcher": "Nova Prime",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/303.png",
-      "title": "Gameboy",
-      "wallpaper": "Joywalls",
-      "wallpapername": "Game Boy Yellow",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
-      "widget": "Nebbia kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/342.png",
+      "title": "Minimal Blue",
+      "wallpaper": "Pixurr",
+      "wallpapername": "Minimalistic 52",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "widget": "Aphemis KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "widget2": "Radish KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
     },
     {
-      "authorname": "Gourav Sarma",
-      "iconpack": "Bixpic Icons",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.bixpic",
+      "authorname": "Tanmoy Halder",
+      "iconpack": "BeeLine",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
       "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/302.png",
-      "title": "Birds in moonlight",
-      "wallpaper": "WalliPop",
-      "wallpapername": "Moon Night Sparrow v1",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
-      "widget": "KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=org.kustom.widget"
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/341.png",
+      "title": "Black Matters",
+      "wallpaper": "Wallnut",
+      "wallpapername": "20200907_045836",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "widget": "Flow KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack",
+      "widget2": "Andromeda for KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=andromedaforkwgt.kustom.pack"
     },
     {
-      "authorname": "Tanisha",
-      "iconpack": "Nebula Icons",
+      "authorname": "Meghan",
+      "iconpack": "Nebula",
       "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
       "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/301.png",
-      "title": "Colorful",
-      "wallpaper": "AmoledWalls",
-      "wallpapername": "Amoled wall",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree",
-      "widget": "Magenta",
-      "widgeturl": "https://play.google.com/store/apps/details?id=magentaforkwgt.kustom.pack"
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/340.png",
+      "title": "Minimalist",
+      "wallpaper": "One4Wall",
+      "wallpapername": "Wallpaper 74",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall",
+      "widget": "Lucent KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "widget2": "Mini-ism for KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
     }
   ],
   "announcement": [
     {
-      "appname": "Submit your Homescreens for contest and get a chance to win Minima Walls promo codes.",
-      "url": "https://play.google.com/store/apps/details?id=com.wallpaper.minimawalls"
+      "appname": "Submit your Homescreens for contest and get a chance to win Joy Walls promo code",
+      "url": "https://play.google.com/store/apps/details?id=app.yog.joywalls"
     }
   ]
 }
