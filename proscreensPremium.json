@@ -3,6 +3,34 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "RC",
+      "iconpack": "Selene Icon Pack",
+      "iconurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.selene",
+      "launcher": "Lawnchair 2",
+      "launcherurl": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/346.png",
+      "title": "Gradient",
+      "wallpaper": "Joy Walls ツ",
+      "wallpapername": "Bottom Glow 3",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget": "Radish KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+    },
+    {
+      "authorname": "Jackson Hayes",
+      "iconpack": "Bilfy Icon Pack",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher": "Nova Prime",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/345.png",
+      "title": "Halloween",
+      "wallpaper": "Pixurr",
+      "wallpapername": "Halloween 02",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
+      "widget": "Radish KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+    },
+    {
       "authorname": "Roki",
       "iconpack": "WLIP",
       "iconurl": "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
