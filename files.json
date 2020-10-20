@@ -1,5 +1,17 @@
 {
   "sales": [
+     {
+      "image": "https://lh3.googleusercontent.com/29qOvA34H6cu6cw5SsPF4xRd1qoDaVmqGVqRniu1JMyuh8C5IAUbL7Yyf2vKevgIFp6h=s180-rw",
+      "title": "Vanilla KWGT",
+      "link": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
+      "contend": "New kwgt widget pack with a new minimalist design, designed for your homescreen"
+    },
+     {
+      "image": "https://lh3.googleusercontent.com/LZ1CMKCRbn5XZ5STfHZP6xf_9hecBahxRdfLiFwsQpG9-aDwbcbMuV5FEzRYgcWeXLM3=s180-rw",
+      "title": "Dossier for KLWP Pro",
+      "link": "https://play.google.com/store/apps/details?id=dossier.kustom.pack",
+      "contend": "Dossier for KWLP Pro Contains Beautifully Crafted, Fully Customizable Kustom Live Wallpaper preset, Made by Productivity and ease of use in mind"
+    },
     {
       "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/14.png",
       "title": "New KLWP Pack",
@@ -14,7 +26,7 @@
     },
     {
       "image": "https://raw.githubusercontent.com/iambavith/ProScreens/master/15.png",
-      "title": "Cool Kwgt ",
+      "title": "Cool KWGT",
       "link": "https://play.google.com/store/apps/details?id=com.coolkwgt.kustom.pack",
       "contend": "Now its have 150 beautiful design kwgrs More Comes Regularly Weekly Updates Stay tune"
     },
