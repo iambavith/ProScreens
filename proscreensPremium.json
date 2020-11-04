@@ -3,6 +3,92 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Vishal",
+      "iconpack": "Dove Dark",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.dove.dark.iconpack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/406.png",
+      "title": "Color Waves",
+      "wallpaper": "Wallnut",
+      "wallpapername": "generated chroma",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "widget": "Perseus for KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=perseusforkwgtpro.kustom.pack"
+    },
+    {
+      "authorname": "Tanmoy Halder",
+      "iconpack": "Viola",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.bousrih.viola",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/405.png",
+      "title": "Polygon Pitch",
+      "wallpaper": "Backdrops",
+      "wallpapername": "Polygon Pitch",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+      "widget": "Waffle KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=wafflekwgt.kustom.pack"
+    },
+    {
+      "authorname": "DETLINX",
+      "iconpack": "Reev Pro",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/404.png",
+      "title": "The Blue Nature",
+      "wallpaper": "WallPix",
+      "wallpapername": "Nature",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.wallpaper.wallpix",
+      "widget": "Terra KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=wterrakwgt.nodexdev.pack"
+    },
+    {
+      "authorname": "Roki",
+      "iconpack": "Dove",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/403.png",
+      "title": "Dream Lovely Day",
+      "wallpaper": "Walli",
+      "wallpapername": "Dream",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget": "Radish KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
+      "widget2": "Vanilla KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
+      "authorname": "Price Hasija",
+      "iconpack": "Foxbit",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/402.png",
+      "title": "Among Us",
+      "wallpaper": "Wallsy",
+      "wallpapername": "Among Us",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=my.walls.app",
+      "widget": "Waffle",
+      "widgeturl": "https://play.google.com/store/apps/details?id=wafflekwgt.kustom.pack"
+    },
+    {
+      "authorname": "Dan",
+      "iconpack": "Linebit Light",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.linebitlight",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/401.png",
+      "title": "007",
+      "wallpaper": "AmoledWalls",
+      "wallpapername": "GentleMan1",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree",
+      "widget": "Mini-ism",
+      "widgeturl": "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+    },
+    {
       "authorname": "Ratindra",
       "iconpack": "Dove",
       "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
@@ -85,8 +171,8 @@
       "wallpaperurl": "https://play.google.com/store/apps/details?id=my.walls.app",
       "widget": "Scorpion KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=scorpionkwgt.kustom.pack",
-      "widget2" : "Radish KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+      "widget2": "Radish KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
     },
     {
       "authorname": "Prince Hasija",
@@ -115,8 +201,8 @@
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
       "widget": "Avocado KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=pl.mhcharlee.avocadokwgt",
-      "widget2" : "Mini Music",
-      "widget2url" : "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack"
+      "widget2": "Mini Music",
+      "widget2url": "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack"
     },
     {
       "authorname": "Nishant Chaudhary",
@@ -159,8 +245,8 @@
       "wallpaperurl": "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
       "widget": "Radish KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
-      "widget2" : "Aphemis KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+      "widget2": "Aphemis KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
     },
     {
       "authorname": "LXIX",
@@ -175,8 +261,8 @@
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
       "widget": "Radish KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
-      "widget2" : "Fuchsia KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+      "widget2": "Fuchsia KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
     },
     {
       "authorname": "Vignesh",
@@ -219,8 +305,8 @@
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.hash.prism",
       "widget": "Donut KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=donutkwgt.kustom.pack",
-      "widget2" : "Vanilla KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+      "widget2": "Vanilla KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
     },
     {
       "authorname": "Tanmoy Halder",
