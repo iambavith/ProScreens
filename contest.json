@@ -1,80 +1,91 @@
 {
   "contest": [
     {
-      "appname": "Thirsty for KLWP",
-      "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty"
+      "appname": "WallLet - 4k, HD Amoled Wallpapers",
+      "url": "https://play.google.com/store/apps/details?id=com.home.wallet"
     }
-  ], 
-  
- 
+  ],
 
   "winners": [
     {
       "authorname": "Roki",
-      "iconpack": "Linebit",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.linebit",
+      "iconpack": "Phosphor Cadmium",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/390.png",
-      "title": "Tubes",
-      "wallpaper": "Amoled Papers",
-      "wallpapername": "Tubes",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/411.png",
+      "title": "Cyber Ride",
+      "wallpaper": "Google Album",
+      "wallpapername": "Downloaded Wall",
+      "wallpaperurl": "https://photos.app.goo.gl/EG1fdwhGSxrKHYqH6",
+      "widget": "Flawless KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "Ravi Raja",
+      "iconpack": "Bilfy",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/410.png",
+      "title": "Mountain",
+      "wallpaper": "Whalepapers Pro",
+      "wallpapername": "Mountain",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "widget": "Aphemis",
+      "widgeturl": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "novotab51",
+      "iconpack": "Vera Outline Black",
+      "iconurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.veraoutlineblack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/409.png",
+      "title": "Glim",
+      "wallpaper": "Replash",
+      "wallpapername": "Downloaded wall",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.b_lam.resplash",
+      "widget": "Koda for Kustom",
+      "widgeturl": "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack"
+    },
+
+    {
+      "authorname": "Jackson Hayes",
+      "iconpack": "Caelus Black Icon Pack",
+      "iconurl": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/408.png",
+      "title": "Misty White",
+      "wallpaper": "Unsplash",
+      "wallpapername": "Downloaded wall",
+      "wallpaperurl": "https://unsplash.com/photos/SdG5KmRFZNI",
       "widget": "Radish KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
-      "widget2" : "Aphemis KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
     },
+
     {
-      "authorname": "LXIX",
-      "iconpack": "Compacticons",
-      "iconurl": "https://www.deviantart.com/tatosxl/art/Compacticons-HD-for-Android-586892801",
+      "authorname": "FKTM",
+      "iconpack": "LineX White",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.linex.white.iconpack",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/389.png",
-      "title": "Halloween",
-      "wallpaper": "Pixurr",
-      "wallpapername": "Halloween",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.pixurr",
-      "widget": "Radish KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack",
-      "widget2" : "Fuchsia KWGT",
-      "widget2url" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
-    },
-    {
-      "authorname": "Vignesh",
-      "iconpack": "Coves KWGT",
-      "iconurl": "https://play.google.com/store/apps/details?id=coves.kustom.pack",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/388.png",
-      "title": "Couples",
-      "wallpaper": "Canva Walls",
-      "wallpapername": "Couples",
-      "wallpaperurl": "Now ded :(",
-      "widget": "Coves KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=coves.kustom.pack"
-    },
-    {
-      "authorname": "Asad",
-      "iconpack": "Killa",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.themesonfire.iconpack.killa_icons.paid",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/387.png",
-      "title": "Kicked",
-      "wallpaper": "Wallsy",
-      "wallpapername": "Kicked Out",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=my.walls.app",
-      "widget": "Fuchsia KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/407.png",
+      "title": "Black Fog",
+      "wallpaper": "Joy Walls",
+      "wallpapername": "wall351",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget": "Vanilla Kwgt",
+      "widgeturl": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
     }
-    
   ],
   "announcement": [
     {
-      "appname": "Submit your Homescreens for contest and get a chance to win Thirsty for KLWP",
-      "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty"
+      "appname": "Submit your Homescreens for contest and get a chance to win WallLet - 4k, HD Amoled Wallpapers",
+      "url": "https://play.google.com/store/apps/details?id=com.home.wallet"
     }
   ]
 }
