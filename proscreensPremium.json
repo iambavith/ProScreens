@@ -3,6 +3,80 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Roki",
+      "iconpack": "Phosphor Cadmium",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.cadmium",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/411.png",
+      "title": "Cyber Ride",
+      "wallpaper": "Google Album",
+      "wallpapername": "Downloaded Wall",
+      "wallpaperurl": "https://photos.app.goo.gl/EG1fdwhGSxrKHYqH6",
+      "widget": "Flawless KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "Ravi Raja",
+      "iconpack": "Bilfy",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/410.png",
+      "title": "Mountain",
+      "wallpaper": "Whalepapers Pro",
+      "wallpapername": "Mountain",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "widget": "Aphemis",
+      "widgeturl": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "novotab51",
+      "iconpack": "Vera Outline Black",
+      "iconurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.veraoutlineblack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/409.png",
+      "title": "Glim",
+      "wallpaper": "Replash",
+      "wallpapername": "Downloaded wall",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.b_lam.resplash",
+      "widget": "Koda for Kustom",
+      "widgeturl": "https://play.google.com/store/apps/details?id=kodaforkustom.droidbeauty.pack"
+    },
+
+    {
+      "authorname": "Jackson Hayes",
+      "iconpack": "Caelus Black Icon Pack",
+      "iconurl": "https://play.google.com/store/apps/details?id=studio14.application.caelusblack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/408.png",
+      "title": "Misty White",
+      "wallpaper": "Unsplash",
+      "wallpapername": "Downloaded wall",
+      "wallpaperurl": "https://unsplash.com/photos/SdG5KmRFZNI",
+      "widget": "Radish KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+    },
+
+    {
+      "authorname": "FKTM",
+      "iconpack": "LineX White",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.linex.white.iconpack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/407.png",
+      "title": "Black Fog",
+      "wallpaper": "Joy Walls",
+      "wallpapername": "wall351",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget": "Vanilla Kwgt",
+      "widgeturl": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
       "authorname": "Vishal",
       "iconpack": "Dove Dark",
       "iconurl": "https://play.google.com/store/apps/details?id=com.jndapp.dove.dark.iconpack",
