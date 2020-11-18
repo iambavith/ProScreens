@@ -3,6 +3,20 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname": "Yash Manjrekar",
+      "iconpack": "Nebula",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/427.png",
+      "title": "Cards",
+      "wallpaper": "Crisper",
+      "wallpapername": "Cold Lake",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.junaidgandhi.crisper",
+      "widget": "Lucent KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },
+    {
       "authorname": "AK cloudy",
       "iconpack": "Reev Lite",
       "iconurl": "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
