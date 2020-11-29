@@ -269,5 +269,68 @@
       "icon": "https://play-lh.googleusercontent.com/i4J4dOC5zOvWsbdqrVvHbjYUgFpa_xBvo_Jv8C9hkCU0KQoSGlzUVZW9TVRYklE6LQ9h=s180-rw",
       "url": "https://play.google.com/store/apps/details?id=flowkwgt.kustom.pack"
     }
+  ],"resources": [
+    {
+      "icon": "https://raw.githubusercontent.com/iambavith/ProScreens/master/20.jpg",
+      "name": "Homescreen Art",
+      "url": "https://t.me/exxncsshs"
+    },
+    {
+      "icon": "https://ph-files.imgix.net/b3e14f8e-e8b7-4d55-8d3a-4dcbd2095346.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=80&h=80&fit=crop",
+      "name": "Wallpeppers",
+      "url": "https://wallpeppers.web.app/?ref=producthunt",
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/iambavith/ProScreens/master/StylishWidgetsP.jpg",
+      "name": "Stylish Widgets",
+      "url": "https://t.me/stylishwidgets"
+    }
+  ],
+"newapps": [
+    {
+      "icon": "https://play-lh.googleusercontent.com/byTyXh0YV8ES4gGdRkpFTRPPXwAqew5eBK7bg18HGelPADuV2rFdP47gcXPLT2ex4ZU=s180-rw",
+      "name": "Lucid for KLWP Pro",
+      "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack"
+    },
+    {
+      "icon": "https://play-lh.googleusercontent.com/Shv0_J4iHcZkO-MzIsXhtNFFYmHXiw2SMhkZVZAR3NjYUnWjbu-om4wpPN-G4eKQvg=s180-rw",
+      "name": "Felix KWGT",
+      "url": "https://play.google.com/store/apps/details?id=felixkwgt.kustom.pack"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/LZ1CMKCRbn5XZ5STfHZP6xf_9hecBahxRdfLiFwsQpG9-aDwbcbMuV5FEzRYgcWeXLM3=s180-rw",
+      "name": "Dossier for KLWP Pro",
+      "url": "https://play.google.com/store/apps/details?id=dossier.kustom.pack",
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/29qOvA34H6cu6cw5SsPF4xRd1qoDaVmqGVqRniu1JMyuh8C5IAUbL7Yyf2vKevgIFp6h=s180-rw",
+      "name": "Vanilla KWGT",
+      "url": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/Iw0ECNndhHAWaZku-yZuI4izgHlCAuNajUml7Oqj4cZ9wyphHSrGHoX-ty5NMVQ1-g=s180-rw",
+      "name": "Thirsty for KLWP",
+      "url": "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/Zo7tw5aLOrHRq7cBlGBlR-FiJBwfthPqf7HQ_zmdp4un-BGX7r2zJqBMva4ZMdPZVkQ=s180-rw",
+      "name": "WallLet",
+      "url": "https://play.google.com/store/apps/details?id=com.home.wallet"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/wXcXdYcdqg96kzU9_UY5ORlrTaNM3dtCkFy-r7d5mEhwsWgJK4Z5LHL9EWzpNyOnW2Q=s180-rw",
+      "name": "Wallsy - HD Wallpaper",
+      "url": "https://play.google.com/store/apps/details?id=my.walls.app"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/AjKqpZaAkNGQjNS78Tx1iscACAG-SHik8jj-K4LDzTeJMTzrAvwy08PHyeiS9etu2QM=s180-rw",
+      "name": "Smart iOS Style widgets",
+      "url": "https://play.google.com/store/apps/details?id=smartiosstylewidgets.kustom.pack"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/k3-mPXkDe5TJzuRDNBSppkbs8yFrEkUJDcErYnN3DqDfzrmxIpnEU9qRLZcrrZHNr-Xc=s180-rw",
+      "name": "MinimaWalls",
+      "url": "https://play.google.com/store/apps/details?id=com.wallpaper.minimawalls"
+    }
   ]
 }
