@@ -138,11 +138,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.dreamon.wallnut"
     },
     {
-      "name": "Amoled Pix",
-      "icon": "https://play-lh.googleusercontent.com/YAVSltzxJbWXi5EuaSBIILtOrLcQhwI5BbAgEUmf4ab6X5HN7fzfDgBtTiC9qHcTzA=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.androholic.amoledpix"
-    },
-    {
       "name": "Abstruct",
       "icon": "https://play-lh.googleusercontent.com/vSNtyKw2z4BvvhoYg1V_1s-aTNBOCyhtotMqBXMjXkYUFo5TXlQmWxWeOzJdJpB1Ew=s180-rw",
       "url": "https://play.google.com/store/apps/details?id=com.hampusolsson.abstruct"
@@ -151,11 +146,6 @@
       "name": "Backdrops",
       "icon": "https://play-lh.googleusercontent.com/QNPPRtgJyH8Vgv5FCI8S7nFRfrszCvCPrM79nyYrSQbkqnO_vrMMGnyNGPI-tCX5dy8q=s180-rw",
       "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers"
-    },
-    {
-      "name": "Crisper",
-      "icon": "https://play-lh.googleusercontent.com/gW5-fHKav0lBd7zk3EI8k_LE_Fx0v13-np-tXYIQnaBayoY8CWy7Bs4GospZjddHRbY=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.junaidgandhi.crisper"
     },
     {
       "name": "Walli",
@@ -178,16 +168,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers"
     },
     {
-      "name": "AmoledWalls",
-      "icon": "https://play-lh.googleusercontent.com/PNt27QB6Rd0VhbcCHzQ3ff5UFjCERdwe54aglpiSHceGD6_Uw315mtsR-ggmv-DusPw=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.Hastamev.AmoledWallsFree"
-    },
-    {
-      "name": "Wallhub",
-      "icon": "https://play-lh.googleusercontent.com/N5cCG_HHbZhbPFpSIyHfNig4YRCzGuyOU8VaeqAmBq4WVf3QJz9mLIjCp22Y5bAQSqqM=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.Hastamev.WallHubFree"
-    },
-    {
       "name": "pixWalls",
       "icon": "https://play-lh.googleusercontent.com/XxKsLrGm8EzsbZqD73pOQns6ls1ObPLKEsfsXCXI1-UwEfYnmbeo4zvRHnfQ3n6gIZPY=s180-rw",
       "url": "https://play.google.com/store/apps/details?id=com.sreeragag.pixwalls"
@@ -198,15 +178,11 @@
       "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall"
     },
     {
-      "name": "DopeWalls",
-      "icon": "https://play-lh.googleusercontent.com/tG1cGE4q7U1aPYvCz_oF_Ia8paNDVMT9EOxyerIuNG-4ZV8u7zoWq1t2SnAc2N7MUQ9B=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.androholic.dopewalls"
-    },
-    {
-      "name": "MyWallApp",
-      "icon": "https://play-lh.googleusercontent.com/houDlzDyWWJyxwQWpk_rPm8s2iUJnFugBEHIANJfDfWGB8LmGdCu32wUBsaRKPNBdA=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.esethnet.mywallapp"
-    },
+      "name": "Resplash",
+      "icon": "https://play-lh.googleusercontent.com/rZshFGB30eHSHa5s1Qz1GII3bD5ONkHnMMDHQGiY1jwz9bljzF7-1kCgMe1Z46aS1av-=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.b_lam.resplash"
+    }
+    
     {
       "name": "Walpy",
       "icon": "https://play-lh.googleusercontent.com/6K8o8mobG8O-6OYZPUBRQYvCALzkkjjRzLjHCeuB19gRSjdZ9T5djqb1WzmpldCcuVo=s180-rw",
