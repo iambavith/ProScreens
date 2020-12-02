@@ -913,5 +913,37 @@
       "name": "Evie Launcher",
       "url": "https://play.google.com/store/apps/details?id=is.shortcut"
     }
+  ],
+  "nativeAds" : [
+    {
+      "image" : "https://pbs.twimg.com/media/EmtmzZFVEAAXwSC?format=jpg&name=medium",
+      "name" : "Whalepapers Pro",
+      "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "discription" : "A wallpaper app with 800+ hand crafted vector wallpapers"
+    },
+    {
+      "image" : "https://pbs.twimg.com/media/EoAZqUFVcAAZo2D?format=jpg&name=large",
+      "name" : "Whalepapers Pro",
+      "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "discription" : "A wallpaper app with 800+ hand crafted vector wallpapers"
+    },
+    {
+      "image" : "https://pbs.twimg.com/media/En-gS0vUcAAwlUg?format=jpg&name=large",
+      "name" : "Whalepapers Pro",
+      "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "discription" : "A wallpaper app with 800+ hand crafted vector wallpapers"
+    },
+    {
+      "image" : "https://pbs.twimg.com/media/En0TWJgWEAA6322?format=jpg&name=large",
+      "name" : "Whalepapers Pro",
+      "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "discription" : "A wallpaper app with 800+ hand crafted vector wallpapers"
+    },
+    {
+      "image" : "https://pbs.twimg.com/media/En1LqWyVoAIOFXO?format=jpg&name=large",
+      "name" : "Whalepapers Pro",
+      "url" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepaperspro",
+      "discription" : "A wallpaper app with 800+ hand crafted vector wallpapers"
+    }
   ]
 }
