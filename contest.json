@@ -1,76 +1,106 @@
 {
   "contest": [
     {
-      "appname": "Lucid for KLWP Pro",
-      "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack"
+      "appname": "Prism -Exclusive Wallpapers & Setups",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism"
     }
   ],
 
   "winners": [
     {
-      "authorname": "Abhay Maurya",
-      "iconpack": "Bilfy",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.subhamsaha.bilfy",
-      "launcher": "Lawnchair 2",
-      "launcherurl": "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/436.png",
-      "title": "Shader Mask",
-      "wallpaper": "Prism",
-      "wallpapername": "Amoled 23",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.hash.prism",
-      "widget": "Vanilla kwgt",
-      "widgeturl": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack",
-      "widget2": "Fuchsia KWGT",
-      "widget2url": "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
-    },
-    {
-      "authorname": "Tanmoy Halder",
-      "iconpack": "BeeLine",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
+      "authorname": "Jackson Hayes",
+      "iconpack": "Reev Pro",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/435.png",
-      "title": "Abstract Flow",
-      "wallpaper": "WallRod",
-      "wallpapername": "Abstract Liquid 2",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
-      "widget": "Andromeda",
-      "widgeturl": "https://play.google.com/store/apps/details?id=andromedaforkwgt.kustom.pack"
-    },
-    {
-      "authorname": "Dan",
-      "iconpack": "Linebit",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.edzondm.linebit",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/434.png",
-      "title": "Halloween",
-      "wallpaper": "Joy Walls",
-      "wallpapername": "Halloween cross and pumpkin 1",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/445.png",
+      "title": "Gold Shine",
+      "wallpaper": "Collections",
+      "wallpapername": "Glid",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=lor.and.company.collections",
       "widget": "Radish KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
     },
     {
-      "authorname": "Roki",
-      "iconpack": "Creamypro",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
+      "authorname": "Ravi Raja",
+      "iconpack": "Twitter",
+      "iconurl": "https://twitter.com/sry_nmblss",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/433.png",
-      "title": "Creamy Mountain",
-      "wallpaper": "Wallsy",
-      "wallpapername": "Mountain Minimal",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=my.walls.app",
-      "widget": "TapOn KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=tapon.kustom.pack"
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/444.png",
+      "title": "Blue Core",
+      "wallpaper": "Pinterest",
+      "wallpapername": "Blue Wall",
+      "wallpaperurl": "https://www.pinterest.com/pin/477522366710675128",
+      "widget": "Aleria for KWGT Pro",
+      "widgeturl": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria"
+    },
+    {
+      "authorname": "Arijit",
+      "iconpack": "Aline",
+      "iconurl": "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/443.png",
+      "title": "Blue Rim",
+      "wallpaper": "Amoled Papers",
+      "wallpapername": "Rim 3",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=pl.mhcharlee.amoledpapers",
+      "widget": "Vanilla KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
+      "authorname": "Yudha",
+      "iconpack": "Tessa",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/442.png",
+      "title": "Sunset",
+      "wallpaper": "WallRod",
+      "wallpapername": "Beautiful Sunset",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+      "widget": "Lucent KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "widget2": "Aphemis KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+    },
+    {
+      "authorname": "Yudha",
+      "iconpack": "Tessa",
+      "iconurl": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/442.png",
+      "title": "Sunset",
+      "wallpaper": "WallRod",
+      "wallpapername": "Beautiful Sunset",
+      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+      "widget": "Lucent KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "widget2": "Aphemis KWGT",
+      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+    },
+    {
+      "authorname": "Rashed Sahajee",
+      "iconpack": "Gruvy",
+      "iconurl": "https://play.google.com/store/apps/details?id=izzl.gruvy.pack",
+      "launcher": "Nova",
+      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/441.png",
+      "title": "Simple Dark",
+      "wallpaper": "Google Photos",
+      "wallpapername": "Waves Darker",
+      "wallpaperurl": "https://photos.app.goo.gl/wQgyME31D1wNhbSf6",
+      "widget": "Frost KWGT",
+      "widgeturl": "https://play.google.com/store/apps/details?id=frostkwgt.droidbeauty.pack"
     }
   ],
   "announcement": [
     {
       "appname": "Submit your Homescreens for contest and get a chance to win Lucid for KLWP Pro",
       "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
-	"icon": "https://play-lh.googleusercontent.com/byTyXh0YV8ES4gGdRkpFTRPPXwAqew5eBK7bg18HGelPADuV2rFdP47gcXPLT2ex4ZU=s180-rw"
+      "icon": "https://play-lh.googleusercontent.com/byTyXh0YV8ES4gGdRkpFTRPPXwAqew5eBK7bg18HGelPADuV2rFdP47gcXPLT2ex4ZU=s180-rw"
     }
   ]
 }
