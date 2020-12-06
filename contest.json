@@ -66,22 +66,6 @@
       "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
     },
     {
-      "authorname": "Yudha",
-      "iconpack": "Tessa",
-      "iconurl": "https://play.google.com/store/apps/details?id=com.icarus.tessa",
-      "launcher": "Nova",
-      "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/442.png",
-      "title": "Sunset",
-      "wallpaper": "WallRod",
-      "wallpapername": "Beautiful Sunset",
-      "wallpaperurl": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
-      "widget": "Lucent KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
-      "widget2": "Aphemis KWGT",
-      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
-    },
-    {
       "authorname": "Rashed Sahajee",
       "iconpack": "Gruvy",
       "iconurl": "https://play.google.com/store/apps/details?id=izzl.gruvy.pack",
@@ -98,9 +82,9 @@
   ],
   "announcement": [
     {
-      "appname": "Submit your Homescreens for contest and get a chance to win Lucid for KLWP Pro",
-      "url": "https://play.google.com/store/apps/details?id=lucid.kustom.pack",
-      "icon": "https://play-lh.googleusercontent.com/byTyXh0YV8ES4gGdRkpFTRPPXwAqew5eBK7bg18HGelPADuV2rFdP47gcXPLT2ex4ZU=s180-rw"
+      "appname": "Submit your Homescreens for contest and get a chance to win Prism -Exclusive Wallpapers & Setups",
+      "url": "https://play.google.com/store/apps/details?id=com.hash.prism",
+      "icon": "https://play-lh.googleusercontent.com/olq1vTnMgU6f6bX6NeII7AAjunUb62T5Z9az0FtsSi60IbbjUYe3yOU-oHchOR8moNg=s180-rw"
     }
   ]
 }
