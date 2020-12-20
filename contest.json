@@ -7,11 +7,10 @@
   ],
 
   "winners": [
- 
     {
       "authorname": "Arijit",
-      "iconpack": "None",
-      "iconurl": "",
+      "iconpack": "Aleria KWGT",
+      "iconurl": "https://play.google.com/store/apps/details?id=dev.widgetology.aleria",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/450.png",
@@ -24,8 +23,8 @@
     },
     {
       "authorname": "Android Whix",
-      "iconpack": "None",
-      "iconurl": "",
+      "iconpack": "Widget Used",
+      "iconurl": "https://mega.nz/file/u9JkEIDJ#K7rBtUJzMg6PlYd7bQPcUtMropfsTEHAa7jHv-UTiM4",
       "launcher": "Nova",
       "launcherurl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "thumbnail": "https://raw.githubusercontent.com/iambavith/proscrthumb/master/449.png",
@@ -34,9 +33,7 @@
       "wallpapername": "Jungle Landscape 1",
       "wallpaperurl": "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
       "widget": "Cream KWGT",
-      "widgeturl": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack",
-      "widget2": "Mega",
-      "widget2url": "https://mega.nz/file/u9JkEIDJ#K7rBtUJzMg6PlYd7bQPcUtMropfsTEHAa7jHv-UTiM4"
+      "widgeturl": "https://play.google.com/store/apps/details?id=creamkwgt.kustom.pack"
     },
     {
       "authorname": "Tanmoy",
