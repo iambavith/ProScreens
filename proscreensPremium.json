@@ -3,6 +3,118 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "FKTM",
+      "iconpack" : "Reev",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/470.png",
+      "title" : "Minimal Mountain",
+      "wallpaper" : "Wallsy",
+      "wallpapername" : "Mountain minimal",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=my.walls.app",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Anxgrrr",
+      "iconpack" : "phospor carbon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
+      "launcher" : "nova prime",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/469.png",
+      "title" : "Sweet blue",
+      "wallpaper" : "Unsplash",
+      "wallpapername" : "Blue cloud",
+      "wallpaperurl" : "https://unsplash.com/",
+      "widget" : "spiffy kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+    },
+    {
+      "authorname" : "Sanjeev",
+      "iconpack" : "Pix material icon pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
+      "launcher" : "Nova launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/468.png",
+      "title" : "Soothing",
+      "wallpaper" : "Collections",
+      "wallpapername" : "Flat",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "widget" : "Frost kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=frostkwgt.droidbeauty.pack"
+    },
+    {
+      "authorname" : "Vishal",
+      "iconpack" : "Bladient Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/467.png",
+      "title" : "Alien Wave",
+      "wallpaper" : "Wallnut Pro",
+      "wallpapername" : "Alien Wave",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "widget" : "Fuchsia",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "FKTM",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/466.png",
+      "title" : "OouuuuOuuu",
+      "wallpaper" : "WalliPop",
+      "wallpapername" : "Fox",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "MS",
+      "iconpack" : "Foxbit Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/465.png",
+      "title" : "Winter",
+      "wallpaper" : "Minima Walls",
+      "wallpapername" : "Winter",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.wallpaper.minimawalls",
+      "widget" : "Mini-ism for kwgt",
+      "widget2" : "Mini-ism for kwgt",
+      "widget2url" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Vishal",
+      "iconpack" : "Aline",
+      "iconurl" : "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/464.png",
+      "title" : "Rocket Women",
+      "wallpaper" : "One4wall",
+      "wallpapername" : "X 004",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall",
+      "widget" : "Grasunt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.iambavith.grasunt"
+    },
+    {
+      "authorname" : "FKTM",
+      "iconpack" : "Tessa",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/463.png",
+      "title" : "Center White",
+      "wallpaper" : "Tessa",
+      "wallpapername" : "1",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
       "authorname" : "Asad0_o",
       "iconpack" : "Wlip icon pack",
       "iconurl" : "https://play.google.com/store/apps/details?id=dev.lknninex.wlip",
@@ -6765,6 +6877,20 @@
   ],
   "amoled": [
     {
+      "authorname" : "Vishal",
+      "iconpack" : "Aline",
+      "iconurl" : "https://play.google.com/store/apps/details?id=one4studio.pixelperfect.iconpack.aline",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/464.png",
+      "title" : "Rocket Women",
+      "wallpaper" : "One4wall",
+      "wallpapername" : "X 004",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall",
+      "widget" : "Grasunt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.iambavith.grasunt"
+    },
+    {
       "authorname" : "PRINCEHASIJA",
       "launcher" : "NOVA PRIME",
       "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
@@ -7656,6 +7782,20 @@
     }
   ],
   "minimal": [
+    {
+      "authorname" : "Anxgrrr",
+      "iconpack" : "phospor carbon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
+      "launcher" : "nova prime",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/469.png",
+      "title" : "Sweet blue",
+      "wallpaper" : "Unsplash",
+      "wallpapername" : "Blue cloud",
+      "wallpaperurl" : "https://unsplash.com/",
+      "widget" : "spiffy kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+    },
     {
       "authorname" : "Jacksonhayes",
       "iconpack" : "Charcoal Icon Pack",
@@ -8630,6 +8770,18 @@
     }
   ],
   "illustration": [
+    {
+      "authorname" : "FKTM",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/466.png",
+      "title" : "OouuuuOuuu",
+      "wallpaper" : "WalliPop",
+      "wallpapername" : "Fox",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
     {
       "authorname" : "FKTM",
       "iconpack" : "BeeLine",
@@ -9621,6 +9773,50 @@
   ],
   "light": [
     {
+      "authorname" : "Anxgrrr",
+      "iconpack" : "phospor carbon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor",
+      "launcher" : "nova prime",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/469.png",
+      "title" : "Sweet blue",
+      "wallpaper" : "Unsplash",
+      "wallpapername" : "Blue cloud",
+      "wallpaperurl" : "https://unsplash.com/",
+      "widget" : "spiffy kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=spiffy.kustom.pack"
+    },
+    {
+      "authorname" : "Sanjeev",
+      "iconpack" : "Pix material icon pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.iconpack",
+      "launcher" : "Nova launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/468.png",
+      "title" : "Soothing",
+      "wallpaper" : "Collections",
+      "wallpapername" : "Flat",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=lor.and.company.collections",
+      "widget" : "Frost kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=frostkwgt.droidbeauty.pack"
+    },
+    {
+      "authorname" : "MS",
+      "iconpack" : "Foxbit Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.edzondm.foxbit",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/465.png",
+      "title" : "Winter",
+      "wallpaper" : "Minima Walls",
+      "wallpapername" : "Winter",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.wallpaper.minimawalls",
+      "widget" : "Mini-ism for kwgt",
+      "widget2" : "Mini-ism for kwgt",
+      "widget2url" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+    },
+    {
       "authorname": "Vishal",
       "iconpack": "Vera",
       "iconurl": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.vera",
@@ -10249,6 +10445,20 @@
   "others": [
     {
       "authorname" : "Vishal",
+      "iconpack" : "Bladient Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/467.png",
+      "title" : "Alien Wave",
+      "wallpaper" : "Wallnut Pro",
+      "wallpapername" : "Alien Wave",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
+      "widget" : "Fuchsia",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Vishal",
       "iconpack" : "BeeLine Icon Pack",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
       "launcher" : "Nova Launcher",
@@ -10728,6 +10938,34 @@
     }
   ],
   "dark": [
+    {
+      "authorname" : "FKTM",
+      "iconpack" : "Reev",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevicons.grabsterstudios",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/470.png",
+      "title" : "Minimal Mountain",
+      "wallpaper" : "Wallsy",
+      "wallpapername" : "Mountain minimal",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=my.walls.app",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "FKTM",
+      "iconpack" : "Tessa",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/463.png",
+      "title" : "Center White",
+      "wallpaper" : "Tessa",
+      "wallpapername" : "1",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.icarus.tessa",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
     {
       "authorname" : "Asad0_o",
       "iconpack" : "Wlip icon pack",
