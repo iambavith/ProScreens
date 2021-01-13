@@ -12455,7 +12455,8 @@
       "wallpapername" : "Doodle Blue ",
       "wallpaperurl" : "https://play.google.com/store/apps/details?id=my.walls.app",
       "widget" : "Aphemis KWGT",
-      "widgeturl" : "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+      "widgeturl" : "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "emoji" : "❤️"
     },
     {
       "authorname" : "FKTM",
@@ -12469,7 +12470,8 @@
       "wallpapername" : "Gradient Wall 1",
       "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.iambavith.whalepapers",
       "widget" : "Thirsty Klwp",
-      "widgeturl" : "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty"
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.nishantchaudhary.thirsty",
+      "emoji" : "😍"
     },
     {
       "authorname" : "Vishal",
@@ -12483,7 +12485,8 @@
       "wallpapername" : "Alien Wave",
       "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.dreamon.wallnut",
       "widget" : "Fuchsia",
-      "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack"
+      "widgeturl" : "https://play.google.com/store/apps/details?id=fuchsiaforkwgt.kustom.pack",
+      "emoji" : "😎"
     },
     {
       "authorname" : "Yash Manjrekar",
@@ -12497,7 +12500,8 @@
       "wallpapername" : "Leaves",
       "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.feresr.walpy",
       "widget" : "Lucent KWGT",
-      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
+      "emoji" : "👀"
     },
     {
       "authorname": "Yudha",
@@ -12513,7 +12517,8 @@
       "widget": "Lucent KWGT",
       "widgeturl": "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack",
       "widget2": "Aphemis KWGT",
-      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack"
+      "widget2url": "https://play.google.com/store/apps/details?id=aphemiskwgt.kustom.pack",
+      "emoji" : "👌🏻"
     },
     {
       "authorname" : "Raghav Khurana",
@@ -12527,7 +12532,8 @@
       "wallpapername" : "Lines and  Flowers ",
       "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.icarus.tessa",
       "widget" : "Mini ism for kwgt ",
-      "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack"
+      "widgeturl" : "https://play.google.com/store/apps/details?id=minimalistforkwgt.kustom.pack",
+      "emoji" : "☕️"
     }
   ]
 }
