@@ -70,7 +70,8 @@
     {
       "appname": "Submit your Homescreens for contest and get a chance to win Crystal KWGT",
       "url": "https://play.google.com/store/apps/details?id=crystal.kustom.pack",
-      "icon": "https://play-lh.googleusercontent.com/NS9Sgx_9OtjQpXC4vjsNBVFgQ1lkxrp7Eedv128-WtKwb5oZuKj0foqMUubpG_aSKAZK=s180-rw"
+      "icon": "https://play-lh.googleusercontent.com/NS9Sgx_9OtjQpXC4vjsNBVFgQ1lkxrp7Eedv128-WtKwb5oZuKj0foqMUubpG_aSKAZK=s180-rw",
+	"contest" : true
     }
   ]
 }
