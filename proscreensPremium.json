@@ -3,6 +3,124 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+    "authorname" : "Yash",
+    "iconpack" : "Nebula Icon pack",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/500.png",
+    "title" : "Serene",
+    "wallpaper" : "Stokie",
+    "wallpapername" : "Mac OS Big Sur",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.harry.stokie",
+    "widget" : "Lucent KWGT",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+  },
+    {
+      "authorname" : "Vishal",
+      "iconpack" : "Circons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.circons",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/498.png",
+      "title" : "Amoled Wave",
+      "wallpaper" : "One4Wall",
+      "wallpapername" : "Amoled Wave",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.wallpaper.one4wall",
+      "widget" : "Evolve",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=evolve.kustom.pack"
+    },
+    {
+    "authorname" : "Aayush",
+    "iconpack" : "Bladient Icons",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/497.png",
+    "title" : "Birds on Branch",
+    "wallpaper" : "Wallipop",
+    "wallpapername" : "BIRD ON BRANCH V1",
+    "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+    "widget" : "One4KWGT Reloaded",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtreloaded"
+  },
+    {
+    "authorname" : "Aaron",
+    "iconpack" : "Redb Dark Frame Icons",
+    "iconurl" : "https://drive.google.com/file/d/1GBmSfErJWMOcmD0j6GaIjqJvcDiujVWP/view?usp=drivesdk",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/496.png",
+    "title" : "Tenis in Skate",
+    "wallpaper" : "Drive ",
+    "wallpapername" : "Tenis in Skate",
+    "wallpaperurl" : "https://drive.google.com/file/d/1pCe20SJZSbq1MpV842vRqLToQPWFVn-T/view?usp=drivesdk",
+    "widget" : "Flawless Kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+  },
+  {
+      "authorname" : "Christian ",
+      "iconpack" : "Bubblegum Glyphs",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum.glyphs",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/499.png",
+      "title" : "First Time",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Amoled",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Nebbia Pro KWGT",
+      "widget2" : "Custom Statusbar Widget ",
+      "widget2url" : "https://drive.google.com/file/d/1qEpkAXZ84SYEt06hPuoW29uWnYBGcuLZ/view?usp=drivesdk",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Rc",
+      "iconpack" : "Reev pro ",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+      "launcher" : "Lawnchair",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/495.png",
+      "title" : "Blur madness",
+      "wallpaper" : "Wall by me ",
+      "wallpapername" : "Wavy",
+      "wallpaperurl" : "https://twitter.com/rc200044/status/1322421078606585856?s=19",
+      "widget" : "From Reev pro ",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios"
+    },
+    {
+      "authorname" : "Abhay Maurya",
+      "iconpack" : "Phosphor Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.mercury",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/494.png",
+      "title" : "Shadows & Walls",
+      "wallpaper" : "LiquidatorAB",
+      "wallpapername" : "Archv1",
+      "wallpaperurl" : "https://t.me/HashStudios/27?single",
+      "widget" : "Elara KWGT - Binary 003",
+      "widget2" : "Elara KWGT - Marble 009",
+      "widget2url" : "https://bit.ly/elarakwgt",
+      "widgeturl" : "https://bit.ly/elarakwgt"
+    },
+    {
+      "authorname" : "PietMuskiet",
+      "iconpack" : "Drops",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.aiocen.iconpack.drops",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/493.png",
+      "title" : "Ronaldo ",
+      "wallpaper" : "Imgur",
+      "wallpapername" : "Ronaldo ",
+      "wallpaperurl" : "http://imgur.com/gallery/fDOZ6T4",
+      "widget" : "Vanilla",
+      "widget2" : "Minimusicplayer",
+      "widget2url" : "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
       "authorname" : "Arijit",
       "iconpack" : "Lie 2.0",
       "iconurl" : "Twitter",
@@ -7195,6 +7313,22 @@
   ],
   "amoled": [
     {
+      "authorname" : "Christian ",
+      "iconpack" : "Bubblegum Glyphs",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum.glyphs",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/499.png",
+      "title" : "First Time",
+      "wallpaper" : "Walli",
+      "wallpapername" : "Amoled",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.shanga.walli",
+      "widget" : "Nebbia Pro KWGT",
+      "widget2" : "Custom Statusbar Widget ",
+      "widget2url" : "https://drive.google.com/file/d/1qEpkAXZ84SYEt06hPuoW29uWnYBGcuLZ/view?usp=drivesdk",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=nebbiaprokwgt.kustom.pack"
+    },
+    {
       "authorname" : "Raghav Khurana ",
       "iconpack" : "Beeline ",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
@@ -8127,7 +8261,35 @@
       "widgeturl": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher"
     }
   ],
-  "minimal": [
+  "minimal": [    
+    {
+      "authorname" : "Yash",
+      "iconpack" : "Nebula Icon pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/500.png",
+      "title" : "Serene",
+      "wallpaper" : "Stokie",
+      "wallpapername" : "Mac OS Big Sur",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.harry.stokie",
+      "widget" : "Lucent KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },
+    {
+    "authorname" : "Rc",
+    "iconpack" : "Reev pro ",
+    "iconurl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios",
+    "launcher" : "Lawnchair",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/495.png",
+    "title" : "Blur madness",
+    "wallpaper" : "Wall by me ",
+    "wallpapername" : "Wavy",
+    "wallpaperurl" : "https://twitter.com/rc200044/status/1322421078606585856?s=19",
+    "widget" : "From Reev pro ",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios"
+  },
     {
       "authorname" : "FKTM",
       "iconpack" : "Tessa Icon Pack",
@@ -9247,6 +9409,34 @@
   ],
   "illustration": [
     {
+      "authorname" : "Yash",
+      "iconpack" : "Nebula Icon pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/500.png",
+      "title" : "Serene",
+      "wallpaper" : "Stokie",
+      "wallpapername" : "Mac OS Big Sur",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.harry.stokie",
+      "widget" : "Lucent KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=lucentkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Aayush",
+      "iconpack" : "Bladient Icons",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.maxpatchs.bladient",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/497.png",
+      "title" : "Birds on Branch",
+      "wallpaper" : "Wallipop",
+      "wallpapername" : "BIRD ON BRANCH V1",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.arrow.wallpapers.wallipop",
+      "widget" : "One4KWGT Reloaded",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=cs14.pixelperfect.kwgtwidget.one4kwgtreloaded"
+    },
+    {
       "authorname" : "Arijit",
       "iconpack" : "Lie 2.0",
       "iconurl" : "Twitter",
@@ -10281,6 +10471,22 @@
   ],
   "light": [
     {
+      "authorname" : "PietMuskiet",
+      "iconpack" : "Drops",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.aiocen.iconpack.drops",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/493.png",
+      "title" : "Ronaldo ",
+      "wallpaper" : "Imgur",
+      "wallpapername" : "Ronaldo ",
+      "wallpaperurl" : "http://imgur.com/gallery/fDOZ6T4",
+      "widget" : "Vanilla",
+      "widget2" : "Minimusicplayer",
+      "widget2url" : "https://play.google.com/store/apps/details?id=minimusicplayerforkwgt.kustom.pack",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
       "authorname" : "Sanjeev",
       "iconpack" : "Os 12 icon",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.allshape.oseleven",
@@ -10979,7 +11185,22 @@
     }
   ],
   "others": [
-    
+    {
+      "authorname" : "Abhay Maurya",
+      "iconpack" : "Phosphor Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.tobiasfried.phosphor.mercury",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/494.png",
+      "title" : "Shadows & Walls",
+      "wallpaper" : "LiquidatorAB",
+      "wallpapername" : "Archv1",
+      "wallpaperurl" : "https://t.me/HashStudios/27?single",
+      "widget" : "Elara KWGT - Binary 003",
+      "widget2" : "Elara KWGT - Marble 009",
+      "widget2url" : "https://bit.ly/elarakwgt",
+      "widgeturl" : "https://bit.ly/elarakwgt"
+    },
     {
       "authorname" : "FKTM",
       "iconpack" : "After Glow Free",
@@ -11516,7 +11737,21 @@
       "widgeturl": "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }
   ],
-  "dark": [
+  "dark": [    
+    {
+    "authorname" : "Aaron",
+    "iconpack" : "Redb Dark Frame Icons",
+    "iconurl" : "https://drive.google.com/file/d/1GBmSfErJWMOcmD0j6GaIjqJvcDiujVWP/view?usp=drivesdk",
+    "launcher" : "Nova Launcher",
+    "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+    "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/496.png",
+    "title" : "Tenis in Skate",
+    "wallpaper" : "Drive ",
+    "wallpapername" : "Tenis in Skate",
+    "wallpaperurl" : "https://drive.google.com/file/d/1pCe20SJZSbq1MpV842vRqLToQPWFVn-T/view?usp=drivesdk",
+    "widget" : "Flawless Kwgt",
+    "widgeturl" : "https://play.google.com/store/apps/details?id=flawlesskwgt.kustom.pack"
+  },
     {
       "authorname" : "RAVIRAJA",
       "iconpack" : "Dove light",
