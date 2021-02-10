@@ -3,6 +3,60 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "FKTM",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/504.png",
+      "title" : "More Then Gradient",
+      "wallpaper" : "Telegram",
+      "wallpapername" : "Your Wallpaper",
+      "wallpaperurl" : "https://t.me/Yourswallpapars/59",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "FKTM",
+      "iconpack" : "Cealus White",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caeluswhite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/503.png",
+      "title" : "🌊 Gradient",
+      "wallpaper" : "Joy Walls",
+      "wallpapername" : "Wave gradient",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget" : "Sheer KWGT",
+      "widget2" : "Stylish Reborn",
+      "widget2url" : "https://t.me/stylishwidgets/333",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Vishal",
+      "iconpack" : "CreamyPro Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/502.png",
+      "title" : "Aura",
+      "wallpaper" : "Aura Klwp",
+      "wallpapername" : "Aura_VII",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack"
+    },
+    {
+      "authorname" : "MS",
+      "iconpack" : "Niagara Dots",
+      "iconurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "launcher" : "Niagara Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/501.png",
+      "title" : "Space Walk",
+      "wallpaper" : "Wallspaper",
+      "wallpapername" : "Space04",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "widget" : "Radish Kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+    },
+    {
     "authorname" : "Yash",
     "iconpack" : "Nebula Icon pack",
     "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.nebula",
@@ -7313,6 +7367,18 @@
   ],
   "amoled": [
     {
+      "authorname" : "Vishal",
+      "iconpack" : "CreamyPro Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/502.png",
+      "title" : "Aura",
+      "wallpaper" : "Aura Klwp",
+      "wallpapername" : "Aura_VII",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack"
+    },
+    {
       "authorname" : "Christian ",
       "iconpack" : "Bubblegum Glyphs",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.bubblegum.glyphs",
@@ -8262,6 +8328,20 @@
     }
   ],
   "minimal": [    
+    {
+      "authorname" : "MS",
+      "iconpack" : "Niagara Dots",
+      "iconurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "launcher" : "Niagara Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=bitpit.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/501.png",
+      "title" : "Space Walk",
+      "wallpaper" : "Wallspaper",
+      "wallpapername" : "Space04",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=deb.wallpaper.walle",
+      "widget" : "Radish Kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=radishkwgt.kustom.pack"
+    },
     {
       "authorname" : "Yash",
       "iconpack" : "Nebula Icon pack",
@@ -10471,6 +10551,18 @@
   ],
   "light": [
     {
+      "authorname" : "FKTM",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/504.png",
+      "title" : "More Then Gradient",
+      "wallpaper" : "Telegram",
+      "wallpapername" : "Your Wallpaper",
+      "wallpaperurl" : "https://t.me/Yourswallpapars/59",
+      "widget" : "Sheer KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
       "authorname" : "PietMuskiet",
       "iconpack" : "Drops",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.aiocen.iconpack.drops",
@@ -11737,7 +11829,35 @@
       "widgeturl": "https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack"
     }
   ],
-  "dark": [    
+  "dark": [ 
+    {
+      "authorname" : "FKTM",
+      "iconpack" : "Cealus White",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caeluswhite",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/503.png",
+      "title" : "🌊 Gradient",
+      "wallpaper" : "Joy Walls",
+      "wallpapername" : "Wave gradient",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=app.yog.joywalls",
+      "widget" : "Sheer KWGT",
+      "widget2" : "Stylish Reborn",
+      "widget2url" : "https://t.me/stylishwidgets/333",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Vishal",
+      "iconpack" : "CreamyPro Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.creamyproiconpack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/502.png",
+      "title" : "Aura",
+      "wallpaper" : "Aura Klwp",
+      "wallpapername" : "Aura_VII",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=auraklwp.droidbeauty.pack"
+    },   
     {
     "authorname" : "Aaron",
     "iconpack" : "Redb Dark Frame Icons",
