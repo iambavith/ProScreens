@@ -3,6 +3,32 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "FKTM",
+      "iconpack" : "Caelus Black",
+      "iconurl" : "https://play.google.com/store/apps/details?id=studio14.application.caelusblack",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/539.png",
+      "title" : "Pliancy",
+      "wallpaper" : "Ripple Wallpapers",
+      "wallpapername" : "Fluidity",
+      "wallpaperurl" : "https://t.me/LetItRipple/1848?single",
+      "widget" : "Abstract Pro KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=abstractpro.kustom.pack"
+    },
+    {
+      "authorname" : "Naveen Tony",
+      "launcher" : "Nova",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/538.png",
+      "title" : "Bird",
+      "wallpaper" : "Drive",
+      "wallpapername" : "Girl",
+      "wallpaperurl" : "https://www.homescreen4u.blogspot.com",
+      "widget" : "Square kwgt",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=squarekwgt.kustom.pack"
+    },
+    {
       "authorname" : "Vishal",
       "iconpack" : "Griddle Icon pack",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.stark.griddle",
