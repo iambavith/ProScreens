@@ -3,6 +3,48 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "Megh Dave",
+      "iconpack" : "Drops Iconpack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.aiocen.iconpack.drops",
+      "launcher" : "Lawnchair v10",
+      "launcherurl" : "https://t.me/lawnchairci/1512?single",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/558.png",
+      "title" : "Flame sky",
+      "wallpaper" : "Wallcanic walls",
+      "wallpapername" : "Gradient 21",
+      "wallpaperurl" : "http://bit.ly/WallCanic",
+      "widget" : "Potion for KWGT pro",
+      "widgeturl" : "http://bit.ly/PotionKWGT"
+    },
+    {
+      "authorname" : "Ajay Kannan ",
+      "iconpack" : "Adaptive White Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.hexoline.flatpixelwhite",
+      "launcher" : "OnePlus Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=net.oneplus.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/557.png",
+      "title" : "Autumn ",
+      "wallpaper" : "Wallpy",
+      "wallpapername" : "Autumn ",
+      "wallpaperurl" : "https://drive.google.com/file/d/1BAU6N4LBT5uadJ31kAwPG17pJdJwR6Q4/view?usp=drivesdk",
+      "widget" : "Vanilla KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=vanillakwgt.kustom.pack"
+    },
+    {
+      "authorname" : "V i N i T",
+      "iconpack" : "Elega KWGT ",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.elega",
+      "launcher" : "Nova Launcher ",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/556.png",
+      "title" : "Cultimate",
+      "wallpaper" : "Elega KWGT ",
+      "wallpapername" : "-",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.elega",
+      "widget" : "Elega KWGT ",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=com.playtiveapps.elega"
+    },
+    {
       "authorname" : "Raghav Khurana ",
       "iconpack" : "Beeline Red Icon Pack ",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.alphaone.beeline.red.iconpack",
