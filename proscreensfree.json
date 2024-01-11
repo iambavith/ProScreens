@@ -3,6 +3,34 @@
   "description": "Your app fetched this from a remote endpoint!",
   "setups": [
     {
+      "authorname" : "Redronin",
+      "iconpack" : "Enix Icon Pack",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.lknninex.enix",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/571.png",
+      "title" : "Astronaut",
+      "wallpaper" : "Wallrod Wallpapers",
+      "wallpapername" : "Forest astronaut",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=com.mathyeckerdt.wallrod",
+      "widget" : "Orca for KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=orcaforkwgt.kustom.pack"
+    },
+    {
+      "authorname" : "Setup Boy Sojib",
+      "iconpack" : "Pasty - White Icon",
+      "iconurl" : "https://play.google.com/store/apps/details?id=com.natewren.pastyiconsfree",
+      "launcher" : "Nova Launcher",
+      "launcherurl" : "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "thumbnail" : "https://raw.githubusercontent.com/iambavith/proscrthumb/master/570.png",
+      "title" : "Hidden Panda Setup",
+      "wallpaper" : "WallFAB",
+      "wallpapername" : "Cute 27",
+      "wallpaperurl" : "https://play.google.com/store/apps/details?id=wallfab.dd.walls",
+      "widget" : "Alpha KWGT",
+      "widgeturl" : "https://play.google.com/store/apps/details?id=alpha.cnt.kwgt"
+    },
+    {
       "authorname" : "GOD",
       "iconpack" : "Kecil Icons",
       "iconurl" : "https://play.google.com/store/apps/details?id=com.dreamon.kecil",
